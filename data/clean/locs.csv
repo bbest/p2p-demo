@@ -1,0 +1,10 @@
+loc_id,loc_isr,lon,lat,type,loctype,address,north,south,east,west,establishment,locality,administrative_area_level_2,administrative_area_level_1,country
+Akhziv,"Akhziv, Israel",35.102177,33.048379,establishment,geometric_center,"achziv national park, nahariyya, israel",33.04972798029149,33.04703001970849,35.1035259802915,35.1008280197085,Achziv National Park,Nahariyya,Akko,North District,Israel
+Akko,"Akko, Israel",35.082678,32.933052000000004,locality,approximate,"acre, israel",32.948228,32.885722,35.1103679,35.0658259,NA,Acre,Akko,North District,Israel
+Shikmona,"Shikmona, Israel",34.955621,32.825254,establishment,geometric_center,"haifa, israel",32.8266029802915,32.8239050197085,34.9569699802915,34.9542720197085,NA,Haifa,Haifa,Haifa District,Israel
+Habonim,"Habonim, Israel",34.932704,32.636586,locality,approximate,"habonim, israel",32.642049,32.632275,34.936345,34.9304691,NA,HaBonim,Hadera,Haifa District,Israel
+Sdot Yam,"Sdot Yam, Israel",34.89315,32.492613,locality,approximate,"sdot yam, israel",32.497841,32.487757,34.8984449,34.8867281,NA,Sdot Yam,Hadera,Haifa District,Israel
+Michmoret,"Michmoret, Israel",34.871551,32.406504,locality,approximate,"mikhmoret, israel",32.411167,32.400327,34.88036990000001,34.8649159,NA,Mikhmoret,HaSharon,Center District,Israel
+Rosh Hanikra,"Rosh Hanikra, Israel",35.113455,33.08609,locality,approximate,"rosh hanikra, israel",33.090568,33.081814,35.1223951,35.1089059,NA,Rosh HaNikra,Akko,North District,Israel
+Bat Yam,"Bat Yam, Israel",34.748019,32.013186,locality,approximate,"bat yam, israel",32.033458,31.9931899,34.762192,34.7336431,NA,Bat Yam,NA,Center District,Israel
+Palmachim,"Palmachim, Israel",34.706874,31.932705,locality,approximate,"palmachim, israel",31.936216,31.931392,34.709868,34.702285,NA,Palmachim,Rehovot,Center District,Israel

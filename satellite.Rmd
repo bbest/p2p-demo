@@ -1,0 +1,114 @@
+---
+title: "Satellite"
+author: "Ben Best"
+date: "August 10, 2018"
+output:
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
+```
+
+Which package?
+
+- [rerddap on CRAN](https://cran.r-project.org/web/packages/rerddap)
+  - [Using rerddap to Access Data from ERDDAP Servers](https://cran.r-project.org/web/packages/rerddap/vignettes/Using_rerddap.html)
+
+Which dataset?
+
+- [Google: errdap sst](https://www.google.com.br/search?q=errdap+sst) -> "jplG1SST" / "jplMURSST41mday"
+
+- or [ERDDAP](https://coastwatch.pfeg.noaa.gov/erddap) & search "GHRSST", monthly: "jplMURSST41mday"
+
+## Info on SST
+
+```{r}
+library(tidyverse) # install.packages("rerddap")
+library(rerddap) # install.packages("rerddap")
+library(raster)
+library(leaflet)
+library(dygraphs)
+library(xts)
+library(rerddap)
+library(plotdap)
+select <- dplyr::select
+addLegend <- leaflet::addLegend
+source("functions.R")
+
+# browse('jplMURSST41mday')
+sst_info <- info('jplMURSST41mday')
+sst_info
+```
+
+## Map of SST
+
+Get location:
+
+- CEBIMar offshore: https://www.google.be/maps/@-23.8325471,-45.4236477,17z
+
+Reference:
+
+- [Leaflet for R - Raster Images](http://rstudio.github.io/leaflet/raster.html)
+
+```{r}
+pt <- list(
+  x = -45.4236477, 
+  y = -23.8325471)
+w <- 10 * 0.01 / 2
+box <- list(
+  x = c(round(pt$x, 2) - w, round(pt$x, 2) + w), 
+  y = c(round(pt$y, 2) - w, round(pt$y, 2) + w))
+
+g <- griddap(
+  sst_info, longitude = box$x, latitude = box$y, 
+  time = c("last", "last"), fields = "sst")
+
+g$data %>% head() %>% knitr::kable()
+```
+
+```{r}
+r <- grid_to_raster(g, "sst")
+
+pal <- colorNumeric(colors$temperature, values(r), na.color = "transparent")
+
+leaflet() %>%
+  #addProviderTiles(providers$Esri.OceanBasemap) %>%
+  addProviderTiles(providers$Stamen.TonerLite) %>%
+  addProviderTiles(providers$Stamen.TonerLabels) %>%
+  addRasterImage(r, colors = pal, opacity = 0.8) %>%
+  addMarkers(lng = pt$x, lat = pt$y, label = "CEBIMar") %>%
+  addLegend(pal = pal, values = values(r), title = "SST")
+```
+
+## Timeseries of SST
+
+```{r}
+v <- griddap(
+  sst_info,
+  longitude = c(pt$y, pt$y), latitude = c(pt$x, pt$x), 
+  time = c("2002-06-16", "2018-07-16"), fields = "sst")
+
+v$data %>% head() %>% knitr::kable()
+```
+
+```{r}
+x <- v$data %>%
+  as_tibble() %>%
+  mutate(
+    date = lubridate::as_date(time, "%Y-%m-%dT00:00:00Z")) %>%
+  select(date, sst) %>%
+  arrange(date)
+
+x <- xts(select(x, -date), order.by=x$date)
+
+dygraph(x, main="SST") %>%
+  dyOptions(
+    colors = "red",
+    fillGraph = TRUE, fillAlpha = 0.4) %>% 
+  dyRangeSelector()
+```
+

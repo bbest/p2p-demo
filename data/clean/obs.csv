@@ -1,0 +1,2783 @@
+qrt_id,spp_id,n
+15-F-SK2-C-15,Actinia equina,2
+15-F-SK2-C-2,Anemonia viridis,1
+15-F-SK2-C-4,Anemonia viridis,1
+15-F-SK2-C-5,Anemonia viridis,1
+15-F-SK2-C-9,Anemonia viridis,1
+16-F-SK-C-3,Anemonia viridis,2
+16-F-SK-C-4,Anemonia viridis,1
+16-F-SK-C-13,Anemonia viridis,1
+16-F-HB2-C-8,Anemonia viridis,1
+16-F-SK-E-2,Branchiomma lucullanum,1
+16-F-SK-C-1,Branchiomma lucullanum,1
+16-F-HB2-C-3,Branchiomma lucullanum,1
+16-F-HB2-C-10,Branchiomma lucullanum,1
+16-F-HB2-C-15,Branchiomma lucullanum,1
+16-F-SK-C-3,Cerithium scabridum,2
+16-F-SK-C-8,Cerithium scabridum,3
+16-F-SK-C-11,Cerithium scabridum,2
+15-F-AK-E-3,Chiton,4
+15-F-AK-E-15,Chiton,1
+15-F-AC-E-5,Chiton,1
+16-F-AK-E-3,Chiton,1
+16-F-AK-E-6,Chiton,1
+16-F-AK-E-15,Chiton,3
+16-F-SK-C-14,Conomurex persicus,1
+15-F-SK2-C-6,Dasychone lucullana,1
+16-F-AK-C-2,Dasychone lucullana,1
+15-F-AC-E-2,Eriphia verrucosa,1
+16-F-HB2-E-8,Eriphia verrucosa,1
+15-F-AK-E-15,Fissurellidae,1
+15-F-SY-E-12,Fissurellidae,1
+15-F-PL-C-13,Fissurellidae,1
+15-F-PL-C-14,Fissurellidae,1
+16-F-PL-E-4,Fissurellidae,1
+16-F-PL-E-5,Fissurellidae,1
+16-F-PL-E-8,Fissurellidae,1
+16-F-PL-C-1,Fissurellidae,1
+15-F-AK-E-1,LIMPET,12
+15-F-AK-E-2,LIMPET,2
+15-F-AK-E-3,LIMPET,22
+15-F-AK-E-4,LIMPET,25
+15-F-AK-E-5,LIMPET,11
+15-F-AK-E-6,LIMPET,3
+15-F-AK-E-10,LIMPET,16
+15-F-AK-E-11,LIMPET,28
+15-F-AK-E-15,LIMPET,150
+15-F-AK-C-9,LIMPET,1
+15-F-AC-E-3,LIMPET,9
+15-F-AC-E-4,LIMPET,7
+15-F-AC-E-5,LIMPET,3
+15-F-AC-E-8,LIMPET,12
+15-F-AC-E-9,LIMPET,3
+15-F-AC-E-10,LIMPET,4
+15-F-AC-C-13,LIMPET,1
+15-F-SK-E-8,LIMPET,1
+15-F-SK2-E-4,LIMPET,1
+15-F-SK2-E-9,LIMPET,25
+15-F-SK2-E-10,LIMPET,7
+15-F-SK2-E-11,LIMPET,2
+15-F-SK2-E-14,LIMPET,1
+15-F-SK2-C-3,LIMPET,1
+15-F-HB1-E-1,LIMPET,1
+15-F-HB1-E-3,LIMPET,6
+15-F-HB1-E-5,LIMPET,1
+15-F-HB1-E-6,LIMPET,6
+15-F-HB1-E-7,LIMPET,8
+15-F-HB1-E-8,LIMPET,8
+15-F-HB1-E-9,LIMPET,7
+15-F-HB1-E-10,LIMPET,1
+15-F-HB1-E-11,LIMPET,11
+15-F-HB1-E-15,LIMPET,4
+15-F-HB2-E-1,LIMPET,9
+15-F-HB2-E-6,LIMPET,1
+15-F-HB2-E-12,LIMPET,1
+15-F-HB2-E-14,LIMPET,2
+15-F-HB2-E-15,LIMPET,28
+15-F-SY-E-2,LIMPET,1
+15-F-SY-E-4,LIMPET,1
+15-F-SY-E-11,LIMPET,1
+15-F-SY-E-12,LIMPET,1
+15-F-SY-E-13,LIMPET,2
+15-F-MC2-E-1,LIMPET,1
+15-F-MC2-E-7,LIMPET,1
+15-F-BY-E-4,LIMPET,1
+15-F-BY-E-7,LIMPET,1
+15-F-BY-E-8,LIMPET,1
+15-F-BY-E-9,LIMPET,2
+15-F-BY-E-14,LIMPET,1
+15-F-PL-E-1,LIMPET,9
+15-F-PL-E-2,LIMPET,13
+15-F-PL-E-3,LIMPET,1
+15-F-PL-E-4,LIMPET,10
+15-F-PL-E-5,LIMPET,11
+15-F-PL-E-10,LIMPET,3
+15-F-PL-E-11,LIMPET,1
+15-F-PL-E-12,LIMPET,1
+15-F-PL-C-1,LIMPET,2
+15-F-PL-C-2,LIMPET,35
+15-F-PL-C-9,LIMPET,3
+15-F-PL-C-14,LIMPET,3
+16-F-AK-E-1,LIMPET,18
+16-F-AK-E-2,LIMPET,5
+16-F-AK-E-3,LIMPET,16
+16-F-AK-E-4,LIMPET,26
+16-F-AK-E-5,LIMPET,43
+16-F-AK-E-6,LIMPET,45
+16-F-AK-E-8,LIMPET,4
+16-F-AK-E-11,LIMPET,17
+16-F-AK-E-12,LIMPET,55
+16-F-AK-E-14,LIMPET,13
+16-F-AK-E-15,LIMPET,130
+16-F-SK-E-1,LIMPET,2
+16-F-SK-E-8,LIMPET,1
+16-F-SK-E-10,LIMPET,1
+16-F-SK-E-12,LIMPET,2
+16-F-HB2-E-1,LIMPET,1
+16-F-HB2-E-2,LIMPET,12
+16-F-HB2-E-9,LIMPET,8
+16-F-HB2-E-13,LIMPET,2
+16-F-HB2-E-14,LIMPET,1
+16-F-SY-E-2,LIMPET,3
+16-F-SY-E-3,LIMPET,1
+16-F-SY-E-4,LIMPET,1
+16-F-SY-E-5,LIMPET,1
+16-F-SY-E-9,LIMPET,3
+16-F-SY-E-15,LIMPET,13
+16-F-BY-E-9,LIMPET,1
+16-F-BY-E-10,LIMPET,3
+16-F-BY-E-11,LIMPET,1
+16-F-BY-E-15,LIMPET,5
+16-F-PL-E-2,LIMPET,10
+16-F-PL-E-3,LIMPET,14
+16-F-PL-E-4,LIMPET,5
+16-F-PL-E-8,LIMPET,7
+16-F-PL-E-10,LIMPET,1
+16-F-PL-E-12,LIMPET,2
+16-F-PL-E-13,LIMPET,2
+16-F-PL-E-15,LIMPET,1
+16-F-PL-C-1,LIMPET,2
+16-F-PL-C-7,LIMPET,1
+16-F-PL-C-11,LIMPET,16
+15-F-AK-E-14,Malleus regula,1
+16-F-PL-E-2,Malleus regula,4
+16-F-PL-E-4,Malleus regula,3
+16-F-PL-E-9,Malleus regula,1
+16-F-PL-E-11,Malleus regula,1
+16-F-AK-C-9,Muricopsis cristata,1
+16-F-AK-C-1,Ostrea edulis,1
+16-F-PL-C-15,Ostrea edulis,4
+15-F-AC-E-4,Ostrea edulis__1,2
+15-F-AC-E-14,Ostrea edulis__1,1
+15-F-AC-C-4,Ostrea edulis__1,1
+16-F-AK-E-6,Ostrea edulis__1,1
+16-F-AK-E-13,Ostrea edulis__1,1
+16-F-SY-E-13,Ostrea edulis__1,2
+16-F-PL-E-5,Ostrea edulis__1,5
+16-F-PL-E-9,Ostrea edulis__1,1
+16-F-PL-E-11,Ostrea edulis__1,3
+16-F-PL-E-13,Ostrea edulis__1,1
+15-F-AC-E-12,Pachygrapsus transversus,1
+15-F-SK-E-4,Pachygrapsus transversus,1
+15-F-SK-E-5,Pachygrapsus transversus,2
+15-F-SK-E-6,Pachygrapsus transversus,1
+15-F-SK-E-8,Pachygrapsus transversus,1
+15-F-SK-E-9,Pachygrapsus transversus,1
+15-F-SK-E-12,Pachygrapsus transversus,2
+15-F-SK-E-13,Pachygrapsus transversus,2
+15-F-SK-E-14,Pachygrapsus transversus,1
+15-F-SK2-E-5,Pachygrapsus transversus,1
+15-F-SK2-E-7,Pachygrapsus transversus,1
+15-F-SK2-E-11,Pachygrapsus transversus,1
+15-F-HB1-E-6,Pachygrapsus transversus,1
+15-F-HB1-E-9,Pachygrapsus transversus,1
+15-F-HB1-E-11,Pachygrapsus transversus,1
+15-F-HB2-E-13,Pachygrapsus transversus,1
+15-F-SY-E-3,Pachygrapsus transversus,1
+15-F-SY-E-7,Pachygrapsus transversus,1
+15-F-BY-E-9,Pachygrapsus transversus,1
+15-F-PL-E-2,Pachygrapsus transversus,1
+16-F-AK-C-3,Pachygrapsus transversus,1
+16-F-AK-C-4,Pachygrapsus transversus,3
+16-F-AK-C-8,Pachygrapsus transversus,1
+16-F-AK-C-9,Pachygrapsus transversus,1
+16-F-SK-E-1,Pachygrapsus transversus,2
+16-F-SK-E-14,Pachygrapsus transversus,1
+16-F-SK-E-15,Pachygrapsus transversus,1
+16-F-SK-C-9,Pachygrapsus transversus,1
+16-F-HB2-C-3,Pachygrapsus transversus,1
+16-F-HB2-C-15,Pachygrapsus transversus,1
+16-F-PL-E-2,Pachygrapsus transversus,1
+16-F-PL-E-3,Pachygrapsus transversus,2
+16-F-PL-E-5,Pachygrapsus transversus,4
+16-F-PL-E-6,Pachygrapsus transversus,1
+16-F-PL-E-7,Pachygrapsus transversus,2
+16-F-PL-E-8,Pachygrapsus transversus,2
+16-F-PL-E-9,Pachygrapsus transversus,2
+16-F-PL-E-15,Pachygrapsus transversus,1
+16-F-AK-E-2,PAGURIDAE,5
+16-F-AK-C-1,PAGURIDAE,1
+16-F-AK-C-2,PAGURIDAE,2
+16-F-AK-C-4,PAGURIDAE,1
+16-F-SK-C-7,PAGURIDAE,2
+16-F-SK-C-8,PAGURIDAE,1
+16-F-SK-C-13,PAGURIDAE,2
+16-F-AK-C-5,Patella spp_,1
+16-F-AK-C-12,Patella spp_,1
+15-F-SK-C-2,Pinctada imbricata radiata,1
+15-F-SY-C-11,Pinctada imbricata radiata,1
+15-F-BY-E-13,Pinctada imbricata radiata,1
+15-F-PL-E-5,Pinctada imbricata radiata,1
+15-F-PL-C-11,Pinctada imbricata radiata,2
+16-F-AK-E-5,Pinctada imbricata radiata,1
+16-F-SK-C-1,Pinctada imbricata radiata,1
+16-F-SK-C-9,Pinctada imbricata radiata,1
+16-F-SY-E-8,Pinctada imbricata radiata,1
+16-F-SY-C-6,Pinctada imbricata radiata,1
+16-F-SY-C-8,Pinctada imbricata radiata,2
+16-F-PL-E-7,Pinctada imbricata radiata,1
+16-F-PL-E-9,Pinctada imbricata radiata,2
+16-F-PL-E-10,Pinctada imbricata radiata,3
+16-F-PL-C-5,Pinctada imbricata radiata,2
+16-F-PL-C-6,Pinctada imbricata radiata,1
+16-F-PL-C-10,Pinctada imbricata radiata,3
+16-F-SK-C-5,POLYCHAETA,1
+15-F-AK-E-2,Brachidontes pharaonis,1
+15-F-AK-E-3,Brachidontes pharaonis,1
+15-F-AK-E-4,Brachidontes pharaonis,0.1
+15-F-AK-E-6,Brachidontes pharaonis,1.5
+15-F-AK-E-7,Brachidontes pharaonis,1
+15-F-AK-E-9,Brachidontes pharaonis,2
+15-F-AK-E-12,Brachidontes pharaonis,1
+15-F-AK-E-13,Brachidontes pharaonis,2
+15-F-AK-E-15,Brachidontes pharaonis,2
+15-F-AK-C-6,Brachidontes pharaonis,2
+15-F-AK-C-11,Brachidontes pharaonis,2
+15-F-AK-C-12,Brachidontes pharaonis,8
+15-F-AK-C-13,Brachidontes pharaonis,30
+15-F-AK-C-14,Brachidontes pharaonis,20
+15-F-AK-C-15,Brachidontes pharaonis,10
+15-F-AC-E-1,Brachidontes pharaonis,3
+15-F-AC-E-3,Brachidontes pharaonis,15
+15-F-AC-E-4,Brachidontes pharaonis,5
+15-F-AC-E-5,Brachidontes pharaonis,5
+15-F-AC-E-6,Brachidontes pharaonis,20
+15-F-AC-E-7,Brachidontes pharaonis,5
+15-F-AC-E-8,Brachidontes pharaonis,4
+15-F-AC-E-9,Brachidontes pharaonis,4
+15-F-AC-E-10,Brachidontes pharaonis,1
+15-F-AC-E-11,Brachidontes pharaonis,12
+15-F-AC-E-12,Brachidontes pharaonis,5
+15-F-AC-E-13,Brachidontes pharaonis,5
+15-F-AC-E-14,Brachidontes pharaonis,3
+15-F-AC-E-15,Brachidontes pharaonis,90
+15-F-AC-C-1,Brachidontes pharaonis,7
+15-F-AC-C-2,Brachidontes pharaonis,25
+15-F-AC-C-3,Brachidontes pharaonis,10
+15-F-AC-C-4,Brachidontes pharaonis,5
+15-F-AC-C-5,Brachidontes pharaonis,70
+15-F-AC-C-6,Brachidontes pharaonis,60
+15-F-AC-C-7,Brachidontes pharaonis,60
+15-F-AC-C-8,Brachidontes pharaonis,80
+15-F-AC-C-11,Brachidontes pharaonis,80
+15-F-AC-C-12,Brachidontes pharaonis,80
+15-F-AC-C-13,Brachidontes pharaonis,85
+15-F-AC-C-14,Brachidontes pharaonis,90
+15-F-AC-C-15,Brachidontes pharaonis,85
+15-F-SK-E-1,Brachidontes pharaonis,20
+15-F-SK-E-4,Brachidontes pharaonis,10
+15-F-SK-E-5,Brachidontes pharaonis,5
+15-F-SK-E-8,Brachidontes pharaonis,1
+15-F-SK-E-10,Brachidontes pharaonis,1
+15-F-SK-E-15,Brachidontes pharaonis,20
+15-F-SK-C-1,Brachidontes pharaonis,2
+15-F-SK-C-2,Brachidontes pharaonis,1
+15-F-SK-C-3,Brachidontes pharaonis,28
+15-F-SK-C-4,Brachidontes pharaonis,2
+15-F-SK-C-5,Brachidontes pharaonis,1
+15-F-SK-C-6,Brachidontes pharaonis,1
+15-F-SK-C-7,Brachidontes pharaonis,5
+15-F-SK-C-8,Brachidontes pharaonis,4
+15-F-SK-C-9,Brachidontes pharaonis,6
+15-F-SK-C-10,Brachidontes pharaonis,1
+15-F-SK-C-11,Brachidontes pharaonis,1
+15-F-SK-C-12,Brachidontes pharaonis,2
+15-F-SK-C-13,Brachidontes pharaonis,50
+15-F-SK-C-14,Brachidontes pharaonis,20
+15-F-SK-C-15,Brachidontes pharaonis,2
+15-F-SK2-E-6,Brachidontes pharaonis,1
+15-F-SK2-E-8,Brachidontes pharaonis,1
+15-F-SK2-E-10,Brachidontes pharaonis,2
+15-F-SK2-E-11,Brachidontes pharaonis,1
+15-F-SK2-E-15,Brachidontes pharaonis,1
+15-F-SK2-C-1,Brachidontes pharaonis,4
+15-F-SK2-C-2,Brachidontes pharaonis,5
+15-F-SK2-C-3,Brachidontes pharaonis,4
+15-F-SK2-C-5,Brachidontes pharaonis,1
+15-F-SK2-C-6,Brachidontes pharaonis,1
+15-F-SK2-C-7,Brachidontes pharaonis,2
+15-F-SK2-C-8,Brachidontes pharaonis,75
+15-F-SK2-C-9,Brachidontes pharaonis,4
+15-F-SK2-C-10,Brachidontes pharaonis,2
+15-F-SK2-C-12,Brachidontes pharaonis,10
+15-F-SK2-C-13,Brachidontes pharaonis,30
+15-F-SK2-C-14,Brachidontes pharaonis,3
+15-F-HB1-E-2,Brachidontes pharaonis,1
+15-F-HB1-E-7,Brachidontes pharaonis,1
+15-F-HB1-E-10,Brachidontes pharaonis,2
+15-F-HB1-E-11,Brachidontes pharaonis,1
+15-F-HB1-E-12,Brachidontes pharaonis,5
+15-F-HB1-E-13,Brachidontes pharaonis,4
+15-F-HB1-E-14,Brachidontes pharaonis,1
+15-F-HB1-E-15,Brachidontes pharaonis,2
+15-F-HB1-C-1,Brachidontes pharaonis,5
+15-F-HB1-C-2,Brachidontes pharaonis,2
+15-F-HB1-C-3,Brachidontes pharaonis,40
+15-F-HB1-C-4,Brachidontes pharaonis,5
+15-F-HB1-C-5,Brachidontes pharaonis,20
+15-F-HB1-C-6,Brachidontes pharaonis,15
+15-F-HB1-C-7,Brachidontes pharaonis,5
+15-F-HB1-C-8,Brachidontes pharaonis,2
+15-F-HB1-C-12,Brachidontes pharaonis,10
+15-F-HB1-C-13,Brachidontes pharaonis,5
+15-F-HB1-C-14,Brachidontes pharaonis,80
+15-F-HB1-C-15,Brachidontes pharaonis,85
+15-F-HB2-E-6,Brachidontes pharaonis,1
+15-F-HB2-E-7,Brachidontes pharaonis,3
+15-F-HB2-E-13,Brachidontes pharaonis,1
+15-F-HB2-C-3,Brachidontes pharaonis,35
+15-F-HB2-C-4,Brachidontes pharaonis,80
+15-F-HB2-C-5,Brachidontes pharaonis,75
+15-F-HB2-C-6,Brachidontes pharaonis,70
+15-F-HB2-C-7,Brachidontes pharaonis,60
+15-F-HB2-C-8,Brachidontes pharaonis,85
+15-F-HB2-C-9,Brachidontes pharaonis,85
+15-F-HB2-C-10,Brachidontes pharaonis,20
+15-F-HB2-C-11,Brachidontes pharaonis,40
+15-F-HB2-C-12,Brachidontes pharaonis,90
+15-F-HB2-C-13,Brachidontes pharaonis,70
+15-F-HB2-C-14,Brachidontes pharaonis,30
+15-F-HB2-C-15,Brachidontes pharaonis,40
+15-F-SY-E-3,Brachidontes pharaonis,2
+15-F-SY-E-4,Brachidontes pharaonis,3
+15-F-SY-E-5,Brachidontes pharaonis,15
+15-F-SY-E-6,Brachidontes pharaonis,15
+15-F-SY-E-7,Brachidontes pharaonis,20
+15-F-SY-E-8,Brachidontes pharaonis,5
+15-F-SY-E-9,Brachidontes pharaonis,1
+15-F-SY-E-11,Brachidontes pharaonis,1
+15-F-SY-E-12,Brachidontes pharaonis,2
+15-F-SY-C-1,Brachidontes pharaonis,95
+15-F-SY-C-2,Brachidontes pharaonis,95
+15-F-SY-C-3,Brachidontes pharaonis,20
+15-F-SY-C-4,Brachidontes pharaonis,15
+15-F-SY-C-5,Brachidontes pharaonis,85
+15-F-SY-C-6,Brachidontes pharaonis,50
+15-F-SY-C-7,Brachidontes pharaonis,60
+15-F-SY-C-8,Brachidontes pharaonis,100
+15-F-SY-C-9,Brachidontes pharaonis,95
+15-F-SY-C-10,Brachidontes pharaonis,95
+15-F-SY-C-11,Brachidontes pharaonis,90
+15-F-SY-C-12,Brachidontes pharaonis,90
+15-F-SY-C-13,Brachidontes pharaonis,95
+15-F-SY-C-14,Brachidontes pharaonis,95
+15-F-SY-C-15,Brachidontes pharaonis,95
+15-F-MC2-E-9,Brachidontes pharaonis,2
+15-F-MC2-E-10,Brachidontes pharaonis,7
+15-F-MC2-E-11,Brachidontes pharaonis,6
+15-F-MC2-E-12,Brachidontes pharaonis,1
+15-F-MC2-E-13,Brachidontes pharaonis,60
+15-F-MC2-E-14,Brachidontes pharaonis,3
+15-F-MC2-E-15,Brachidontes pharaonis,1
+15-F-MC2-C-1,Brachidontes pharaonis,60
+15-F-MC2-C-2,Brachidontes pharaonis,10
+15-F-MC2-C-3,Brachidontes pharaonis,1
+15-F-MC2-C-4,Brachidontes pharaonis,2
+15-F-MC2-C-5,Brachidontes pharaonis,20
+15-F-MC2-C-6,Brachidontes pharaonis,90
+15-F-MC2-C-7,Brachidontes pharaonis,70
+15-F-MC2-C-8,Brachidontes pharaonis,90
+15-F-MC2-C-9,Brachidontes pharaonis,90
+15-F-MC2-C-10,Brachidontes pharaonis,95
+15-F-MC2-C-11,Brachidontes pharaonis,75
+15-F-MC2-C-12,Brachidontes pharaonis,90
+15-F-MC2-C-13,Brachidontes pharaonis,30
+15-F-MC2-C-14,Brachidontes pharaonis,85
+15-F-MC2-C-15,Brachidontes pharaonis,90
+15-F-BY-E-5,Brachidontes pharaonis,4
+15-F-BY-E-7,Brachidontes pharaonis,15
+15-F-BY-E-8,Brachidontes pharaonis,1
+15-F-BY-E-10,Brachidontes pharaonis,5
+15-F-BY-E-12,Brachidontes pharaonis,1
+15-F-BY-C-1,Brachidontes pharaonis,5
+15-F-BY-C-2,Brachidontes pharaonis,10
+15-F-BY-C-9,Brachidontes pharaonis,10
+15-F-BY-C-11,Brachidontes pharaonis,30
+15-F-BY-C-12,Brachidontes pharaonis,30
+15-F-BY-C-13,Brachidontes pharaonis,20
+15-F-BY-C-15,Brachidontes pharaonis,15
+15-F-PL-E-1,Brachidontes pharaonis,80
+15-F-PL-E-2,Brachidontes pharaonis,70
+15-F-PL-E-3,Brachidontes pharaonis,100
+15-F-PL-E-4,Brachidontes pharaonis,95
+15-F-PL-E-5,Brachidontes pharaonis,70
+15-F-PL-E-6,Brachidontes pharaonis,100
+15-F-PL-E-7,Brachidontes pharaonis,65
+15-F-PL-E-8,Brachidontes pharaonis,100
+15-F-PL-E-9,Brachidontes pharaonis,100
+15-F-PL-E-10,Brachidontes pharaonis,100
+15-F-PL-E-11,Brachidontes pharaonis,85
+15-F-PL-E-12,Brachidontes pharaonis,70
+15-F-PL-E-13,Brachidontes pharaonis,70
+15-F-PL-E-14,Brachidontes pharaonis,65
+15-F-PL-E-15,Brachidontes pharaonis,90
+15-F-PL-C-1,Brachidontes pharaonis,75
+15-F-PL-C-2,Brachidontes pharaonis,85
+15-F-PL-C-3,Brachidontes pharaonis,100
+15-F-PL-C-4,Brachidontes pharaonis,15
+15-F-PL-C-5,Brachidontes pharaonis,85
+15-F-PL-C-6,Brachidontes pharaonis,7
+15-F-PL-C-7,Brachidontes pharaonis,5
+15-F-PL-C-8,Brachidontes pharaonis,32
+15-F-PL-C-9,Brachidontes pharaonis,20
+15-F-PL-C-10,Brachidontes pharaonis,12
+15-F-PL-C-11,Brachidontes pharaonis,6
+15-F-PL-C-12,Brachidontes pharaonis,50
+15-F-PL-C-13,Brachidontes pharaonis,15
+15-F-PL-C-14,Brachidontes pharaonis,50
+15-F-PL-C-15,Brachidontes pharaonis,70
+16-F-SK-E-1,Brachidontes pharaonis,1
+16-F-SK-E-4,Brachidontes pharaonis,1
+16-F-SK-E-10,Brachidontes pharaonis,1
+16-F-SK-E-12,Brachidontes pharaonis,2
+16-F-SK-E-14,Brachidontes pharaonis,5
+16-F-SK-E-15,Brachidontes pharaonis,5
+16-F-SK-C-12,Brachidontes pharaonis,0.5
+16-F-SK-C-14,Brachidontes pharaonis,2
+16-F-HB2-E-2,Brachidontes pharaonis,2
+16-F-HB2-E-9,Brachidontes pharaonis,2
+16-F-HB2-E-10,Brachidontes pharaonis,1
+16-F-HB2-E-11,Brachidontes pharaonis,1
+16-F-HB2-E-12,Brachidontes pharaonis,1
+16-F-HB2-E-13,Brachidontes pharaonis,1
+16-F-HB2-E-14,Brachidontes pharaonis,1
+16-F-SY-E-6,Brachidontes pharaonis,0.1
+16-F-SY-E-10,Brachidontes pharaonis,0.1
+16-F-SY-E-13,Brachidontes pharaonis,0.1
+16-F-SY-C-2,Brachidontes pharaonis,1
+16-F-SY-C-6,Brachidontes pharaonis,1
+16-F-SY-C-7,Brachidontes pharaonis,1
+16-F-SY-C-10,Brachidontes pharaonis,1
+16-F-BY-E-9,Brachidontes pharaonis,0.1
+16-F-PL-E-1,Brachidontes pharaonis,0.5
+16-F-PL-E-2,Brachidontes pharaonis,1
+16-F-PL-E-3,Brachidontes pharaonis,0.5
+16-F-PL-E-4,Brachidontes pharaonis,0.5
+16-F-PL-E-5,Brachidontes pharaonis,3
+16-F-PL-E-9,Brachidontes pharaonis,0.5
+16-F-PL-E-10,Brachidontes pharaonis,0.5
+16-F-PL-E-11,Brachidontes pharaonis,1
+16-F-PL-E-12,Brachidontes pharaonis,0.5
+16-F-PL-E-14,Brachidontes pharaonis,0.5
+16-F-PL-C-5,Brachidontes pharaonis,3
+16-F-PL-C-6,Brachidontes pharaonis,1
+16-F-PL-C-8,Brachidontes pharaonis,1
+16-F-PL-C-10,Brachidontes pharaonis,0.5
+16-F-PL-C-12,Brachidontes pharaonis,1
+16-F-PL-C-15,Brachidontes pharaonis,2
+15-F-AK-E-1,CHTHAMALIDAE,1
+15-F-AK-E-4,CHTHAMALIDAE,0.5
+15-F-AK-E-15,CHTHAMALIDAE,1
+15-F-AC-E-10,CHTHAMALIDAE,0.1
+15-F-SK2-C-3,CHTHAMALIDAE,3
+15-F-HB1-E-6,CHTHAMALIDAE,0.1
+15-F-HB1-E-7,CHTHAMALIDAE,0.8
+15-F-HB1-E-11,CHTHAMALIDAE,1
+15-F-HB1-E-13,CHTHAMALIDAE,0.5
+15-F-HB2-E-1,CHTHAMALIDAE,1
+15-F-HB2-E-6,CHTHAMALIDAE,1
+15-F-HB2-E-8,CHTHAMALIDAE,1
+15-F-SY-E-2,CHTHAMALIDAE,0.5
+15-F-SY-E-12,CHTHAMALIDAE,0.5
+15-F-PL-E-2,CHTHAMALIDAE,0.5
+15-F-PL-E-4,CHTHAMALIDAE,2
+15-F-PL-E-5,CHTHAMALIDAE,1
+15-F-PL-E-7,CHTHAMALIDAE,2
+15-F-PL-C-2,CHTHAMALIDAE,2
+16-F-AK-E-1,CHTHAMALIDAE,1.5
+16-F-AK-E-2,CHTHAMALIDAE,0.5
+16-F-AK-E-3,CHTHAMALIDAE,0.5
+16-F-AK-E-4,CHTHAMALIDAE,1
+16-F-AK-E-5,CHTHAMALIDAE,0.5
+16-F-AK-E-12,CHTHAMALIDAE,2
+16-F-AK-E-15,CHTHAMALIDAE,0.5
+16-F-HB2-C-9,CHTHAMALIDAE,0.1
+16-F-SY-E-2,CHTHAMALIDAE,0.1
+16-F-SY-E-4,CHTHAMALIDAE,0.5
+16-F-SY-E-10,CHTHAMALIDAE,0.1
+16-F-SY-E-13,CHTHAMALIDAE,0.1
+16-F-SY-E-15,CHTHAMALIDAE,2
+16-F-BY-E-1,CHTHAMALIDAE,0.5
+16-F-BY-E-7,CHTHAMALIDAE,1
+16-F-BY-E-8,CHTHAMALIDAE,0.5
+16-F-BY-E-9,CHTHAMALIDAE,1
+16-F-BY-E-10,CHTHAMALIDAE,0.5
+16-F-BY-E-11,CHTHAMALIDAE,0.5
+16-F-BY-E-14,CHTHAMALIDAE,1
+16-F-BY-E-15,CHTHAMALIDAE,5
+16-F-PL-E-1,CHTHAMALIDAE,0.5
+16-F-PL-E-2,CHTHAMALIDAE,1
+16-F-PL-E-3,CHTHAMALIDAE,1
+16-F-PL-E-4,CHTHAMALIDAE,0.5
+16-F-PL-E-7,CHTHAMALIDAE,0.5
+16-F-PL-E-8,CHTHAMALIDAE,0.5
+16-F-PL-E-10,CHTHAMALIDAE,3
+16-F-PL-E-15,CHTHAMALIDAE,1
+15-F-AK-E-2,Dendropoma petraeum__1,2
+15-F-AK-E-3,Dendropoma petraeum__1,6
+15-F-AK-E-4,Dendropoma petraeum__1,6
+15-F-AK-E-5,Dendropoma petraeum__1,1
+15-F-AK-E-15,Dendropoma petraeum__1,3.5
+15-F-SK2-E-7,Dendropoma petraeum__1,1
+16-F-AK-E-4,Dendropoma petraeum__1,3
+16-F-AK-E-5,Dendropoma petraeum__1,2
+16-F-PL-E-5,Oculina patagonica,0.5
+15-F-AK-E-1,Vermetus triquetrus,20
+15-F-AK-E-2,Vermetus triquetrus,50
+15-F-AK-E-3,Vermetus triquetrus,60
+15-F-AK-E-4,Vermetus triquetrus,50
+15-F-AK-E-5,Vermetus triquetrus,55
+15-F-AK-E-6,Vermetus triquetrus,80
+15-F-AK-E-7,Vermetus triquetrus,50
+15-F-AK-E-8,Vermetus triquetrus,40
+15-F-AK-E-9,Vermetus triquetrus,60
+15-F-AK-E-10,Vermetus triquetrus,30
+15-F-AK-E-11,Vermetus triquetrus,30
+15-F-AK-E-12,Vermetus triquetrus,10
+15-F-AK-E-13,Vermetus triquetrus,60
+15-F-AK-E-14,Vermetus triquetrus,10
+15-F-AK-C-3,Vermetus triquetrus,2
+15-F-AK-C-4,Vermetus triquetrus,10
+15-F-AK-C-5,Vermetus triquetrus,2
+15-F-AK-C-6,Vermetus triquetrus,15
+15-F-AK-C-7,Vermetus triquetrus,5
+15-F-AK-C-8,Vermetus triquetrus,8
+15-F-AK-C-9,Vermetus triquetrus,80
+15-F-AK-C-10,Vermetus triquetrus,85
+15-F-AK-C-11,Vermetus triquetrus,10
+15-F-AK-C-12,Vermetus triquetrus,75
+15-F-AK-C-13,Vermetus triquetrus,70
+15-F-AK-C-14,Vermetus triquetrus,60
+15-F-AK-C-15,Vermetus triquetrus,70
+15-F-AC-E-1,Vermetus triquetrus,10
+15-F-AC-E-2,Vermetus triquetrus,20
+15-F-AC-E-3,Vermetus triquetrus,45
+15-F-AC-E-4,Vermetus triquetrus,40
+15-F-AC-E-5,Vermetus triquetrus,35
+15-F-AC-E-6,Vermetus triquetrus,1
+15-F-AC-E-7,Vermetus triquetrus,20
+15-F-AC-E-8,Vermetus triquetrus,50
+15-F-AC-E-9,Vermetus triquetrus,6
+15-F-AC-E-10,Vermetus triquetrus,40
+15-F-AC-E-11,Vermetus triquetrus,30
+15-F-AC-E-12,Vermetus triquetrus,3
+15-F-AC-E-13,Vermetus triquetrus,2
+15-F-AC-C-1,Vermetus triquetrus,20
+15-F-AC-C-2,Vermetus triquetrus,20
+15-F-AC-C-3,Vermetus triquetrus,30
+15-F-AC-C-4,Vermetus triquetrus,70
+15-F-AC-C-5,Vermetus triquetrus,8
+15-F-AC-C-6,Vermetus triquetrus,10
+15-F-AC-C-7,Vermetus triquetrus,25
+15-F-AC-C-8,Vermetus triquetrus,15
+15-F-AC-C-9,Vermetus triquetrus,20
+15-F-AC-C-11,Vermetus triquetrus,15
+15-F-AC-C-14,Vermetus triquetrus,6
+15-F-AC-C-15,Vermetus triquetrus,1
+15-F-SK-E-1,Vermetus triquetrus,4
+15-F-SK-E-2,Vermetus triquetrus,10
+15-F-SK-E-3,Vermetus triquetrus,25
+15-F-SK-E-4,Vermetus triquetrus,2
+15-F-SK-E-5,Vermetus triquetrus,1
+15-F-SK-E-6,Vermetus triquetrus,2
+15-F-SK-E-7,Vermetus triquetrus,1
+15-F-SK-E-8,Vermetus triquetrus,1
+15-F-SK-E-9,Vermetus triquetrus,1
+15-F-SK-E-10,Vermetus triquetrus,3
+15-F-SK-E-11,Vermetus triquetrus,5
+15-F-SK-E-12,Vermetus triquetrus,2
+15-F-SK-E-13,Vermetus triquetrus,1
+15-F-SK-E-14,Vermetus triquetrus,1
+15-F-SK-E-15,Vermetus triquetrus,5
+15-F-SK-C-1,Vermetus triquetrus,5
+15-F-SK-C-2,Vermetus triquetrus,6
+15-F-SK-C-3,Vermetus triquetrus,1
+15-F-SK-C-4,Vermetus triquetrus,1
+15-F-SK-C-5,Vermetus triquetrus,2
+15-F-SK-C-7,Vermetus triquetrus,1
+15-F-SK-C-8,Vermetus triquetrus,1
+15-F-SK-C-9,Vermetus triquetrus,1
+15-F-SK-C-10,Vermetus triquetrus,1
+15-F-SK-C-11,Vermetus triquetrus,3
+15-F-SK-C-12,Vermetus triquetrus,8
+15-F-SK-C-13,Vermetus triquetrus,2
+15-F-SK-C-14,Vermetus triquetrus,3
+15-F-SK-C-15,Vermetus triquetrus,2
+15-F-SK2-E-1,Vermetus triquetrus,3
+15-F-SK2-E-2,Vermetus triquetrus,1
+15-F-SK2-E-3,Vermetus triquetrus,6
+15-F-SK2-E-4,Vermetus triquetrus,3
+15-F-SK2-E-8,Vermetus triquetrus,1
+15-F-SK2-E-9,Vermetus triquetrus,1
+15-F-SK2-E-11,Vermetus triquetrus,1
+15-F-SK2-E-15,Vermetus triquetrus,3
+15-F-SK2-C-5,Vermetus triquetrus,0.5
+15-F-SK2-C-6,Vermetus triquetrus,1
+15-F-SK2-C-9,Vermetus triquetrus,2
+15-F-SK2-C-10,Vermetus triquetrus,1
+15-F-SK2-C-11,Vermetus triquetrus,1
+15-F-SK2-C-12,Vermetus triquetrus,1
+15-F-SK2-C-14,Vermetus triquetrus,1
+15-F-SK2-C-15,Vermetus triquetrus,1
+15-F-HB1-E-1,Vermetus triquetrus,1
+15-F-HB1-E-2,Vermetus triquetrus,1
+15-F-HB1-E-3,Vermetus triquetrus,6
+15-F-HB1-E-5,Vermetus triquetrus,2
+15-F-HB1-E-6,Vermetus triquetrus,3
+15-F-HB1-E-7,Vermetus triquetrus,1
+15-F-HB1-E-8,Vermetus triquetrus,1
+15-F-HB1-E-9,Vermetus triquetrus,1
+15-F-HB1-E-10,Vermetus triquetrus,2
+15-F-HB1-E-11,Vermetus triquetrus,6
+15-F-HB1-E-12,Vermetus triquetrus,1
+15-F-HB1-E-13,Vermetus triquetrus,3
+15-F-HB1-E-14,Vermetus triquetrus,1
+15-F-HB1-E-15,Vermetus triquetrus,8
+15-F-HB1-C-1,Vermetus triquetrus,1
+15-F-HB1-C-2,Vermetus triquetrus,2
+15-F-HB1-C-3,Vermetus triquetrus,5
+15-F-HB1-C-4,Vermetus triquetrus,10
+15-F-HB1-C-5,Vermetus triquetrus,8
+15-F-HB1-C-6,Vermetus triquetrus,10
+15-F-HB1-C-7,Vermetus triquetrus,5
+15-F-HB1-C-8,Vermetus triquetrus,10
+15-F-HB1-C-9,Vermetus triquetrus,8
+15-F-HB1-C-10,Vermetus triquetrus,10
+15-F-HB1-C-11,Vermetus triquetrus,10
+15-F-HB1-C-12,Vermetus triquetrus,1
+15-F-HB1-C-13,Vermetus triquetrus,1
+15-F-HB1-C-14,Vermetus triquetrus,1
+15-F-HB2-E-2,Vermetus triquetrus,0.5
+15-F-HB2-E-3,Vermetus triquetrus,1
+15-F-HB2-E-4,Vermetus triquetrus,0.5
+15-F-HB2-E-5,Vermetus triquetrus,0.5
+15-F-HB2-E-7,Vermetus triquetrus,3
+15-F-HB2-E-10,Vermetus triquetrus,0.5
+15-F-HB2-E-11,Vermetus triquetrus,0.5
+15-F-HB2-C-9,Vermetus triquetrus,2
+15-F-HB2-C-10,Vermetus triquetrus,2
+15-F-HB2-C-11,Vermetus triquetrus,1
+15-F-HB2-C-13,Vermetus triquetrus,2
+15-F-HB2-C-14,Vermetus triquetrus,1
+15-F-HB2-C-15,Vermetus triquetrus,1
+15-F-SY-E-2,Vermetus triquetrus,1
+15-F-SY-E-5,Vermetus triquetrus,1
+15-F-SY-E-6,Vermetus triquetrus,0.5
+15-F-SY-E-7,Vermetus triquetrus,2
+15-F-SY-E-8,Vermetus triquetrus,1
+15-F-SY-E-10,Vermetus triquetrus,1
+15-F-SY-E-11,Vermetus triquetrus,1
+15-F-SY-E-15,Vermetus triquetrus,1
+15-F-SY-C-1,Vermetus triquetrus,1
+15-F-MC2-E-1,Vermetus triquetrus,2
+15-F-MC2-E-2,Vermetus triquetrus,2
+15-F-MC2-E-3,Vermetus triquetrus,1
+15-F-MC2-E-5,Vermetus triquetrus,0.5
+15-F-MC2-E-11,Vermetus triquetrus,1
+15-F-MC2-E-12,Vermetus triquetrus,1
+15-F-MC2-E-13,Vermetus triquetrus,2
+15-F-MC2-E-14,Vermetus triquetrus,2
+15-F-MC2-E-15,Vermetus triquetrus,3
+15-F-MC2-C-4,Vermetus triquetrus,1
+15-F-MC2-C-11,Vermetus triquetrus,1
+15-F-MC2-C-13,Vermetus triquetrus,2
+15-F-MC2-C-15,Vermetus triquetrus,1
+15-F-BY-E-1,Vermetus triquetrus,0.5
+15-F-BY-E-2,Vermetus triquetrus,1
+15-F-BY-E-3,Vermetus triquetrus,0.5
+15-F-BY-E-4,Vermetus triquetrus,0.5
+15-F-BY-E-6,Vermetus triquetrus,1
+15-F-BY-E-8,Vermetus triquetrus,3
+15-F-BY-E-9,Vermetus triquetrus,1
+15-F-BY-E-11,Vermetus triquetrus,2
+15-F-BY-E-14,Vermetus triquetrus,2
+15-F-BY-C-1,Vermetus triquetrus,1
+15-F-PL-E-5,Vermetus triquetrus,1
+15-F-PL-E-7,Vermetus triquetrus,1
+15-F-PL-C-7,Vermetus triquetrus,1
+15-F-PL-C-10,Vermetus triquetrus,1
+16-F-AK-E-1,Vermetus triquetrus,60
+16-F-AK-E-2,Vermetus triquetrus,60
+16-F-AK-E-3,Vermetus triquetrus,15
+16-F-AK-E-4,Vermetus triquetrus,25
+16-F-AK-E-5,Vermetus triquetrus,35
+16-F-AK-E-6,Vermetus triquetrus,40
+16-F-AK-E-7,Vermetus triquetrus,20
+16-F-AK-E-8,Vermetus triquetrus,17
+16-F-AK-E-9,Vermetus triquetrus,23
+16-F-AK-E-10,Vermetus triquetrus,16
+16-F-AK-E-11,Vermetus triquetrus,10
+16-F-AK-E-12,Vermetus triquetrus,5
+16-F-AK-E-13,Vermetus triquetrus,40
+16-F-AK-E-15,Vermetus triquetrus,5
+16-F-AK-C-1,Vermetus triquetrus,20
+16-F-AK-C-2,Vermetus triquetrus,15
+16-F-AK-C-3,Vermetus triquetrus,20
+16-F-AK-C-4,Vermetus triquetrus,30
+16-F-AK-C-5,Vermetus triquetrus,30
+16-F-AK-C-6,Vermetus triquetrus,20
+16-F-AK-C-7,Vermetus triquetrus,5
+16-F-AK-C-8,Vermetus triquetrus,29
+16-F-AK-C-9,Vermetus triquetrus,70
+16-F-AK-C-10,Vermetus triquetrus,35
+16-F-AK-C-11,Vermetus triquetrus,26
+16-F-AK-C-12,Vermetus triquetrus,40
+16-F-AK-C-13,Vermetus triquetrus,25
+16-F-AK-C-14,Vermetus triquetrus,30
+16-F-AK-C-15,Vermetus triquetrus,30
+16-F-SK-E-1,Vermetus triquetrus,20
+16-F-SK-E-2,Vermetus triquetrus,5
+16-F-SK-E-3,Vermetus triquetrus,1
+16-F-SK-E-4,Vermetus triquetrus,5
+16-F-SK-E-5,Vermetus triquetrus,10
+16-F-SK-E-6,Vermetus triquetrus,1
+16-F-SK-E-8,Vermetus triquetrus,1
+16-F-SK-E-9,Vermetus triquetrus,2
+16-F-SK-E-10,Vermetus triquetrus,1
+16-F-SK-E-11,Vermetus triquetrus,1
+16-F-SK-E-12,Vermetus triquetrus,5
+16-F-SK-E-13,Vermetus triquetrus,1
+16-F-SK-E-14,Vermetus triquetrus,5
+16-F-SK-C-1,Vermetus triquetrus,30
+16-F-SK-C-2,Vermetus triquetrus,10
+16-F-SK-C-3,Vermetus triquetrus,15
+16-F-SK-C-4,Vermetus triquetrus,5
+16-F-SK-C-5,Vermetus triquetrus,5
+16-F-SK-C-6,Vermetus triquetrus,3
+16-F-SK-C-7,Vermetus triquetrus,2
+16-F-SK-C-8,Vermetus triquetrus,5
+16-F-SK-C-9,Vermetus triquetrus,3
+16-F-SK-C-10,Vermetus triquetrus,15
+16-F-SK-C-11,Vermetus triquetrus,5
+16-F-SK-C-12,Vermetus triquetrus,12
+16-F-SK-C-13,Vermetus triquetrus,3
+16-F-SK-C-14,Vermetus triquetrus,1
+16-F-SK-C-15,Vermetus triquetrus,2
+16-F-HB2-E-1,Vermetus triquetrus,5
+16-F-HB2-E-2,Vermetus triquetrus,10
+16-F-HB2-E-3,Vermetus triquetrus,2
+16-F-HB2-E-4,Vermetus triquetrus,2
+16-F-HB2-E-5,Vermetus triquetrus,10
+16-F-HB2-E-6,Vermetus triquetrus,5
+16-F-HB2-E-7,Vermetus triquetrus,2
+16-F-HB2-E-8,Vermetus triquetrus,5
+16-F-HB2-E-9,Vermetus triquetrus,5
+16-F-HB2-E-10,Vermetus triquetrus,5
+16-F-HB2-E-11,Vermetus triquetrus,5
+16-F-HB2-E-12,Vermetus triquetrus,3
+16-F-HB2-E-13,Vermetus triquetrus,4
+16-F-HB2-E-14,Vermetus triquetrus,3
+16-F-HB2-E-15,Vermetus triquetrus,1
+16-F-HB2-C-1,Vermetus triquetrus,3
+16-F-HB2-C-2,Vermetus triquetrus,1
+16-F-HB2-C-3,Vermetus triquetrus,4
+16-F-HB2-C-4,Vermetus triquetrus,1
+16-F-HB2-C-5,Vermetus triquetrus,1
+16-F-HB2-C-6,Vermetus triquetrus,5
+16-F-HB2-C-7,Vermetus triquetrus,2
+16-F-HB2-C-8,Vermetus triquetrus,5
+16-F-HB2-C-9,Vermetus triquetrus,4
+16-F-HB2-C-10,Vermetus triquetrus,2
+16-F-HB2-C-11,Vermetus triquetrus,1
+16-F-HB2-C-12,Vermetus triquetrus,3
+16-F-HB2-C-13,Vermetus triquetrus,1
+16-F-HB2-C-14,Vermetus triquetrus,0.5
+16-F-HB2-C-15,Vermetus triquetrus,2
+16-F-SY-E-2,Vermetus triquetrus,0.1
+16-F-SY-E-3,Vermetus triquetrus,2
+16-F-SY-E-4,Vermetus triquetrus,1
+16-F-SY-E-5,Vermetus triquetrus,10
+16-F-SY-E-6,Vermetus triquetrus,3
+16-F-SY-E-7,Vermetus triquetrus,3
+16-F-SY-E-9,Vermetus triquetrus,2
+16-F-SY-E-10,Vermetus triquetrus,2
+16-F-SY-E-11,Vermetus triquetrus,0.5
+16-F-SY-E-13,Vermetus triquetrus,0.5
+16-F-SY-E-15,Vermetus triquetrus,1
+16-F-SY-C-1,Vermetus triquetrus,4
+16-F-SY-C-2,Vermetus triquetrus,2
+16-F-SY-C-3,Vermetus triquetrus,1
+16-F-SY-C-4,Vermetus triquetrus,1
+16-F-SY-C-5,Vermetus triquetrus,1
+16-F-SY-C-6,Vermetus triquetrus,2
+16-F-SY-C-8,Vermetus triquetrus,3
+16-F-SY-C-10,Vermetus triquetrus,1
+16-F-SY-C-12,Vermetus triquetrus,1
+16-F-SY-C-13,Vermetus triquetrus,1
+16-F-SY-C-14,Vermetus triquetrus,3
+16-F-SY-C-15,Vermetus triquetrus,3
+16-F-BY-C-9,Vermetus triquetrus,0.1
+16-F-PL-E-1,Vermetus triquetrus,2
+16-F-PL-E-3,Vermetus triquetrus,5
+16-F-PL-E-4,Vermetus triquetrus,5
+16-F-PL-E-5,Vermetus triquetrus,4
+16-F-PL-E-6,Vermetus triquetrus,10
+16-F-PL-E-7,Vermetus triquetrus,30
+16-F-PL-E-8,Vermetus triquetrus,35
+16-F-PL-E-9,Vermetus triquetrus,30
+16-F-PL-E-12,Vermetus triquetrus,2
+16-F-PL-E-13,Vermetus triquetrus,2
+16-F-PL-E-14,Vermetus triquetrus,1
+16-F-PL-E-15,Vermetus triquetrus,3
+16-F-PL-C-1,Vermetus triquetrus,30
+16-F-PL-C-2,Vermetus triquetrus,20
+16-F-PL-C-3,Vermetus triquetrus,1
+16-F-PL-C-4,Vermetus triquetrus,10
+16-F-PL-C-5,Vermetus triquetrus,1
+16-F-PL-C-6,Vermetus triquetrus,1
+16-F-PL-C-8,Vermetus triquetrus,10
+15-F-AK-E-1,Acanthophora nayadiformis,25
+15-F-AK-E-2,Acanthophora nayadiformis,45
+15-F-AK-E-3,Acanthophora nayadiformis,65
+15-F-AK-E-5,Acanthophora nayadiformis,30
+15-F-AK-E-6,Acanthophora nayadiformis,20
+15-F-AK-E-14,Acanthophora nayadiformis,35
+15-F-AK-C-3,Acanthophora nayadiformis,17
+15-F-AK-C-4,Acanthophora nayadiformis,8
+15-F-AK-C-6,Acanthophora nayadiformis,2
+15-F-AC-E-1,Acanthophora nayadiformis,30
+15-F-AC-E-4,Acanthophora nayadiformis,6
+15-F-AC-E-6,Acanthophora nayadiformis,25
+15-F-AC-E-7,Acanthophora nayadiformis,60
+15-F-AC-E-8,Acanthophora nayadiformis,1
+15-F-AC-E-9,Acanthophora nayadiformis,7
+15-F-AC-E-10,Acanthophora nayadiformis,25
+15-F-AC-E-12,Acanthophora nayadiformis,40
+15-F-AC-E-13,Acanthophora nayadiformis,12
+15-F-AC-E-14,Acanthophora nayadiformis,20
+15-F-AC-E-15,Acanthophora nayadiformis,25
+15-F-AC-C-3,Acanthophora nayadiformis,4
+15-F-AC-C-4,Acanthophora nayadiformis,9
+15-F-AC-C-6,Acanthophora nayadiformis,4
+15-F-SK-E-1,Acanthophora nayadiformis,3
+15-F-SK-E-2,Acanthophora nayadiformis,2
+15-F-SK-E-4,Acanthophora nayadiformis,1
+15-F-SK-E-5,Acanthophora nayadiformis,3
+15-F-SK-E-6,Acanthophora nayadiformis,2
+15-F-SK-E-8,Acanthophora nayadiformis,1
+15-F-SK-E-9,Acanthophora nayadiformis,5
+15-F-SK-E-12,Acanthophora nayadiformis,0.5
+15-F-SK-E-13,Acanthophora nayadiformis,1
+15-F-MC2-E-4,Acanthophora nayadiformis,3
+15-F-MC2-E-5,Acanthophora nayadiformis,2
+15-F-MC2-E-6,Acanthophora nayadiformis,21
+15-F-MC2-E-7,Acanthophora nayadiformis,12
+15-F-MC2-E-11,Acanthophora nayadiformis,1
+15-F-BY-E-9,Acanthophora nayadiformis,35
+15-F-BY-E-10,Acanthophora nayadiformis,15
+15-F-PL-E-2,Acanthophora nayadiformis,30
+15-F-PL-E-3,Acanthophora nayadiformis,50
+15-F-PL-E-4,Acanthophora nayadiformis,70
+15-F-PL-E-5,Acanthophora nayadiformis,80
+16-F-AK-E-2,Acanthophora nayadiformis,6
+16-F-AK-E-3,Acanthophora nayadiformis,10
+16-F-AK-E-6,Acanthophora nayadiformis,30
+16-F-AK-E-14,Acanthophora nayadiformis,1
+16-F-AK-C-5,Acanthophora nayadiformis,3
+16-F-AK-C-6,Acanthophora nayadiformis,0.5
+16-F-SK-E-1,Acanthophora nayadiformis,20
+16-F-SK-E-2,Acanthophora nayadiformis,10
+16-F-BY-E-10,Acanthophora nayadiformis,20
+16-F-BY-E-11,Acanthophora nayadiformis,20
+16-F-PL-E-1,Acanthophora nayadiformis,6
+16-F-PL-E-2,Acanthophora nayadiformis,35
+16-F-PL-E-3,Acanthophora nayadiformis,30
+16-F-PL-E-4,Acanthophora nayadiformis,18
+16-F-PL-E-5,Acanthophora nayadiformis,55
+16-F-PL-E-9,Acanthophora nayadiformis,9
+16-F-PL-E-10,Acanthophora nayadiformis,12
+16-F-PL-E-14,Acanthophora nayadiformis,2
+16-F-PL-E-15,Acanthophora nayadiformis,15
+15-F-SK2-E-7,Alsidium,7
+15-F-SK2-E-8,Alsidium,2
+15-F-SK2-E-10,Alsidium,12
+15-F-HB2-E-9,Alsidium,2
+15-F-HB2-E-14,Alsidium,5
+15-F-AC-E-1,Bryopsis,6
+15-F-AC-E-3,Bryopsis,7
+15-F-AC-E-4,Bryopsis,2
+15-F-AC-E-6,Bryopsis,6
+15-F-AC-E-7,Bryopsis,2
+15-F-AC-E-8,Bryopsis,2
+15-F-AC-E-10,Bryopsis,1
+15-F-AC-E-13,Bryopsis,2
+15-F-AC-E-14,Bryopsis,3
+15-F-AC-C-3,Bryopsis,10
+15-F-AC-C-4,Bryopsis,10
+15-F-MC2-E-4,Bryopsis,3
+15-F-MC2-E-5,Bryopsis,2
+15-F-MC2-E-9,Bryopsis,3
+15-F-BY-E-8,Caulerpa mexicana,1
+15-F-AK-E-1,CCA,12
+15-F-AK-E-2,CCA,7
+15-F-AK-E-3,CCA,15
+15-F-AK-E-4,CCA,50
+15-F-AK-E-5,CCA,25
+15-F-AK-E-6,CCA,7
+15-F-AK-E-7,CCA,8
+15-F-AK-E-10,CCA,10
+15-F-AK-E-11,CCA,18
+15-F-AK-E-14,CCA,5
+15-F-AK-E-15,CCA,35
+15-F-AK-C-7,CCA,5
+15-F-AK-C-9,CCA,2
+15-F-AK-C-10,CCA,2
+15-F-AK-C-11,CCA,1
+15-F-AK-C-14,CCA,2
+15-F-AC-E-1,CCA,1
+15-F-AC-E-2,CCA,3
+15-F-AC-E-3,CCA,7
+15-F-AC-E-4,CCA,5
+15-F-AC-E-5,CCA,10
+15-F-AC-E-8,CCA,35
+15-F-AC-E-9,CCA,12
+15-F-AC-E-10,CCA,2
+15-F-AC-E-11,CCA,1
+15-F-AC-C-12,CCA,1
+15-F-SK-E-1,CCA,3
+15-F-SK-E-2,CCA,3
+15-F-SK-E-3,CCA,3
+15-F-SK-E-7,CCA,1
+15-F-SK2-E-6,CCA,12
+15-F-SK2-E-7,CCA,3
+15-F-SK2-E-9,CCA,20
+15-F-SK2-E-11,CCA,5
+15-F-SK2-E-13,CCA,45
+15-F-SK2-E-15,CCA,3
+15-F-HB1-E-5,CCA,1
+15-F-HB1-E-6,CCA,1
+15-F-HB1-E-7,CCA,1
+15-F-HB1-E-8,CCA,2
+15-F-HB1-E-9,CCA,1
+15-F-HB1-E-10,CCA,1
+15-F-HB1-E-11,CCA,5
+15-F-HB1-C-7,CCA,1
+15-F-HB1-C-8,CCA,2
+15-F-HB1-C-15,CCA,5
+15-F-HB2-E-1,CCA,5
+15-F-HB2-E-6,CCA,3
+15-F-HB2-E-8,CCA,2
+15-F-HB2-E-15,CCA,18
+15-F-SY-E-2,CCA,2
+15-F-SY-E-3,CCA,1
+15-F-SY-E-9,CCA,0.1
+15-F-SY-E-10,CCA,3
+15-F-SY-E-12,CCA,2
+15-F-SY-C-11,CCA,2
+15-F-SY-C-12,CCA,2
+15-F-SY-C-13,CCA,1
+15-F-MC2-E-1,CCA,1
+15-F-MC2-E-2,CCA,1
+15-F-MC2-E-6,CCA,1
+15-F-MC2-E-11,CCA,2
+15-F-MC2-E-13,CCA,2
+15-F-MC2-E-15,CCA,1
+15-F-MC2-C-5,CCA,3
+15-F-MC2-C-7,CCA,4
+15-F-MC2-C-11,CCA,1
+15-F-MC2-C-15,CCA,1
+15-F-BY-E-1,CCA,3
+15-F-BY-E-4,CCA,1
+15-F-BY-E-5,CCA,2
+15-F-BY-E-9,CCA,2
+15-F-BY-E-11,CCA,3
+15-F-BY-E-14,CCA,1
+15-F-BY-C-5,CCA,5
+15-F-BY-C-7,CCA,1
+15-F-BY-C-8,CCA,1
+15-F-BY-C-9,CCA,1
+15-F-BY-C-10,CCA,5
+15-F-BY-C-13,CCA,1
+15-F-PL-E-1,CCA,12
+15-F-PL-E-2,CCA,10
+15-F-PL-E-3,CCA,2
+15-F-PL-E-4,CCA,6
+15-F-PL-E-5,CCA,8
+15-F-PL-E-6,CCA,1
+15-F-PL-E-7,CCA,40
+15-F-PL-E-8,CCA,1
+15-F-PL-E-10,CCA,1
+15-F-PL-E-11,CCA,1
+15-F-PL-C-1,CCA,1
+15-F-PL-C-2,CCA,20
+15-F-PL-C-4,CCA,1
+15-F-PL-C-5,CCA,1
+15-F-PL-C-9,CCA,1
+15-F-PL-C-10,CCA,2
+16-F-AK-E-3,CCA,25
+16-F-AK-E-4,CCA,20
+16-F-AK-E-5,CCA,5
+16-F-AK-E-6,CCA,20
+16-F-AK-E-11,CCA,5
+16-F-AK-E-12,CCA,20
+16-F-AK-E-14,CCA,3
+16-F-AK-E-15,CCA,60
+16-F-AK-C-5,CCA,5
+16-F-AK-C-6,CCA,1
+16-F-HB2-C-3,CCA,1
+16-F-HB2-C-4,CCA,1
+16-F-HB2-C-9,CCA,1
+16-F-HB2-C-12,CCA,2
+16-F-HB2-C-13,CCA,1
+16-F-HB2-C-14,CCA,1
+16-F-HB2-C-15,CCA,2
+16-F-SY-E-2,CCA,2
+16-F-SY-C-1,CCA,2
+16-F-SY-C-4,CCA,1
+16-F-SY-C-5,CCA,3
+16-F-SY-C-7,CCA,2
+16-F-SY-C-8,CCA,4
+16-F-SY-C-9,CCA,6
+16-F-SY-C-11,CCA,3
+16-F-SY-C-12,CCA,1
+16-F-SY-C-13,CCA,1
+16-F-SY-C-14,CCA,4
+16-F-BY-E-1,CCA,2
+16-F-BY-E-9,CCA,1
+16-F-BY-E-10,CCA,6
+16-F-BY-E-11,CCA,4
+16-F-BY-E-15,CCA,3
+16-F-BY-C-2,CCA,5
+16-F-BY-C-11,CCA,7
+16-F-BY-C-13,CCA,2
+16-F-BY-C-14,CCA,1
+16-F-PL-E-2,CCA,3
+16-F-PL-E-3,CCA,6
+16-F-PL-E-4,CCA,5
+16-F-PL-E-8,CCA,1
+16-F-PL-E-10,CCA,4
+16-F-PL-C-11,CCA,10
+16-F-PL-C-14,CCA,10
+16-F-PL-C-15,CCA,50
+15-F-HB2-E-13,CERAMIACEAE,1
+15-F-AC-C-6,Chondracanthus acicularis,1
+15-F-MC2-C-1,Chondracanthus acicularis,10
+16-F-BY-E-4,Chondracanthus acicularis,0.5
+16-F-BY-E-14,Chondracanthus acicularis,0.5
+15-F-AK-E-1,Chondria,9
+15-F-AK-E-2,Chondria,8
+15-F-AK-E-3,Chondria,4
+15-F-AK-E-4,Chondria,10
+15-F-AK-E-5,Chondria,50
+15-F-AK-E-6,Chondria,10
+15-F-AC-E-3,Chondria,20
+15-F-AC-E-4,Chondria,30
+15-F-AC-E-5,Chondria,40
+15-F-AC-E-8,Chondria,40
+15-F-AC-E-9,Chondria,50
+15-F-AC-E-10,Chondria,40
+15-F-AC-E-11,Chondria,25
+15-F-AC-E-13,Chondria,2
+15-F-AC-E-14,Chondria,20
+15-F-AC-C-1,Chondria,85
+15-F-AC-C-2,Chondria,65
+15-F-AC-C-3,Chondria,70
+15-F-AC-C-4,Chondria,85
+15-F-AC-C-5,Chondria,30
+15-F-AC-C-6,Chondria,20
+15-F-SK2-E-9,Chondria,1
+15-F-HB1-E-3,Chondria,3
+15-F-HB2-E-10,Chondria,2
+15-F-SY-E-4,Chondria,1
+16-F-AK-E-5,Chondria,5
+16-F-AK-E-6,Chondria,5
+16-F-AK-E-7,Chondria,40
+16-F-AK-E-8,Chondria,10
+16-F-AK-E-9,Chondria,15
+16-F-AK-E-11,Chondria,6
+16-F-AK-E-12,Chondria,10
+16-F-AK-E-14,Chondria,7
+15-F-AK-E-4,Cladophora,1
+15-F-AK-E-7,Cladophora,8
+15-F-AC-E-2,Cladophora,8
+15-F-AC-E-4,Cladophora,1
+15-F-AC-E-6,Cladophora,1
+15-F-AC-E-8,Cladophora,4
+15-F-AC-E-9,Cladophora,7
+15-F-AC-E-11,Cladophora,1
+15-F-AC-E-14,Cladophora,1
+15-F-SK-E-2,Cladophora,3
+15-F-SK-E-7,Cladophora,1
+15-F-SK-E-8,Cladophora,1
+15-F-SK-E-10,Cladophora,0.5
+15-F-SK-E-11,Cladophora,0.5
+15-F-SK-E-12,Cladophora,1
+15-F-SK-E-14,Cladophora,0.5
+15-F-SY-E-3,Cladophora,1
+16-F-SK-E-2,Cladophora,1
+16-F-SK-E-3,Cladophora,1
+16-F-SK-E-4,Cladophora,1
+16-F-SK-E-8,Cladophora,1
+16-F-SK-E-10,Cladophora,1
+16-F-SK-E-12,Cladophora,1
+16-F-HB2-E-10,Cladophora,1
+15-F-AK-E-4,Cladophoropsis,0.5
+15-F-SK2-E-1,Cladophoropsis,7
+15-F-SK2-E-2,Cladophoropsis,4
+15-F-SK2-E-3,Cladophoropsis,7
+15-F-SK2-E-4,Cladophoropsis,4
+15-F-SK2-E-5,Cladophoropsis,4
+15-F-SK2-E-6,Cladophoropsis,5
+15-F-SK2-E-9,Cladophoropsis,5
+15-F-SK2-E-12,Cladophoropsis,1
+15-F-SK2-E-15,Cladophoropsis,2
+15-F-HB2-E-6,Cladophoropsis,2
+15-F-HB2-E-7,Cladophoropsis,2
+15-F-HB2-E-8,Cladophoropsis,2
+15-F-SY-E-3,Cladophoropsis,2
+15-F-SY-E-9,Cladophoropsis,1
+15-F-SY-E-11,Cladophoropsis,1
+15-F-SY-E-15,Cladophoropsis,1
+16-F-AK-E-11,Cladophoropsis,1
+16-F-SK-C-5,Cladophoropsis,1
+16-F-SK-C-6,Cladophoropsis,1
+16-F-HB2-C-4,Cladophoropsis,0.5
+16-F-HB2-C-10,Cladophoropsis,3
+16-F-HB2-C-13,Cladophoropsis,1
+16-F-SK-C-8,Codium arabicum,2
+15-F-SK-C-8,Cystoseira,1
+15-F-SK-C-15,Cystoseira,2
+15-F-HB2-E-3,Cystoseira,2
+15-F-MC2-C-1,Cystoseira,1
+15-F-MC2-C-5,Cystoseira,3
+16-F-SK-C-5,Cystoseira,20
+16-F-SK-C-10,Cystoseira,2
+16-F-SK-C-11,Cystoseira,1
+16-F-SK-C-14,Cystoseira,2
+16-F-SK-C-15,Cystoseira,3.5
+16-F-HB2-C-1,Cystoseira,10
+16-F-HB2-C-2,Cystoseira,5
+16-F-HB2-C-3,Cystoseira,20
+16-F-HB2-C-4,Cystoseira,11
+16-F-HB2-C-5,Cystoseira,6
+16-F-HB2-C-6,Cystoseira,5
+16-F-HB2-C-7,Cystoseira,10
+16-F-HB2-C-8,Cystoseira,4
+16-F-HB2-C-9,Cystoseira,3
+16-F-HB2-C-10,Cystoseira,5
+16-F-HB2-C-11,Cystoseira,10
+16-F-HB2-C-12,Cystoseira,5
+16-F-HB2-C-13,Cystoseira,5
+16-F-HB2-C-14,Cystoseira,4
+16-F-HB2-C-15,Cystoseira,2
+15-F-AC-E-2,Dasya,3
+15-F-AC-E-3,Dasya,6
+15-F-AC-E-4,Dasya,20
+15-F-AC-E-5,Dasya,10
+16-F-HB2-C-5,Dasycladus vermicularis,3
+16-F-HB2-C-6,Dasycladus vermicularis,1
+16-F-HB2-C-9,Dasycladus vermicularis,2
+16-F-HB2-C-10,Dasycladus vermicularis,1
+16-F-HB2-C-11,Dasycladus vermicularis,1
+15-F-AK-E-2,Dictyota,5
+15-F-AK-E-6,Dictyota,3
+15-F-AK-C-1,Dictyota,2
+15-F-AK-C-2,Dictyota,2
+15-F-AK-C-3,Dictyota,16
+15-F-AK-C-4,Dictyota,3
+15-F-AK-C-6,Dictyota,5
+15-F-SK-E-9,Dictyota,3
+16-F-AK-E-7,Dictyota,2
+16-F-AK-E-8,Dictyota,2
+16-F-AK-E-10,Dictyota,3
+16-F-AK-E-11,Dictyota,5
+16-F-AK-E-13,Dictyota,2
+16-F-AK-E-14,Dictyota,1
+16-F-AK-C-2,Dictyota,0.5
+16-F-AK-C-3,Dictyota,2
+16-F-AK-C-4,Dictyota,3
+16-F-AK-C-5,Dictyota,5
+16-F-AK-C-6,Dictyota,3
+16-F-AK-C-8,Dictyota,0.2
+16-F-AK-C-9,Dictyota,0.5
+16-F-AK-C-13,Dictyota,1
+16-F-AK-C-14,Dictyota,1
+16-F-AK-C-15,Dictyota,1
+16-F-SK-E-1,Dictyota,2
+16-F-SK-E-6,Dictyota,2
+15-F-HB1-E-4,Digenea simplex__1,12
+15-F-HB1-E-6,Digenea simplex__1,1
+15-F-HB1-E-11,Digenea simplex__1,5
+15-F-HB1-E-13,Digenea simplex__1,1
+15-F-HB1-E-15,Digenea simplex__1,1
+15-F-SY-E-8,Digenea simplex__1,1
+16-F-SY-E-1,Digenea simplex__1,0.5
+16-F-SY-E-2,Digenea simplex__1,5
+16-F-SY-C-1,Digenea simplex__1,2
+16-F-SY-C-2,Digenea simplex__1,12
+16-F-SY-C-3,Digenea simplex__1,10
+16-F-SY-C-4,Digenea simplex__1,8
+16-F-SY-C-5,Digenea simplex__1,5
+16-F-SY-C-6,Digenea simplex__1,3
+16-F-SY-C-7,Digenea simplex__1,3
+16-F-SY-C-8,Digenea simplex__1,7
+16-F-SY-C-9,Digenea simplex__1,1
+16-F-SY-C-10,Digenea simplex__1,1
+16-F-SY-C-11,Digenea simplex__1,4
+16-F-SY-C-12,Digenea simplex__1,13
+16-F-SY-C-13,Digenea simplex__1,22
+16-F-SY-C-14,Digenea simplex__1,5
+16-F-SY-C-15,Digenea simplex__1,7
+15-F-AK-C-7,Ectocarpus,20
+15-F-AK-C-8,Ectocarpus,40
+15-F-AK-C-9,Ectocarpus,30
+15-F-AK-C-10,Ectocarpus,30
+15-F-AK-C-11,Ectocarpus,20
+15-F-AK-C-12,Ectocarpus,10
+15-F-AK-C-14,Ectocarpus,5
+15-F-SK-E-4,Ectocarpus,10
+15-F-SK-E-5,Ectocarpus,5
+15-F-SK-E-6,Ectocarpus,5
+15-F-SK-E-8,Ectocarpus,10
+15-F-SK-E-9,Ectocarpus,5
+15-F-SK-E-10,Ectocarpus,15
+15-F-SK-E-11,Ectocarpus,10
+15-F-SK-E-12,Ectocarpus,2
+15-F-SK-E-13,Ectocarpus,10
+15-F-SK-E-14,Ectocarpus,10
+15-F-SK-E-15,Ectocarpus,10
+15-F-SK-C-1,Ectocarpus,90
+15-F-SK-C-2,Ectocarpus,85
+15-F-SK-C-3,Ectocarpus,95
+15-F-SK-C-4,Ectocarpus,99
+15-F-SK-C-5,Ectocarpus,95
+15-F-SK-C-6,Ectocarpus,90
+15-F-SK-C-7,Ectocarpus,95
+15-F-SK-C-8,Ectocarpus,95
+15-F-SK-C-9,Ectocarpus,95
+15-F-SK-C-10,Ectocarpus,60
+15-F-SK-C-11,Ectocarpus,70
+15-F-SK-C-12,Ectocarpus,95
+15-F-SK-C-13,Ectocarpus,80
+15-F-SK-C-14,Ectocarpus,90
+15-F-SK-C-15,Ectocarpus,80
+15-F-SK2-E-2,Ectocarpus,40
+15-F-SK2-E-3,Ectocarpus,40
+15-F-SK2-E-5,Ectocarpus,4
+15-F-SK2-E-6,Ectocarpus,30
+15-F-SK2-E-7,Ectocarpus,15
+15-F-SK2-E-11,Ectocarpus,10
+15-F-SK2-E-12,Ectocarpus,6
+15-F-SK2-E-13,Ectocarpus,4
+15-F-SK2-E-14,Ectocarpus,20
+15-F-SK2-E-15,Ectocarpus,10
+15-F-SK2-C-1,Ectocarpus,1
+15-F-SK2-C-2,Ectocarpus,1
+15-F-SK2-C-3,Ectocarpus,10
+15-F-SK2-C-6,Ectocarpus,2
+15-F-SK2-C-7,Ectocarpus,5
+15-F-SK2-C-8,Ectocarpus,2
+15-F-SK2-C-9,Ectocarpus,2
+15-F-SK2-C-11,Ectocarpus,80
+15-F-SK2-C-12,Ectocarpus,2
+15-F-SK2-C-13,Ectocarpus,8
+15-F-SK2-C-14,Ectocarpus,5
+15-F-SK2-C-15,Ectocarpus,3
+15-F-HB1-C-1,Ectocarpus,20
+15-F-HB1-C-2,Ectocarpus,55
+15-F-HB1-C-3,Ectocarpus,50
+15-F-HB1-C-4,Ectocarpus,30
+15-F-HB1-C-5,Ectocarpus,40
+15-F-HB1-C-6,Ectocarpus,30
+15-F-HB1-C-7,Ectocarpus,10
+15-F-HB1-C-8,Ectocarpus,20
+15-F-HB1-C-9,Ectocarpus,10
+15-F-HB1-C-10,Ectocarpus,30
+15-F-HB1-C-11,Ectocarpus,10
+15-F-HB1-C-12,Ectocarpus,30
+15-F-HB1-C-13,Ectocarpus,20
+15-F-HB1-C-14,Ectocarpus,5
+15-F-HB1-C-15,Ectocarpus,5
+15-F-HB2-E-1,Ectocarpus,65
+15-F-HB2-E-2,Ectocarpus,4
+15-F-HB2-E-8,Ectocarpus,70
+15-F-HB2-E-10,Ectocarpus,12
+15-F-HB2-E-12,Ectocarpus,1
+15-F-HB2-E-14,Ectocarpus,8
+15-F-HB2-E-15,Ectocarpus,15
+15-F-SY-E-1,Ectocarpus,35
+15-F-SY-E-2,Ectocarpus,50
+15-F-SY-E-4,Ectocarpus,4
+15-F-SY-E-5,Ectocarpus,25
+15-F-SY-E-6,Ectocarpus,25
+15-F-SY-E-7,Ectocarpus,94
+15-F-SY-E-8,Ectocarpus,80
+15-F-SY-C-1,Ectocarpus,85
+15-F-SY-C-2,Ectocarpus,80
+15-F-SY-C-3,Ectocarpus,90
+15-F-SY-C-4,Ectocarpus,10
+15-F-SY-C-5,Ectocarpus,95
+15-F-SY-C-6,Ectocarpus,90
+15-F-SY-C-7,Ectocarpus,40
+15-F-SY-C-8,Ectocarpus,30
+15-F-SY-C-9,Ectocarpus,20
+15-F-SY-C-10,Ectocarpus,20
+15-F-SY-C-11,Ectocarpus,10
+15-F-SY-C-12,Ectocarpus,10
+15-F-SY-C-13,Ectocarpus,15
+15-F-SY-C-14,Ectocarpus,45
+15-F-SY-C-15,Ectocarpus,20
+15-F-MC2-E-1,Ectocarpus,10
+15-F-MC2-E-2,Ectocarpus,50
+15-F-MC2-E-3,Ectocarpus,25
+15-F-MC2-E-6,Ectocarpus,25
+15-F-MC2-E-8,Ectocarpus,30
+15-F-MC2-E-10,Ectocarpus,65
+15-F-MC2-E-12,Ectocarpus,7
+15-F-MC2-E-13,Ectocarpus,45
+15-F-MC2-E-14,Ectocarpus,90
+15-F-MC2-E-15,Ectocarpus,85
+15-F-MC2-C-3,Ectocarpus,99
+15-F-MC2-C-4,Ectocarpus,75
+15-F-MC2-C-5,Ectocarpus,70
+15-F-MC2-C-6,Ectocarpus,15
+15-F-MC2-C-7,Ectocarpus,50
+15-F-MC2-C-8,Ectocarpus,50
+15-F-MC2-C-9,Ectocarpus,1
+15-F-MC2-C-10,Ectocarpus,5
+15-F-MC2-C-11,Ectocarpus,20
+15-F-MC2-C-12,Ectocarpus,40
+15-F-MC2-C-13,Ectocarpus,10
+15-F-MC2-C-15,Ectocarpus,80
+15-F-BY-E-3,Ectocarpus,10
+15-F-BY-E-4,Ectocarpus,20
+15-F-BY-E-5,Ectocarpus,75
+15-F-BY-E-11,Ectocarpus,96
+15-F-BY-E-12,Ectocarpus,35
+15-F-BY-C-1,Ectocarpus,50
+15-F-BY-C-2,Ectocarpus,50
+15-F-BY-C-3,Ectocarpus,70
+15-F-BY-C-4,Ectocarpus,70
+15-F-BY-C-5,Ectocarpus,65
+15-F-BY-C-6,Ectocarpus,35
+15-F-BY-C-7,Ectocarpus,30
+15-F-BY-C-8,Ectocarpus,35
+15-F-BY-C-9,Ectocarpus,45
+15-F-BY-C-10,Ectocarpus,45
+15-F-BY-C-11,Ectocarpus,70
+15-F-BY-C-12,Ectocarpus,35
+15-F-BY-C-13,Ectocarpus,50
+15-F-BY-C-14,Ectocarpus,30
+15-F-BY-C-15,Ectocarpus,40
+15-F-PL-E-1,Ectocarpus,75
+15-F-PL-E-2,Ectocarpus,30
+15-F-PL-E-3,Ectocarpus,24
+15-F-PL-E-4,Ectocarpus,15
+15-F-PL-E-6,Ectocarpus,84
+15-F-PL-E-7,Ectocarpus,20
+15-F-PL-E-8,Ectocarpus,70
+15-F-PL-E-9,Ectocarpus,99
+15-F-PL-E-10,Ectocarpus,85
+15-F-PL-E-11,Ectocarpus,45
+15-F-PL-E-12,Ectocarpus,70
+15-F-PL-E-13,Ectocarpus,78
+15-F-PL-E-14,Ectocarpus,40
+15-F-PL-E-15,Ectocarpus,51
+15-F-PL-C-1,Ectocarpus,97
+15-F-PL-C-2,Ectocarpus,70
+15-F-PL-C-3,Ectocarpus,100
+15-F-PL-C-4,Ectocarpus,99
+15-F-PL-C-5,Ectocarpus,97
+15-F-PL-C-6,Ectocarpus,100
+15-F-PL-C-7,Ectocarpus,100
+15-F-PL-C-8,Ectocarpus,100
+15-F-PL-C-9,Ectocarpus,99
+15-F-PL-C-10,Ectocarpus,98
+15-F-PL-C-11,Ectocarpus,91
+15-F-PL-C-12,Ectocarpus,90
+15-F-PL-C-13,Ectocarpus,65
+15-F-PL-C-14,Ectocarpus,50
+15-F-PL-C-15,Ectocarpus,70
+16-F-AK-E-7,Ectocarpus,40
+16-F-AK-E-8,Ectocarpus,15
+16-F-AK-E-9,Ectocarpus,21
+16-F-AK-E-10,Ectocarpus,24
+16-F-AK-C-1,Ectocarpus,20
+16-F-AK-C-2,Ectocarpus,20
+16-F-AK-C-3,Ectocarpus,15
+16-F-AK-C-4,Ectocarpus,14
+16-F-AK-C-7,Ectocarpus,90
+16-F-AK-C-8,Ectocarpus,75
+16-F-AK-C-9,Ectocarpus,80
+16-F-AK-C-10,Ectocarpus,80
+16-F-AK-C-11,Ectocarpus,80
+16-F-AK-C-12,Ectocarpus,20
+16-F-AK-C-13,Ectocarpus,50
+16-F-AK-C-14,Ectocarpus,75
+16-F-AK-C-15,Ectocarpus,65
+16-F-SK-E-1,Ectocarpus,1
+16-F-SK-E-3,Ectocarpus,5
+16-F-SK-E-4,Ectocarpus,5
+16-F-SK-E-5,Ectocarpus,10
+16-F-SK-E-7,Ectocarpus,5
+16-F-SK-E-8,Ectocarpus,20
+16-F-SK-E-9,Ectocarpus,80
+16-F-SK-E-10,Ectocarpus,5
+16-F-SK-E-11,Ectocarpus,5
+16-F-SK-E-12,Ectocarpus,10
+16-F-SK-E-13,Ectocarpus,40
+16-F-SK-E-15,Ectocarpus,10
+16-F-SK-C-1,Ectocarpus,99
+16-F-SK-C-2,Ectocarpus,95
+16-F-SK-C-3,Ectocarpus,98
+16-F-SK-C-4,Ectocarpus,95
+16-F-SK-C-5,Ectocarpus,95
+16-F-SK-C-6,Ectocarpus,95
+16-F-SK-C-7,Ectocarpus,95
+16-F-SK-C-8,Ectocarpus,98
+16-F-SK-C-9,Ectocarpus,90
+16-F-SK-C-10,Ectocarpus,98
+16-F-SK-C-11,Ectocarpus,98
+16-F-SK-C-12,Ectocarpus,95
+16-F-SK-C-13,Ectocarpus,99
+16-F-SK-C-14,Ectocarpus,98
+16-F-SK-C-15,Ectocarpus,97
+16-F-HB2-E-1,Ectocarpus,18
+16-F-HB2-E-2,Ectocarpus,10
+16-F-HB2-E-4,Ectocarpus,15
+16-F-HB2-E-5,Ectocarpus,1
+16-F-HB2-E-6,Ectocarpus,1
+16-F-HB2-E-8,Ectocarpus,25
+16-F-HB2-E-9,Ectocarpus,10
+16-F-HB2-E-11,Ectocarpus,60
+16-F-HB2-E-12,Ectocarpus,15
+16-F-HB2-E-13,Ectocarpus,15
+16-F-HB2-E-14,Ectocarpus,3
+16-F-HB2-E-15,Ectocarpus,7
+16-F-HB2-C-1,Ectocarpus,85
+16-F-HB2-C-2,Ectocarpus,80
+16-F-HB2-C-3,Ectocarpus,55
+16-F-HB2-C-4,Ectocarpus,60
+16-F-HB2-C-5,Ectocarpus,60
+16-F-HB2-C-6,Ectocarpus,70
+16-F-HB2-C-7,Ectocarpus,65
+16-F-HB2-C-8,Ectocarpus,80
+16-F-HB2-C-9,Ectocarpus,70
+16-F-HB2-C-10,Ectocarpus,55
+16-F-HB2-C-11,Ectocarpus,45
+16-F-HB2-C-12,Ectocarpus,50
+16-F-HB2-C-13,Ectocarpus,63
+16-F-HB2-C-14,Ectocarpus,55
+16-F-HB2-C-15,Ectocarpus,80
+16-F-SY-C-1,Ectocarpus,60
+16-F-SY-C-2,Ectocarpus,75
+16-F-SY-C-3,Ectocarpus,90
+16-F-SY-C-4,Ectocarpus,80
+16-F-SY-C-5,Ectocarpus,10
+16-F-SY-C-6,Ectocarpus,40
+16-F-SY-C-7,Ectocarpus,45
+16-F-SY-C-8,Ectocarpus,5
+16-F-SY-C-9,Ectocarpus,55
+16-F-SY-C-10,Ectocarpus,20
+16-F-SY-C-11,Ectocarpus,20
+16-F-SY-C-12,Ectocarpus,65
+16-F-SY-C-13,Ectocarpus,50
+16-F-SY-C-14,Ectocarpus,25
+16-F-SY-C-15,Ectocarpus,25
+16-F-BY-E-3,Ectocarpus,0.5
+16-F-BY-E-4,Ectocarpus,1
+16-F-BY-E-6,Ectocarpus,6
+16-F-BY-E-7,Ectocarpus,2
+16-F-BY-E-8,Ectocarpus,8
+16-F-BY-E-9,Ectocarpus,10
+16-F-BY-E-10,Ectocarpus,10
+16-F-BY-E-11,Ectocarpus,5
+16-F-BY-E-12,Ectocarpus,1
+16-F-BY-E-14,Ectocarpus,0.5
+16-F-PL-E-1,Ectocarpus,10
+16-F-PL-E-2,Ectocarpus,10
+16-F-PL-E-6,Ectocarpus,10
+16-F-PL-E-11,Ectocarpus,40
+15-F-AK-E-4,Ellisolandia elongata,1
+15-F-AK-E-7,Ellisolandia elongata,15
+15-F-AK-E-8,Ellisolandia elongata,1
+15-F-AK-E-9,Ellisolandia elongata,2
+15-F-AK-E-11,Ellisolandia elongata,2
+15-F-AC-E-1,Ellisolandia elongata,18
+15-F-AC-E-2,Ellisolandia elongata,15
+15-F-AC-E-3,Ellisolandia elongata,4
+15-F-AC-E-4,Ellisolandia elongata,5
+15-F-AC-E-6,Ellisolandia elongata,70
+15-F-AC-E-7,Ellisolandia elongata,15
+15-F-AC-E-8,Ellisolandia elongata,4
+15-F-AC-E-9,Ellisolandia elongata,4
+15-F-AC-E-10,Ellisolandia elongata,10
+15-F-AC-E-11,Ellisolandia elongata,8
+15-F-AC-E-12,Ellisolandia elongata,9
+15-F-AC-E-13,Ellisolandia elongata,15
+15-F-AC-E-15,Ellisolandia elongata,10
+15-F-AC-C-11,Ellisolandia elongata,1
+15-F-SK-E-1,Ellisolandia elongata,5
+15-F-SK-E-2,Ellisolandia elongata,10
+15-F-SK-E-3,Ellisolandia elongata,2
+15-F-SK-E-4,Ellisolandia elongata,5
+15-F-SK-E-5,Ellisolandia elongata,5
+15-F-SK-E-6,Ellisolandia elongata,10
+15-F-SK-E-7,Ellisolandia elongata,35
+15-F-SK-E-8,Ellisolandia elongata,20
+15-F-SK-E-10,Ellisolandia elongata,10
+15-F-SK-E-11,Ellisolandia elongata,10
+15-F-SK-E-12,Ellisolandia elongata,10
+15-F-SK-E-13,Ellisolandia elongata,2
+15-F-SK-E-14,Ellisolandia elongata,45
+15-F-SK-E-15,Ellisolandia elongata,10
+15-F-SK-C-7,Ellisolandia elongata,1
+15-F-SK-C-8,Ellisolandia elongata,1
+15-F-SK-C-11,Ellisolandia elongata,2
+15-F-SK2-E-1,Ellisolandia elongata,3
+15-F-SK2-E-3,Ellisolandia elongata,6
+15-F-SK2-E-4,Ellisolandia elongata,3
+15-F-SK2-E-5,Ellisolandia elongata,5
+15-F-SK2-E-6,Ellisolandia elongata,2
+15-F-SK2-E-8,Ellisolandia elongata,1
+15-F-SK2-E-9,Ellisolandia elongata,5
+15-F-SK2-E-11,Ellisolandia elongata,3
+15-F-SK2-E-12,Ellisolandia elongata,3
+15-F-SK2-E-14,Ellisolandia elongata,2
+15-F-SK2-E-15,Ellisolandia elongata,5
+15-F-HB1-E-1,Ellisolandia elongata,2
+15-F-HB1-E-2,Ellisolandia elongata,6
+15-F-HB1-E-3,Ellisolandia elongata,5
+15-F-HB1-E-4,Ellisolandia elongata,6
+15-F-HB1-E-5,Ellisolandia elongata,2
+15-F-HB1-E-6,Ellisolandia elongata,7
+15-F-HB1-E-7,Ellisolandia elongata,3
+15-F-HB1-E-8,Ellisolandia elongata,5
+15-F-HB1-E-9,Ellisolandia elongata,3
+15-F-HB1-E-10,Ellisolandia elongata,6
+15-F-HB1-E-11,Ellisolandia elongata,4
+15-F-HB1-E-12,Ellisolandia elongata,8
+15-F-HB1-E-13,Ellisolandia elongata,10
+15-F-HB1-E-14,Ellisolandia elongata,8
+15-F-HB1-E-15,Ellisolandia elongata,8
+15-F-HB2-E-1,Ellisolandia elongata,4
+15-F-HB2-E-2,Ellisolandia elongata,3
+15-F-HB2-E-4,Ellisolandia elongata,3
+15-F-HB2-E-5,Ellisolandia elongata,4
+15-F-HB2-E-9,Ellisolandia elongata,2
+15-F-HB2-E-11,Ellisolandia elongata,3
+15-F-HB2-E-13,Ellisolandia elongata,9
+15-F-HB2-E-15,Ellisolandia elongata,4
+15-F-SY-E-1,Ellisolandia elongata,45
+15-F-SY-E-2,Ellisolandia elongata,32
+15-F-SY-E-4,Ellisolandia elongata,20
+15-F-SY-E-5,Ellisolandia elongata,30
+15-F-SY-E-6,Ellisolandia elongata,12
+15-F-SY-E-8,Ellisolandia elongata,10
+15-F-SY-E-9,Ellisolandia elongata,45
+15-F-SY-E-10,Ellisolandia elongata,20
+15-F-SY-E-11,Ellisolandia elongata,35
+15-F-SY-E-12,Ellisolandia elongata,12
+15-F-SY-E-13,Ellisolandia elongata,5
+15-F-SY-E-14,Ellisolandia elongata,3
+15-F-SY-E-15,Ellisolandia elongata,8
+15-F-SY-C-2,Ellisolandia elongata,3
+15-F-SY-C-10,Ellisolandia elongata,3
+15-F-SY-C-12,Ellisolandia elongata,10
+15-F-SY-C-13,Ellisolandia elongata,15
+15-F-MC2-E-1,Ellisolandia elongata,10
+15-F-MC2-E-2,Ellisolandia elongata,7
+15-F-MC2-E-3,Ellisolandia elongata,25
+15-F-MC2-E-4,Ellisolandia elongata,2
+15-F-MC2-E-6,Ellisolandia elongata,5
+15-F-MC2-E-7,Ellisolandia elongata,9
+15-F-MC2-E-8,Ellisolandia elongata,25
+15-F-MC2-E-9,Ellisolandia elongata,15
+15-F-MC2-E-10,Ellisolandia elongata,10
+15-F-MC2-E-11,Ellisolandia elongata,20
+15-F-MC2-E-12,Ellisolandia elongata,20
+15-F-MC2-E-13,Ellisolandia elongata,10
+15-F-MC2-E-14,Ellisolandia elongata,10
+15-F-MC2-E-15,Ellisolandia elongata,15
+15-F-MC2-C-3,Ellisolandia elongata,1
+15-F-MC2-C-4,Ellisolandia elongata,25
+15-F-MC2-C-5,Ellisolandia elongata,20
+15-F-MC2-C-6,Ellisolandia elongata,45
+15-F-MC2-C-7,Ellisolandia elongata,45
+15-F-MC2-C-8,Ellisolandia elongata,50
+15-F-MC2-C-9,Ellisolandia elongata,15
+15-F-MC2-C-10,Ellisolandia elongata,1
+15-F-MC2-C-11,Ellisolandia elongata,1
+15-F-MC2-C-12,Ellisolandia elongata,2
+15-F-MC2-C-13,Ellisolandia elongata,1
+15-F-MC2-C-15,Ellisolandia elongata,3
+15-F-BY-E-1,Ellisolandia elongata,2
+15-F-BY-E-2,Ellisolandia elongata,15
+15-F-BY-E-3,Ellisolandia elongata,5
+15-F-BY-E-9,Ellisolandia elongata,3
+15-F-BY-E-10,Ellisolandia elongata,2
+15-F-BY-E-11,Ellisolandia elongata,1
+15-F-BY-E-12,Ellisolandia elongata,2
+15-F-BY-C-2,Ellisolandia elongata,8
+15-F-PL-E-1,Ellisolandia elongata,1
+15-F-PL-E-9,Ellisolandia elongata,1
+15-F-PL-E-15,Ellisolandia elongata,1
+15-F-PL-C-5,Ellisolandia elongata,1
+15-F-PL-C-6,Ellisolandia elongata,1
+15-F-PL-C-11,Ellisolandia elongata,9
+16-F-AK-E-2,Ellisolandia elongata,8
+16-F-AK-E-5,Ellisolandia elongata,5
+16-F-AK-E-7,Ellisolandia elongata,10
+16-F-SK-E-1,Ellisolandia elongata,10
+16-F-SK-E-2,Ellisolandia elongata,5
+16-F-SK-E-3,Ellisolandia elongata,5
+16-F-SK-E-4,Ellisolandia elongata,20
+16-F-SK-E-5,Ellisolandia elongata,10
+16-F-SK-E-6,Ellisolandia elongata,2
+16-F-SK-E-7,Ellisolandia elongata,2
+16-F-SK-E-8,Ellisolandia elongata,50
+16-F-SK-E-9,Ellisolandia elongata,20
+16-F-SK-E-10,Ellisolandia elongata,15
+16-F-SK-E-11,Ellisolandia elongata,15
+16-F-SK-E-12,Ellisolandia elongata,40
+16-F-SK-E-14,Ellisolandia elongata,10
+16-F-SK-E-15,Ellisolandia elongata,10
+16-F-SK-C-1,Ellisolandia elongata,1
+16-F-SK-C-6,Ellisolandia elongata,1
+16-F-SK-C-8,Ellisolandia elongata,1
+16-F-SK-C-9,Ellisolandia elongata,3
+16-F-SK-C-12,Ellisolandia elongata,1
+16-F-HB2-E-1,Ellisolandia elongata,5
+16-F-HB2-E-2,Ellisolandia elongata,5
+16-F-HB2-E-3,Ellisolandia elongata,5
+16-F-HB2-E-4,Ellisolandia elongata,5
+16-F-HB2-E-5,Ellisolandia elongata,5
+16-F-HB2-E-6,Ellisolandia elongata,4
+16-F-HB2-E-7,Ellisolandia elongata,4
+16-F-HB2-E-8,Ellisolandia elongata,2
+16-F-HB2-E-10,Ellisolandia elongata,5
+16-F-HB2-E-13,Ellisolandia elongata,1
+16-F-HB2-E-14,Ellisolandia elongata,4
+16-F-HB2-E-15,Ellisolandia elongata,3
+16-F-SY-E-1,Ellisolandia elongata,50
+16-F-SY-E-2,Ellisolandia elongata,57
+16-F-SY-E-4,Ellisolandia elongata,5
+16-F-SY-E-8,Ellisolandia elongata,55
+16-F-SY-E-9,Ellisolandia elongata,10
+16-F-SY-E-10,Ellisolandia elongata,5
+16-F-SY-E-11,Ellisolandia elongata,55
+16-F-SY-E-12,Ellisolandia elongata,50
+16-F-SY-E-13,Ellisolandia elongata,40
+16-F-SY-E-14,Ellisolandia elongata,30
+16-F-SY-E-15,Ellisolandia elongata,5
+16-F-SY-C-2,Ellisolandia elongata,2
+16-F-SY-C-3,Ellisolandia elongata,4
+16-F-SY-C-4,Ellisolandia elongata,2
+16-F-SY-C-5,Ellisolandia elongata,1
+16-F-SY-C-6,Ellisolandia elongata,1
+16-F-SY-C-7,Ellisolandia elongata,1
+16-F-SY-C-8,Ellisolandia elongata,2
+16-F-SY-C-9,Ellisolandia elongata,4
+16-F-SY-C-10,Ellisolandia elongata,2
+16-F-SY-C-15,Ellisolandia elongata,2
+16-F-BY-E-2,Ellisolandia elongata,10
+16-F-BY-E-3,Ellisolandia elongata,1
+16-F-BY-E-4,Ellisolandia elongata,10
+16-F-BY-E-9,Ellisolandia elongata,10
+16-F-BY-E-10,Ellisolandia elongata,5
+16-F-BY-E-11,Ellisolandia elongata,8
+16-F-BY-E-12,Ellisolandia elongata,2
+16-F-BY-E-15,Ellisolandia elongata,1
+16-F-BY-C-3,Ellisolandia elongata,1
+16-F-BY-C-9,Ellisolandia elongata,2
+16-F-BY-C-10,Ellisolandia elongata,1
+16-F-BY-C-13,Ellisolandia elongata,1
+16-F-PL-E-1,Ellisolandia elongata,1
+16-F-PL-E-2,Ellisolandia elongata,0.5
+16-F-PL-E-3,Ellisolandia elongata,1
+16-F-PL-E-6,Ellisolandia elongata,1
+16-F-PL-E-12,Ellisolandia elongata,6
+16-F-PL-E-13,Ellisolandia elongata,5
+16-F-PL-E-15,Ellisolandia elongata,2
+16-F-SK-E-13,Galaxaura rugosa,5
+15-F-AC-E-1,Gelidiella,20
+15-F-AC-E-2,Gelidiella,20
+15-F-AC-E-4,Gelidiella,12
+15-F-AC-E-5,Gelidiella,20
+15-F-AC-E-6,Gelidiella,8
+15-F-AC-E-7,Gelidiella,8
+15-F-AC-E-8,Gelidiella,2
+15-F-AC-E-9,Gelidiella,5
+15-F-AC-E-10,Gelidiella,8
+15-F-AC-E-11,Gelidiella,4
+15-F-AC-E-12,Gelidiella,10
+15-F-AC-E-13,Gelidiella,17
+15-F-AC-E-14,Gelidiella,10
+15-F-AC-E-15,Gelidiella,2
+15-F-AC-C-2,Gelidiella,20
+15-F-AC-C-6,Gelidiella,3
+15-F-AC-C-13,Gelidiella,12
+15-F-SK2-E-5,Gelidiella,3
+15-F-SK2-E-8,Gelidiella,1
+15-F-SK2-E-13,Gelidiella,5
+15-F-HB1-E-1,Gelidiella,5
+15-F-HB1-E-2,Gelidiella,1
+15-F-HB1-E-6,Gelidiella,2
+15-F-HB1-E-7,Gelidiella,5
+15-F-HB1-E-8,Gelidiella,5
+15-F-HB1-E-9,Gelidiella,3
+15-F-HB1-E-10,Gelidiella,3
+15-F-HB1-E-11,Gelidiella,3
+15-F-HB1-E-12,Gelidiella,1
+15-F-HB1-E-13,Gelidiella,3
+15-F-HB1-E-14,Gelidiella,2
+15-F-HB2-E-1,Gelidiella,3
+15-F-HB2-E-2,Gelidiella,1
+15-F-HB2-E-5,Gelidiella,2
+15-F-HB2-E-6,Gelidiella,9
+15-F-HB2-E-11,Gelidiella,2
+15-F-HB2-E-13,Gelidiella,6
+15-F-HB2-E-15,Gelidiella,7
+15-F-SY-E-1,Gelidiella,2
+15-F-SY-E-5,Gelidiella,3
+15-F-SY-E-11,Gelidiella,6
+15-F-SY-E-13,Gelidiella,6
+15-F-SY-E-15,Gelidiella,10
+15-F-MC2-E-5,Gelidiella,1
+15-F-MC2-E-9,Gelidiella,3
+15-F-BY-E-7,Gelidiella,1
+15-F-BY-E-8,Gelidiella,3
+15-F-PL-E-3,Gelidiella,4
+15-F-PL-E-4,Gelidiella,5
+15-F-PL-E-5,Gelidiella,2
+15-F-PL-E-10,Gelidiella,5
+16-F-HB2-C-4,Gelidiella,0.1
+16-F-HB2-C-8,Gelidiella,0.5
+16-F-HB2-C-9,Gelidiella,0.1
+16-F-SY-E-11,Gelidiella,1
+16-F-SY-E-12,Gelidiella,15
+16-F-SY-E-14,Gelidiella,3
+16-F-BY-E-1,Gelidiella,5
+16-F-BY-E-3,Gelidiella,4
+16-F-BY-E-4,Gelidiella,1
+16-F-BY-E-5,Gelidiella,5
+16-F-BY-E-6,Gelidiella,2
+16-F-BY-E-7,Gelidiella,3
+16-F-BY-E-8,Gelidiella,10
+16-F-BY-E-9,Gelidiella,5
+16-F-BY-E-10,Gelidiella,7
+16-F-BY-E-11,Gelidiella,5
+16-F-BY-E-14,Gelidiella,5
+16-F-BY-E-15,Gelidiella,1
+16-F-BY-C-3,Gelidiella,2
+16-F-BY-C-7,Gelidiella,3
+16-F-BY-C-10,Gelidiella,2
+16-F-PL-E-1,Gelidiella,1
+16-F-PL-E-3,Gelidiella,2
+16-F-PL-E-4,Gelidiella,1
+16-F-PL-E-5,Gelidiella,5
+16-F-PL-E-6,Gelidiella,3
+16-F-PL-E-7,Gelidiella,3
+16-F-PL-E-8,Gelidiella,2
+16-F-PL-E-10,Gelidiella,2
+16-F-PL-E-11,Gelidiella,15
+16-F-PL-E-12,Gelidiella,5
+16-F-PL-E-13,Gelidiella,10
+16-F-PL-E-14,Gelidiella,10
+16-F-PL-E-15,Gelidiella,3
+16-F-PL-C-7,Gelidium,15
+16-F-PL-C-8,Gelidium,41
+16-F-PL-C-9,Gelidium,8
+16-F-PL-C-11,Gelidium,20
+16-F-PL-C-15,Gelidium,1
+15-F-AC-C-6,Halopteris scoparia,1
+15-F-AC-C-7,Halopteris scoparia,2
+15-F-AC-C-9,Halopteris scoparia,3
+15-F-AK-E-3,Hypnea,2
+15-F-AK-E-7,Hypnea,2
+15-F-AC-E-6,Hypnea,4
+15-F-AC-E-7,Hypnea,6
+15-F-AC-E-8,Hypnea,3
+15-F-AC-E-10,Hypnea,5
+15-F-AC-E-11,Hypnea,2
+15-F-AC-E-13,Hypnea,15
+15-F-AC-E-14,Hypnea,5
+15-F-AC-E-15,Hypnea,20
+15-F-AC-C-5,Hypnea,10
+15-F-AC-C-6,Hypnea,10
+15-F-AC-C-8,Hypnea,20
+15-F-HB1-E-1,Hypnea,0.1
+15-F-HB1-E-2,Hypnea,1
+15-F-HB1-E-5,Hypnea,3
+15-F-HB1-E-6,Hypnea,2
+15-F-HB1-E-7,Hypnea,2
+15-F-HB1-E-8,Hypnea,1
+15-F-HB1-E-9,Hypnea,2
+15-F-HB1-E-10,Hypnea,4
+15-F-HB1-E-13,Hypnea,2
+15-F-HB1-E-15,Hypnea,3
+15-F-HB2-E-7,Hypnea,1
+15-F-HB2-E-13,Hypnea,4
+15-F-SY-E-4,Hypnea,4
+15-F-SY-E-13,Hypnea,1
+15-F-MC2-E-3,Hypnea,10
+15-F-MC2-E-4,Hypnea,3
+15-F-MC2-E-6,Hypnea,2
+15-F-MC2-E-11,Hypnea,6
+15-F-PL-E-2,Hypnea,5
+15-F-PL-E-4,Hypnea,8
+16-F-SK-E-1,Hypnea,60
+16-F-SK-E-2,Hypnea,40
+16-F-SK-E-3,Hypnea,5
+16-F-SK-E-4,Hypnea,10
+16-F-SK-E-5,Hypnea,55
+16-F-SK-E-6,Hypnea,2
+16-F-SK-E-7,Hypnea,2
+16-F-SK-E-11,Hypnea,1
+16-F-SK-E-14,Hypnea,10
+16-F-SK-E-15,Hypnea,25
+16-F-HB2-E-2,Hypnea,5
+16-F-HB2-E-3,Hypnea,1
+16-F-HB2-E-5,Hypnea,8
+16-F-HB2-E-9,Hypnea,10
+16-F-HB2-E-10,Hypnea,5
+16-F-HB2-E-13,Hypnea,1
+16-F-HB2-E-14,Hypnea,3
+16-F-HB2-E-15,Hypnea,5
+16-F-SY-E-8,Hypnea,0.5
+16-F-SY-E-12,Hypnea,1
+16-F-SY-E-13,Hypnea,3
+16-F-BY-E-2,Hypnea,0.5
+16-F-BY-E-6,Hypnea,0.5
+16-F-BY-E-8,Hypnea,4
+16-F-BY-E-11,Hypnea,8
+16-F-BY-C-6,Hypnea,50
+16-F-PL-E-1,Hypnea,2
+16-F-PL-E-2,Hypnea,2
+16-F-PL-E-3,Hypnea,8
+16-F-PL-E-4,Hypnea,2
+16-F-PL-E-6,Hypnea,2
+16-F-PL-E-10,Hypnea,2
+16-F-PL-E-13,Hypnea,5
+16-F-PL-E-15,Hypnea,1
+15-F-AK-E-1,Jania rubens,25
+15-F-AK-E-2,Jania rubens,35
+15-F-AK-E-3,Jania rubens,16
+15-F-AK-E-4,Jania rubens,50
+15-F-AK-E-5,Jania rubens,25
+15-F-AK-E-6,Jania rubens,40
+15-F-AK-E-7,Jania rubens,50
+15-F-AK-E-8,Jania rubens,20
+15-F-AK-E-9,Jania rubens,50
+15-F-AK-E-10,Jania rubens,45
+15-F-AK-E-11,Jania rubens,25
+15-F-AK-E-12,Jania rubens,70
+15-F-AK-E-13,Jania rubens,75
+15-F-AK-E-14,Jania rubens,60
+15-F-AK-E-15,Jania rubens,3
+15-F-AK-C-1,Jania rubens,1
+15-F-AK-C-2,Jania rubens,3
+15-F-AK-C-3,Jania rubens,13
+15-F-AK-C-4,Jania rubens,20
+15-F-AK-C-5,Jania rubens,25
+15-F-AK-C-6,Jania rubens,5
+15-F-AK-C-9,Jania rubens,1
+15-F-AK-C-10,Jania rubens,1
+15-F-AK-C-11,Jania rubens,13
+15-F-AK-C-12,Jania rubens,50
+15-F-AK-C-13,Jania rubens,10
+15-F-AK-C-14,Jania rubens,30
+15-F-AK-C-15,Jania rubens,13
+15-F-AC-E-1,Jania rubens,45
+15-F-AC-E-2,Jania rubens,40
+15-F-AC-E-3,Jania rubens,35
+15-F-AC-E-6,Jania rubens,8
+15-F-AC-E-7,Jania rubens,20
+15-F-AC-E-8,Jania rubens,8
+15-F-AC-E-10,Jania rubens,10
+15-F-AC-E-11,Jania rubens,20
+15-F-AC-E-12,Jania rubens,25
+15-F-AC-E-13,Jania rubens,40
+15-F-AC-E-14,Jania rubens,60
+15-F-AC-E-15,Jania rubens,40
+15-F-AC-C-1,Jania rubens,15
+15-F-AC-C-2,Jania rubens,15
+15-F-AC-C-3,Jania rubens,15
+15-F-AC-C-4,Jania rubens,7
+15-F-AC-C-5,Jania rubens,25
+15-F-AC-C-6,Jania rubens,60
+15-F-AC-C-7,Jania rubens,40
+15-F-AC-C-8,Jania rubens,30
+15-F-AC-C-9,Jania rubens,90
+15-F-AC-C-10,Jania rubens,100
+15-F-AC-C-11,Jania rubens,2
+15-F-AC-C-12,Jania rubens,1
+15-F-AC-C-13,Jania rubens,85
+15-F-SK-E-1,Jania rubens,20
+15-F-SK-E-2,Jania rubens,15
+15-F-SK-E-3,Jania rubens,50
+15-F-SK-E-4,Jania rubens,35
+15-F-SK-E-5,Jania rubens,30
+15-F-SK-E-6,Jania rubens,75
+15-F-SK-E-7,Jania rubens,45
+15-F-SK-E-8,Jania rubens,70
+15-F-SK-E-9,Jania rubens,60
+15-F-SK-E-10,Jania rubens,20
+15-F-SK-E-11,Jania rubens,30
+15-F-SK-E-12,Jania rubens,35
+15-F-SK-E-13,Jania rubens,35
+15-F-SK-E-14,Jania rubens,15
+15-F-SK-E-15,Jania rubens,5
+15-F-SK-C-7,Jania rubens,5
+15-F-SK-C-8,Jania rubens,25
+15-F-SK2-E-1,Jania rubens,70
+15-F-SK2-E-2,Jania rubens,60
+15-F-SK2-E-3,Jania rubens,55
+15-F-SK2-E-4,Jania rubens,70
+15-F-SK2-E-5,Jania rubens,75
+15-F-SK2-E-6,Jania rubens,25
+15-F-SK2-E-7,Jania rubens,25
+15-F-SK2-E-8,Jania rubens,70
+15-F-SK2-E-9,Jania rubens,45
+15-F-SK2-E-10,Jania rubens,20
+15-F-SK2-E-11,Jania rubens,50
+15-F-SK2-E-12,Jania rubens,70
+15-F-SK2-E-13,Jania rubens,45
+15-F-SK2-E-14,Jania rubens,45
+15-F-SK2-E-15,Jania rubens,80
+15-F-HB1-E-1,Jania rubens,85
+15-F-HB1-E-2,Jania rubens,90
+15-F-HB1-E-3,Jania rubens,90
+15-F-HB1-E-4,Jania rubens,45
+15-F-HB1-E-5,Jania rubens,70
+15-F-HB1-E-6,Jania rubens,80
+15-F-HB1-E-7,Jania rubens,90
+15-F-HB1-E-8,Jania rubens,40
+15-F-HB1-E-9,Jania rubens,50
+15-F-HB1-E-10,Jania rubens,80
+15-F-HB1-E-11,Jania rubens,80
+15-F-HB1-E-12,Jania rubens,92
+15-F-HB1-E-13,Jania rubens,80
+15-F-HB1-E-14,Jania rubens,80
+15-F-HB1-E-15,Jania rubens,85
+15-F-HB1-C-1,Jania rubens,20
+15-F-HB1-C-2,Jania rubens,30
+15-F-HB1-C-3,Jania rubens,5
+15-F-HB1-C-4,Jania rubens,4
+15-F-HB1-C-5,Jania rubens,5
+15-F-HB1-C-6,Jania rubens,10
+15-F-HB1-C-7,Jania rubens,25
+15-F-HB1-C-8,Jania rubens,15
+15-F-HB1-C-9,Jania rubens,5
+15-F-HB1-C-10,Jania rubens,6
+15-F-HB1-C-12,Jania rubens,1
+15-F-HB1-C-13,Jania rubens,2
+15-F-HB2-E-1,Jania rubens,45
+15-F-HB2-E-2,Jania rubens,60
+15-F-HB2-E-3,Jania rubens,75
+15-F-HB2-E-4,Jania rubens,95
+15-F-HB2-E-5,Jania rubens,67
+15-F-HB2-E-6,Jania rubens,38
+15-F-HB2-E-8,Jania rubens,15
+15-F-HB2-E-9,Jania rubens,70
+15-F-HB2-E-10,Jania rubens,55
+15-F-HB2-E-11,Jania rubens,80
+15-F-HB2-E-12,Jania rubens,70
+15-F-HB2-E-13,Jania rubens,50
+15-F-HB2-E-14,Jania rubens,80
+15-F-HB2-E-15,Jania rubens,40
+15-F-SY-E-2,Jania rubens,18
+15-F-SY-E-3,Jania rubens,30
+15-F-SY-E-4,Jania rubens,25
+15-F-SY-E-6,Jania rubens,6
+15-F-SY-E-9,Jania rubens,45
+15-F-SY-E-10,Jania rubens,30
+15-F-SY-E-11,Jania rubens,25
+15-F-SY-E-12,Jania rubens,50
+15-F-SY-E-13,Jania rubens,75
+15-F-SY-E-14,Jania rubens,40
+15-F-SY-E-15,Jania rubens,75
+15-F-SY-C-10,Jania rubens,10
+15-F-SY-C-11,Jania rubens,10
+15-F-SY-C-12,Jania rubens,35
+15-F-SY-C-13,Jania rubens,10
+15-F-SY-C-15,Jania rubens,3
+15-F-MC2-E-1,Jania rubens,30
+15-F-MC2-E-2,Jania rubens,45
+15-F-MC2-E-3,Jania rubens,10
+15-F-MC2-E-4,Jania rubens,65
+15-F-MC2-E-5,Jania rubens,50
+15-F-MC2-E-6,Jania rubens,32
+15-F-MC2-E-7,Jania rubens,70
+15-F-MC2-E-8,Jania rubens,35
+15-F-MC2-E-9,Jania rubens,80
+15-F-MC2-E-10,Jania rubens,27
+15-F-MC2-E-11,Jania rubens,25
+15-F-MC2-E-12,Jania rubens,80
+15-F-MC2-C-14,Jania rubens,10
+15-F-BY-E-1,Jania rubens,85
+15-F-BY-E-2,Jania rubens,35
+15-F-BY-E-3,Jania rubens,50
+15-F-BY-E-4,Jania rubens,80
+15-F-BY-E-5,Jania rubens,25
+15-F-BY-E-6,Jania rubens,95
+15-F-BY-E-7,Jania rubens,60
+15-F-BY-E-8,Jania rubens,45
+15-F-BY-E-9,Jania rubens,25
+15-F-BY-E-10,Jania rubens,40
+15-F-BY-E-12,Jania rubens,63
+15-F-BY-E-13,Jania rubens,65
+15-F-BY-E-14,Jania rubens,93
+15-F-BY-E-15,Jania rubens,80
+15-F-BY-C-6,Jania rubens,10
+15-F-BY-C-7,Jania rubens,9
+15-F-BY-C-8,Jania rubens,20
+15-F-BY-C-9,Jania rubens,1
+15-F-BY-C-12,Jania rubens,30
+15-F-BY-C-15,Jania rubens,10
+15-F-PL-E-2,Jania rubens,1
+15-F-PL-E-3,Jania rubens,14
+15-F-PL-E-4,Jania rubens,10
+15-F-PL-E-6,Jania rubens,16
+15-F-PL-E-7,Jania rubens,20
+15-F-PL-E-8,Jania rubens,25
+15-F-PL-E-10,Jania rubens,5
+15-F-PL-E-13,Jania rubens,1
+15-F-PL-E-14,Jania rubens,1
+15-F-PL-E-15,Jania rubens,3
+15-F-PL-C-3,Jania rubens,2
+15-F-PL-C-14,Jania rubens,2
+16-F-AK-E-1,Jania rubens,2
+16-F-AK-E-2,Jania rubens,8
+16-F-AK-E-3,Jania rubens,10
+16-F-AK-E-4,Jania rubens,20
+16-F-AK-E-5,Jania rubens,5
+16-F-AK-E-6,Jania rubens,10
+16-F-AK-E-7,Jania rubens,35
+16-F-AK-E-8,Jania rubens,30
+16-F-AK-E-9,Jania rubens,24
+16-F-AK-E-10,Jania rubens,35
+16-F-AK-E-11,Jania rubens,60
+16-F-AK-E-12,Jania rubens,30
+16-F-AK-E-13,Jania rubens,35
+16-F-AK-E-14,Jania rubens,65
+16-F-AK-C-1,Jania rubens,20
+16-F-AK-C-2,Jania rubens,30
+16-F-AK-C-3,Jania rubens,15
+16-F-AK-C-4,Jania rubens,14
+16-F-AK-C-5,Jania rubens,9
+16-F-AK-C-6,Jania rubens,23
+16-F-AK-C-7,Jania rubens,4
+16-F-AK-C-8,Jania rubens,24
+16-F-AK-C-9,Jania rubens,30
+16-F-AK-C-10,Jania rubens,20
+16-F-AK-C-11,Jania rubens,10
+16-F-AK-C-12,Jania rubens,40
+16-F-AK-C-13,Jania rubens,23
+16-F-AK-C-14,Jania rubens,18
+16-F-AK-C-15,Jania rubens,28
+16-F-SK-E-2,Jania rubens,40
+16-F-SK-E-3,Jania rubens,5
+16-F-SK-E-4,Jania rubens,40
+16-F-SK-E-5,Jania rubens,10
+16-F-SK-E-6,Jania rubens,80
+16-F-SK-E-7,Jania rubens,85
+16-F-SK-E-8,Jania rubens,30
+16-F-SK-E-10,Jania rubens,70
+16-F-SK-E-11,Jania rubens,40
+16-F-SK-E-12,Jania rubens,40
+16-F-SK-E-13,Jania rubens,30
+16-F-SK-E-14,Jania rubens,10
+16-F-SK-E-15,Jania rubens,15
+16-F-SK-C-6,Jania rubens,1
+16-F-SK-C-9,Jania rubens,1
+16-F-HB2-E-1,Jania rubens,60
+16-F-HB2-E-2,Jania rubens,80
+16-F-HB2-E-3,Jania rubens,94
+16-F-HB2-E-4,Jania rubens,80
+16-F-HB2-E-5,Jania rubens,80
+16-F-HB2-E-6,Jania rubens,90
+16-F-HB2-E-7,Jania rubens,90
+16-F-HB2-E-8,Jania rubens,80
+16-F-HB2-E-9,Jania rubens,70
+16-F-HB2-E-10,Jania rubens,85
+16-F-HB2-E-12,Jania rubens,85
+16-F-HB2-E-13,Jania rubens,80
+16-F-HB2-E-14,Jania rubens,85
+16-F-HB2-E-15,Jania rubens,85
+16-F-HB2-C-1,Jania rubens,20
+16-F-HB2-C-2,Jania rubens,8
+16-F-HB2-C-3,Jania rubens,75
+16-F-HB2-C-4,Jania rubens,60
+16-F-HB2-C-5,Jania rubens,15
+16-F-HB2-C-6,Jania rubens,10
+16-F-HB2-C-7,Jania rubens,27
+16-F-HB2-C-8,Jania rubens,25
+16-F-HB2-C-9,Jania rubens,14
+16-F-HB2-C-10,Jania rubens,15
+16-F-HB2-C-11,Jania rubens,35
+16-F-HB2-C-12,Jania rubens,30
+16-F-HB2-C-13,Jania rubens,20
+16-F-HB2-C-14,Jania rubens,5
+16-F-HB2-C-15,Jania rubens,5
+16-F-SY-E-4,Jania rubens,10
+16-F-SY-E-12,Jania rubens,30
+16-F-SY-E-13,Jania rubens,10
+16-F-SY-E-14,Jania rubens,5
+16-F-SY-C-5,Jania rubens,10
+16-F-SY-C-6,Jania rubens,6
+16-F-SY-C-7,Jania rubens,20
+16-F-SY-C-8,Jania rubens,15
+16-F-SY-C-9,Jania rubens,10
+16-F-SY-C-10,Jania rubens,35
+16-F-SY-C-11,Jania rubens,11
+16-F-SY-C-12,Jania rubens,3
+16-F-SY-C-13,Jania rubens,1
+16-F-SY-C-14,Jania rubens,30
+16-F-SY-C-15,Jania rubens,20
+16-F-BY-E-1,Jania rubens,85
+16-F-BY-E-2,Jania rubens,75
+16-F-BY-E-3,Jania rubens,70
+16-F-BY-E-4,Jania rubens,15
+16-F-BY-E-5,Jania rubens,3
+16-F-BY-E-6,Jania rubens,90
+16-F-BY-E-7,Jania rubens,95
+16-F-BY-E-8,Jania rubens,75
+16-F-BY-E-9,Jania rubens,75
+16-F-BY-E-11,Jania rubens,55
+16-F-BY-E-12,Jania rubens,50
+16-F-BY-E-13,Jania rubens,90
+16-F-BY-E-14,Jania rubens,55
+16-F-BY-E-15,Jania rubens,65
+16-F-BY-C-7,Jania rubens,91
+16-F-BY-C-10,Jania rubens,92
+16-F-BY-C-11,Jania rubens,75
+16-F-BY-C-12,Jania rubens,87
+16-F-BY-C-13,Jania rubens,30
+16-F-BY-C-14,Jania rubens,1
+16-F-PL-E-1,Jania rubens,25
+16-F-PL-E-3,Jania rubens,7
+16-F-PL-E-4,Jania rubens,25
+16-F-PL-E-5,Jania rubens,15
+16-F-PL-E-6,Jania rubens,1
+16-F-PL-E-8,Jania rubens,6
+16-F-PL-E-9,Jania rubens,6
+16-F-PL-E-14,Jania rubens,5
+16-F-PL-E-15,Jania rubens,1
+15-F-AK-E-1,Laurencia,25
+15-F-AK-E-2,Laurencia,6
+15-F-AK-E-3,Laurencia,4
+15-F-AK-E-4,Laurencia,35
+15-F-AK-E-5,Laurencia,30
+15-F-AK-E-6,Laurencia,55
+15-F-AK-E-11,Laurencia,12
+15-F-AK-E-12,Laurencia,23
+15-F-AK-E-13,Laurencia,16
+15-F-AK-E-14,Laurencia,40
+15-F-AK-C-1,Laurencia,1
+15-F-AK-C-2,Laurencia,5
+15-F-AK-C-3,Laurencia,8
+15-F-AK-C-4,Laurencia,40
+15-F-AK-C-5,Laurencia,20
+15-F-AK-C-6,Laurencia,35
+15-F-AC-E-1,Laurencia,10
+15-F-AC-E-2,Laurencia,1
+15-F-AC-E-3,Laurencia,25
+15-F-AC-E-4,Laurencia,3
+15-F-AC-E-5,Laurencia,1
+15-F-AC-E-6,Laurencia,1
+15-F-AC-E-7,Laurencia,2
+15-F-AC-E-9,Laurencia,20
+15-F-AC-E-11,Laurencia,6
+15-F-AC-E-12,Laurencia,9
+15-F-AC-E-13,Laurencia,1
+15-F-AC-E-15,Laurencia,30
+15-F-AC-C-2,Laurencia,2
+15-F-AC-C-3,Laurencia,25
+15-F-AC-C-4,Laurencia,4
+15-F-AC-C-5,Laurencia,6
+15-F-AC-C-6,Laurencia,40
+15-F-AC-C-7,Laurencia,50
+15-F-AC-C-8,Laurencia,60
+15-F-AC-C-9,Laurencia,80
+15-F-AC-C-10,Laurencia,90
+15-F-SK-E-1,Laurencia,5
+15-F-SK-E-2,Laurencia,20
+15-F-SK-E-3,Laurencia,5
+15-F-SK-E-4,Laurencia,25
+15-F-SK-E-5,Laurencia,5
+15-F-SK-E-9,Laurencia,5
+15-F-SK-E-13,Laurencia,5
+15-F-SK2-E-2,Laurencia,30
+15-F-SK2-E-3,Laurencia,25
+15-F-SK2-E-4,Laurencia,50
+15-F-SK2-E-7,Laurencia,1
+15-F-SK2-E-8,Laurencia,6
+15-F-SK2-E-11,Laurencia,6
+15-F-SK2-E-12,Laurencia,30
+15-F-SK2-E-13,Laurencia,5
+15-F-HB1-E-1,Laurencia,5
+15-F-HB1-E-3,Laurencia,10
+15-F-HB1-E-5,Laurencia,8
+15-F-HB1-E-7,Laurencia,2
+15-F-HB1-E-8,Laurencia,9
+15-F-HB1-E-9,Laurencia,25
+15-F-HB1-E-10,Laurencia,3
+15-F-HB1-E-11,Laurencia,4
+15-F-HB1-E-12,Laurencia,4
+15-F-HB1-E-15,Laurencia,1
+15-F-HB2-E-3,Laurencia,10
+15-F-HB2-E-4,Laurencia,3
+15-F-HB2-E-5,Laurencia,9
+15-F-HB2-E-12,Laurencia,1
+15-F-HB2-E-13,Laurencia,12
+15-F-SY-E-4,Laurencia,25
+15-F-SY-E-5,Laurencia,10
+15-F-SY-E-6,Laurencia,9
+15-F-SY-E-11,Laurencia,4
+15-F-SY-E-12,Laurencia,20
+15-F-SY-E-13,Laurencia,12
+15-F-SY-E-14,Laurencia,50
+15-F-SY-E-15,Laurencia,10
+15-F-MC2-E-2,Laurencia,10
+15-F-MC2-E-4,Laurencia,45
+15-F-MC2-E-5,Laurencia,25
+15-F-MC2-E-6,Laurencia,2
+15-F-MC2-E-7,Laurencia,4
+15-F-MC2-E-8,Laurencia,5
+15-F-MC2-E-11,Laurencia,15
+15-F-MC2-E-12,Laurencia,10
+15-F-BY-E-1,Laurencia,10
+15-F-BY-E-3,Laurencia,5
+15-F-BY-E-6,Laurencia,5
+15-F-BY-E-8,Laurencia,2
+15-F-BY-E-9,Laurencia,3
+15-F-BY-E-10,Laurencia,20
+16-F-AK-E-3,Laurencia,4
+16-F-AK-E-4,Laurencia,15
+16-F-AK-E-5,Laurencia,25
+16-F-AK-E-6,Laurencia,10
+16-F-AK-E-7,Laurencia,12
+16-F-AK-E-8,Laurencia,13
+16-F-AK-E-9,Laurencia,16
+16-F-AK-E-10,Laurencia,6
+16-F-AK-E-11,Laurencia,25
+16-F-AK-E-13,Laurencia,35
+16-F-AK-E-14,Laurencia,35
+16-F-AK-E-15,Laurencia,6
+16-F-AK-C-5,Laurencia,37
+16-F-AK-C-6,Laurencia,15
+16-F-SK-E-1,Laurencia,5
+16-F-SK-E-2,Laurencia,15
+16-F-SK-E-3,Laurencia,55
+16-F-SK-E-4,Laurencia,40
+16-F-SK-E-5,Laurencia,20
+16-F-SK-E-6,Laurencia,10
+16-F-SK-E-7,Laurencia,8
+16-F-SK-E-10,Laurencia,5
+16-F-SK-E-11,Laurencia,20
+16-F-SK-E-13,Laurencia,10
+16-F-SK-E-14,Laurencia,60
+16-F-SK-E-15,Laurencia,20
+16-F-HB2-E-2,Laurencia,10
+16-F-HB2-E-4,Laurencia,1
+16-F-HB2-E-5,Laurencia,10
+16-F-HB2-E-7,Laurencia,3
+16-F-HB2-E-8,Laurencia,2
+16-F-HB2-E-9,Laurencia,10
+16-F-HB2-E-13,Laurencia,3
+16-F-HB2-E-14,Laurencia,6
+16-F-HB2-C-4,Laurencia,0.1
+16-F-HB2-C-5,Laurencia,0.5
+16-F-HB2-C-6,Laurencia,0.5
+16-F-HB2-C-8,Laurencia,2
+16-F-HB2-C-9,Laurencia,1
+16-F-HB2-C-11,Laurencia,1
+16-F-SY-E-4,Laurencia,35
+16-F-SY-E-8,Laurencia,5
+16-F-SY-E-11,Laurencia,20
+16-F-SY-E-13,Laurencia,35
+16-F-SY-E-14,Laurencia,30
+16-F-SY-C-6,Laurencia,1
+16-F-SY-C-8,Laurencia,1
+16-F-BY-E-1,Laurencia,10
+16-F-BY-E-2,Laurencia,5
+16-F-BY-E-6,Laurencia,20
+16-F-BY-E-10,Laurencia,45
+16-F-BY-E-13,Laurencia,20
+16-F-BY-E-14,Laurencia,40
+16-F-BY-E-15,Laurencia,20
+16-F-BY-C-12,Laurencia,5
+15-F-AK-C-1,Padina,11
+15-F-AK-C-2,Padina,1
+15-F-AK-C-5,Padina,1
+15-F-AC-E-14,Padina,10
+15-F-AC-C-1,Padina,0.5
+15-F-AC-C-5,Padina,12
+15-F-AC-C-6,Padina,2
+15-F-AC-C-7,Padina,5
+15-F-AC-C-9,Padina,6
+15-F-AC-C-13,Padina,1
+15-F-SK-E-1,Padina,5
+15-F-SK-E-2,Padina,0.5
+15-F-SK-E-3,Padina,3
+15-F-SK-E-4,Padina,10
+15-F-SK-E-5,Padina,15
+15-F-SK-E-6,Padina,1
+15-F-SK-E-7,Padina,1
+15-F-SK-E-8,Padina,1
+15-F-SK-E-9,Padina,3
+15-F-SK-E-12,Padina,3
+15-F-SK-E-13,Padina,15
+15-F-SK-E-15,Padina,1
+15-F-SK2-E-4,Padina,1
+15-F-SK2-E-5,Padina,10
+15-F-SK2-E-6,Padina,1
+15-F-SK2-E-7,Padina,4
+15-F-SK2-E-8,Padina,4
+15-F-SK2-E-11,Padina,5
+15-F-HB1-E-1,Padina,0.5
+15-F-HB1-E-2,Padina,1
+15-F-HB1-E-3,Padina,20
+15-F-HB1-E-5,Padina,1
+15-F-HB1-E-6,Padina,1
+15-F-HB1-E-7,Padina,5
+15-F-HB1-E-8,Padina,1
+15-F-HB1-E-9,Padina,1
+15-F-HB1-E-10,Padina,1
+15-F-HB1-E-11,Padina,0.5
+15-F-HB1-E-12,Padina,1
+15-F-HB1-E-13,Padina,1
+15-F-HB1-E-14,Padina,1
+15-F-HB1-E-15,Padina,6
+15-F-HB2-E-1,Padina,7
+15-F-HB2-E-2,Padina,20
+15-F-HB2-E-3,Padina,18
+15-F-HB2-E-4,Padina,2
+15-F-HB2-E-5,Padina,5
+15-F-HB2-E-6,Padina,5
+15-F-HB2-E-7,Padina,15
+15-F-HB2-E-8,Padina,1
+15-F-HB2-E-9,Padina,10
+15-F-HB2-E-10,Padina,13
+15-F-HB2-E-11,Padina,5
+15-F-HB2-E-12,Padina,12
+15-F-HB2-E-14,Padina,12
+15-F-HB2-E-15,Padina,9
+15-F-SY-E-3,Padina,5
+15-F-SY-E-4,Padina,15
+15-F-SY-E-5,Padina,8
+15-F-SY-E-6,Padina,6
+15-F-SY-E-7,Padina,6
+15-F-SY-E-8,Padina,4
+15-F-SY-E-9,Padina,1
+15-F-SY-E-10,Padina,3
+15-F-SY-E-11,Padina,6
+15-F-SY-E-12,Padina,7
+15-F-SY-E-13,Padina,1
+15-F-SY-E-14,Padina,6
+15-F-SY-E-15,Padina,8
+15-F-SY-C-8,Padina,50
+15-F-SY-C-9,Padina,30
+15-F-SY-C-10,Padina,35
+15-F-SY-C-11,Padina,20
+15-F-SY-C-12,Padina,10
+15-F-SY-C-13,Padina,5
+15-F-SY-C-14,Padina,10
+15-F-MC2-E-4,Padina,4
+15-F-MC2-E-5,Padina,1
+15-F-MC2-E-7,Padina,0.5
+15-F-MC2-E-11,Padina,1
+15-F-MC2-E-12,Padina,2
+15-F-MC2-E-13,Padina,10
+15-F-BY-E-6,Padina,0.5
+15-F-BY-E-7,Padina,8
+15-F-BY-E-8,Padina,15
+15-F-BY-E-9,Padina,20
+15-F-BY-E-10,Padina,25
+15-F-BY-E-13,Padina,2
+15-F-BY-E-14,Padina,6
+15-F-BY-E-15,Padina,1
+15-F-BY-C-6,Padina,5
+15-F-BY-C-8,Padina,5
+15-F-BY-C-9,Padina,5
+15-F-BY-C-12,Padina,5
+15-F-PL-E-1,Padina,12
+15-F-PL-E-2,Padina,25
+15-F-PL-E-3,Padina,6
+15-F-PL-E-8,Padina,5
+15-F-PL-E-10,Padina,2
+15-F-PL-E-11,Padina,0.5
+15-F-PL-E-12,Padina,2
+15-F-PL-E-14,Padina,25
+15-F-PL-E-15,Padina,15
+15-F-PL-C-3,Padina,10
+15-F-PL-C-14,Padina,5
+16-F-AK-C-1,Padina,2
+16-F-AK-C-2,Padina,2
+16-F-AK-C-3,Padina,2
+16-F-AK-C-9,Padina,0.5
+16-F-SK-E-1,Padina,3
+16-F-SK-E-2,Padina,1
+16-F-SK-E-3,Padina,10
+16-F-SK-E-4,Padina,10
+16-F-SK-E-5,Padina,5
+16-F-SK-E-6,Padina,2
+16-F-SK-E-10,Padina,5
+16-F-SK-E-11,Padina,5
+16-F-SK-E-12,Padina,1
+16-F-SK-E-13,Padina,2
+16-F-SK-E-14,Padina,10
+16-F-SK-E-15,Padina,5
+16-F-HB2-E-1,Padina,2
+16-F-HB2-E-2,Padina,2
+16-F-HB2-E-4,Padina,2
+16-F-HB2-E-5,Padina,2
+16-F-HB2-E-6,Padina,3
+16-F-HB2-E-7,Padina,2
+16-F-HB2-E-8,Padina,1
+16-F-HB2-E-9,Padina,2
+16-F-HB2-E-10,Padina,6
+16-F-HB2-E-11,Padina,1
+16-F-HB2-E-12,Padina,3
+16-F-HB2-E-13,Padina,6
+16-F-HB2-E-14,Padina,4
+16-F-HB2-E-15,Padina,1
+16-F-HB2-C-3,Padina,2
+16-F-HB2-C-4,Padina,1
+16-F-HB2-C-5,Padina,5
+16-F-HB2-C-6,Padina,1
+16-F-HB2-C-7,Padina,0.1
+16-F-HB2-C-10,Padina,1
+16-F-HB2-C-12,Padina,1
+16-F-SY-E-14,Padina,0.5
+16-F-SY-C-8,Padina,2
+16-F-SY-C-9,Padina,1
+16-F-SY-C-10,Padina,3
+16-F-SY-C-12,Padina,4
+16-F-SY-C-14,Padina,6
+16-F-SY-C-15,Padina,3
+16-F-BY-C-5,Padina,8
+16-F-BY-C-6,Padina,10
+16-F-BY-C-7,Padina,8
+16-F-BY-C-11,Padina,3
+16-F-BY-C-12,Padina,3
+16-F-PL-E-1,Padina,18
+16-F-PL-E-2,Padina,12
+16-F-PL-E-3,Padina,1
+16-F-PL-E-4,Padina,10
+16-F-PL-E-6,Padina,8
+16-F-PL-E-7,Padina,3
+16-F-PL-E-9,Padina,4
+16-F-PL-E-10,Padina,6
+16-F-PL-E-11,Padina,10
+16-F-PL-E-13,Padina,2
+16-F-PL-E-14,Padina,15
+16-F-PL-E-15,Padina,30
+15-F-AC-E-8,Polysiphonia,4
+16-F-BY-E-10,Polysiphonia,0.5
+16-F-PL-E-1,Polysiphonia,40
+16-F-PL-E-2,Polysiphonia,25
+16-F-PL-E-3,Polysiphonia,25
+16-F-PL-E-4,Polysiphonia,18
+16-F-PL-E-6,Polysiphonia,80
+16-F-PL-E-7,Polysiphonia,90
+16-F-PL-E-8,Polysiphonia,90
+16-F-PL-E-9,Polysiphonia,80
+16-F-PL-E-10,Polysiphonia,70
+16-F-PL-E-11,Polysiphonia,30
+16-F-PL-E-12,Polysiphonia,70
+16-F-PL-E-13,Polysiphonia,80
+16-F-PL-E-14,Polysiphonia,70
+16-F-PL-E-15,Polysiphonia,70
+16-F-SY-E-14,Sargassum,1
+16-F-BY-E-1,Sargassum,2
+16-F-BY-E-3,Sargassum,1
+15-F-AC-E-6,Solieria filiformis,6
+15-F-AC-E-7,Solieria filiformis,6
+15-F-AC-E-13,Solieria filiformis,2
+15-F-AC-C-8,Solieria filiformis,1
+15-F-AK-E-1,Spyridia,9
+15-F-AK-E-2,Spyridia,7
+15-F-AK-E-3,Spyridia,4
+15-F-AK-E-4,Spyridia,5
+15-F-AK-E-5,Spyridia,15
+15-F-AK-E-6,Spyridia,5
+16-F-AK-E-6,Spyridia,8
+16-F-SK-C-8,Spyridia,0.1
+15-F-AK-E-1,Turf,5
+15-F-AK-E-2,Turf,4
+15-F-AK-E-3,Turf,1
+15-F-AK-E-4,Turf,2
+15-F-AK-E-5,Turf,7
+15-F-AK-E-6,Turf,8
+15-F-AK-E-7,Turf,30
+15-F-AK-E-8,Turf,80
+15-F-AK-E-9,Turf,43
+15-F-AK-E-10,Turf,40
+15-F-AK-E-11,Turf,30
+15-F-AK-E-12,Turf,27
+15-F-AK-E-13,Turf,20
+15-F-AK-E-15,Turf,30
+15-F-AK-C-1,Turf,65
+15-F-AK-C-2,Turf,80
+15-F-AK-C-3,Turf,40
+15-F-AK-C-4,Turf,20
+15-F-AK-C-5,Turf,60
+15-F-AK-C-6,Turf,55
+15-F-AK-C-7,Turf,75
+15-F-AK-C-8,Turf,60
+15-F-AK-C-9,Turf,60
+15-F-AK-C-10,Turf,65
+15-F-AK-C-11,Turf,65
+15-F-AK-C-12,Turf,40
+15-F-AK-C-13,Turf,70
+15-F-AK-C-14,Turf,60
+15-F-AK-C-15,Turf,80
+15-F-AC-C-11,Turf,87
+15-F-AC-C-12,Turf,98
+15-F-AC-C-14,Turf,95
+15-F-AC-C-15,Turf,88
+15-F-SK-E-1,Turf,50
+15-F-SK-E-2,Turf,23
+15-F-SK-E-3,Turf,15
+15-F-SK-E-4,Turf,10
+15-F-SK-E-5,Turf,30
+15-F-SK-E-6,Turf,5
+15-F-SK-E-7,Turf,15
+15-F-SK-E-9,Turf,15
+15-F-SK-E-10,Turf,35
+15-F-SK-E-11,Turf,25
+15-F-SK-E-12,Turf,35
+15-F-SK-E-13,Turf,10
+15-F-SK-E-15,Turf,45
+15-F-SK2-E-1,Turf,30
+15-F-SK2-E-4,Turf,6
+15-F-SK2-E-5,Turf,10
+15-F-SK2-E-6,Turf,40
+15-F-SK2-E-7,Turf,50
+15-F-SK2-E-8,Turf,20
+15-F-SK2-E-9,Turf,35
+15-F-SK2-E-10,Turf,18
+15-F-SK2-E-11,Turf,30
+15-F-SK2-E-12,Turf,20
+15-F-SK2-E-14,Turf,40
+15-F-SK2-E-15,Turf,10
+15-F-SK2-C-1,Turf,96
+15-F-SK2-C-2,Turf,97
+15-F-SK2-C-3,Turf,85
+15-F-SK2-C-4,Turf,100
+15-F-SK2-C-5,Turf,99
+15-F-SK2-C-6,Turf,95
+15-F-SK2-C-7,Turf,94
+15-F-SK2-C-8,Turf,50
+15-F-SK2-C-9,Turf,90
+15-F-SK2-C-10,Turf,99
+15-F-SK2-C-11,Turf,10
+15-F-SK2-C-12,Turf,95
+15-F-SK2-C-13,Turf,85
+15-F-SK2-C-14,Turf,80
+15-F-SK2-C-15,Turf,90
+15-F-HB1-E-2,Turf,3
+15-F-HB1-E-3,Turf,5
+15-F-HB1-E-4,Turf,30
+15-F-HB1-E-5,Turf,40
+15-F-HB1-E-6,Turf,10
+15-F-HB1-E-7,Turf,4
+15-F-HB1-E-8,Turf,50
+15-F-HB1-E-9,Turf,40
+15-F-HB1-E-10,Turf,15
+15-F-HB1-E-11,Turf,15
+15-F-HB1-E-13,Turf,8
+15-F-HB1-E-14,Turf,20
+15-F-HB1-E-15,Turf,8
+15-F-HB1-C-1,Turf,50
+15-F-HB1-C-2,Turf,15
+15-F-HB1-C-3,Turf,40
+15-F-HB1-C-4,Turf,60
+15-F-HB1-C-5,Turf,50
+15-F-HB1-C-6,Turf,55
+15-F-HB1-C-7,Turf,60
+15-F-HB1-C-8,Turf,60
+15-F-HB1-C-9,Turf,80
+15-F-HB1-C-10,Turf,60
+15-F-HB1-C-11,Turf,90
+15-F-HB1-C-12,Turf,70
+15-F-HB1-C-13,Turf,80
+15-F-HB1-C-14,Turf,95
+15-F-HB1-C-15,Turf,90
+15-F-HB2-E-2,Turf,16
+15-F-HB2-E-3,Turf,10
+15-F-HB2-E-5,Turf,15
+15-F-HB2-E-6,Turf,39
+15-F-HB2-E-7,Turf,80
+15-F-HB2-E-9,Turf,15
+15-F-HB2-E-11,Turf,10
+15-F-HB2-E-12,Turf,20
+15-F-HB2-E-13,Turf,15
+15-F-HB2-E-14,Turf,5
+15-F-HB2-E-15,Turf,2
+15-F-SY-E-1,Turf,18
+15-F-SY-E-3,Turf,60
+15-F-SY-E-4,Turf,5
+15-F-SY-E-5,Turf,25
+15-F-SY-E-6,Turf,40
+15-F-SY-E-8,Turf,8
+15-F-SY-E-9,Turf,10
+15-F-SY-E-10,Turf,44
+15-F-SY-E-11,Turf,29
+15-F-SY-E-12,Turf,40
+15-F-SY-E-14,Turf,5
+15-F-SY-C-1,Turf,15
+15-F-SY-C-2,Turf,12
+15-F-SY-C-3,Turf,10
+15-F-SY-C-4,Turf,90
+15-F-SY-C-5,Turf,2
+15-F-SY-C-6,Turf,10
+15-F-SY-C-7,Turf,50
+15-F-SY-C-8,Turf,20
+15-F-SY-C-9,Turf,20
+15-F-SY-C-10,Turf,20
+15-F-SY-C-11,Turf,10
+15-F-SY-C-12,Turf,10
+15-F-SY-C-13,Turf,20
+15-F-SY-C-14,Turf,25
+15-F-SY-C-15,Turf,15
+15-F-MC2-E-1,Turf,55
+15-F-MC2-E-3,Turf,30
+15-F-MC2-E-4,Turf,10
+15-F-MC2-E-5,Turf,20
+15-F-MC2-E-6,Turf,25
+15-F-MC2-E-7,Turf,5
+15-F-MC2-E-8,Turf,20
+15-F-MC2-E-9,Turf,10
+15-F-MC2-E-11,Turf,25
+15-F-MC2-E-13,Turf,40
+15-F-MC2-C-1,Turf,89
+15-F-MC2-C-2,Turf,100
+15-F-MC2-C-6,Turf,45
+15-F-MC2-C-9,Turf,84
+15-F-MC2-C-10,Turf,94
+15-F-MC2-C-11,Turf,78
+15-F-MC2-C-12,Turf,58
+15-F-MC2-C-13,Turf,90
+15-F-MC2-C-14,Turf,89
+15-F-MC2-C-15,Turf,16
+15-F-BY-E-2,Turf,50
+15-F-BY-E-3,Turf,40
+15-F-BY-E-7,Turf,20
+15-F-BY-E-8,Turf,35
+15-F-BY-E-9,Turf,12
+15-F-BY-E-13,Turf,33
+15-F-BY-E-15,Turf,20
+15-F-BY-C-1,Turf,50
+15-F-BY-C-2,Turf,42
+15-F-BY-C-3,Turf,30
+15-F-BY-C-4,Turf,30
+15-F-BY-C-5,Turf,30
+15-F-BY-C-6,Turf,50
+15-F-BY-C-7,Turf,60
+15-F-BY-C-8,Turf,40
+15-F-BY-C-9,Turf,45
+15-F-BY-C-10,Turf,50
+15-F-BY-C-11,Turf,30
+15-F-BY-C-12,Turf,30
+15-F-BY-C-13,Turf,50
+15-F-BY-C-14,Turf,70
+15-F-BY-C-15,Turf,50
+15-F-PL-E-5,Turf,1
+15-F-PL-E-6,Turf,1
+15-F-PL-E-10,Turf,2
+15-F-PL-E-11,Turf,45
+15-F-PL-E-12,Turf,30
+15-F-PL-E-13,Turf,21
+15-F-PL-E-14,Turf,35
+15-F-PL-E-15,Turf,30
+15-F-PL-C-12,Turf,10
+15-F-PL-C-13,Turf,35
+15-F-PL-C-14,Turf,40
+15-F-PL-C-15,Turf,30
+16-F-AK-E-1,Turf,40
+16-F-AK-E-2,Turf,30
+16-F-AK-E-5,Turf,10
+16-F-AK-E-11,Turf,20
+16-F-AK-E-12,Turf,40
+16-F-AK-E-13,Turf,25
+16-F-AK-E-14,Turf,3
+16-F-AK-E-15,Turf,10
+16-F-SK-E-3,Turf,10
+16-F-SK-E-6,Turf,2
+16-F-SK-E-11,Turf,10
+16-F-SK-E-15,Turf,10
+16-F-HB2-E-1,Turf,10
+16-F-HB2-E-11,Turf,10
+16-F-HB2-E-12,Turf,3
+16-F-SY-E-1,Turf,50
+16-F-SY-E-2,Turf,35
+16-F-SY-E-4,Turf,30
+16-F-SY-E-11,Turf,25
+16-F-SY-E-12,Turf,15
+16-F-SY-E-13,Turf,15
+16-F-SY-E-14,Turf,20
+16-F-BY-E-2,Turf,15
+16-F-BY-E-3,Turf,30
+16-F-BY-E-4,Turf,80
+16-F-BY-E-5,Turf,92
+16-F-BY-E-6,Turf,4
+16-F-BY-E-8,Turf,2
+16-F-BY-E-12,Turf,47
+16-F-BY-E-13,Turf,10
+16-F-BY-E-15,Turf,20
+16-F-BY-C-1,Turf,98
+16-F-BY-C-2,Turf,100
+16-F-BY-C-3,Turf,96
+16-F-BY-C-4,Turf,100
+16-F-BY-C-5,Turf,100
+16-F-BY-C-6,Turf,40
+16-F-BY-C-9,Turf,98
+16-F-BY-C-10,Turf,5
+16-F-BY-C-11,Turf,15
+16-F-BY-C-12,Turf,5
+16-F-BY-C-13,Turf,70
+16-F-BY-C-14,Turf,98
+16-F-BY-C-15,Turf,100
+16-F-PL-E-4,Turf,10
+16-F-PL-E-5,Turf,40
+16-F-PL-E-9,Turf,10
+16-F-PL-E-10,Turf,25
+16-F-PL-E-12,Turf,10
+16-F-PL-C-1,Turf,90
+16-F-PL-C-2,Turf,100
+16-F-PL-C-3,Turf,100
+16-F-PL-C-4,Turf,100
+16-F-PL-C-5,Turf,100
+16-F-PL-C-6,Turf,100
+16-F-PL-C-7,Turf,85
+16-F-PL-C-8,Turf,99
+16-F-PL-C-9,Turf,92
+16-F-PL-C-10,Turf,100
+16-F-PL-C-11,Turf,70
+16-F-PL-C-12,Turf,100
+16-F-PL-C-13,Turf,100
+16-F-PL-C-14,Turf,90
+16-F-PL-C-15,Turf,50
+15-F-SK2-C-1,Ulva compressa,56.4897633358378
+15-F-SK2-C-2,Ulva compressa,57.0452667167543
+15-F-SK2-C-3,Ulva compressa,53.8206235912848
+15-F-SK2-C-4,Ulva compressa,57.8511457550713
+15-F-SK2-C-5,Ulva compressa,57.4781179564238
+15-F-SK2-C-6,Ulva compressa,56.0729714500376
+15-F-SK2-C-7,Ulva compressa,56.6032118707739
+15-F-SK2-C-8,Ulva compressa,38.1346262208865
+15-F-SK2-C-9,Ulva compressa,53.6282870022539
+15-F-SK2-C-10,Ulva compressa,57.8212340345605
+15-F-SK2-C-11,Ulva compressa,35.9285311795643
+15-F-SK2-C-12,Ulva compressa,57.1454263711495
+15-F-SK2-C-13,Ulva compressa,55.6402610818933
+15-F-SK2-C-14,Ulva compressa,48.7867674680692
+15-F-SK2-C-15,Ulva compressa,53.1862321562735
+15-F-SK2-C-1,Valonia utricularis,57.1642796769347
+15-F-SK2-C-2,Valonia utricularis,57.7230935386927
+15-F-SK2-C-3,Valonia utricularis,54.4520567242675
+15-F-SK2-C-4,Valonia utricularis,58.5459475957927
+15-F-SK2-C-5,Valonia utricularis,58.1665336213374
+15-F-SK2-C-6,Valonia utricularis,56.742932945154
+15-F-SK2-C-7,Valonia utricularis,57.2794186701728
+15-F-SK2-C-8,Valonia utricularis,38.4925925056348
+15-F-SK2-C-9,Valonia utricularis,54.2634767092411
+15-F-SK2-C-10,Valonia utricularis,58.513934541698
+15-F-SK2-C-11,Valonia utricularis,36.3132278362134
+15-F-SK2-C-12,Valonia utricularis,57.818123121713
+15-F-SK2-C-13,Valonia utricularis,56.2656954357626
+15-F-SK2-C-14,Valonia utricularis,49.3663716190834
+15-F-SK2-C-15,Valonia utricularis,53.8198018407213

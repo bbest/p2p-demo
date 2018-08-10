@@ -1,0 +1,616 @@
+qrt_id,Year,Season,site_id,Trans_Type,Qrt_serial,Parameters . Holes,Parameters % Bare rock,Parameters % Gravel,Parameters % Holes,Parameters % Sand,Parameters % Tar,Parameters % Water,Parameters 1-4 Difficulty,Parameters 1-4 Roughness,Parameters 1-4 Verticality
+15-F-AK-E-1,2015,Fall,Akhziv,Edge,1,0,0,0,NA,3,0,40,1,2,1
+15-F-AK-E-2,2015,Fall,Akhziv,Edge,2,2,0,0,NA,3,0,30,1,2,1
+15-F-AK-E-3,2015,Fall,Akhziv,Edge,3,0,0,0,NA,2,0,60,1,2,1
+15-F-AK-E-4,2015,Fall,Akhziv,Edge,4,0,0,0,NA,5,0,30,1,2,1
+15-F-AK-E-5,2015,Fall,Akhziv,Edge,5,2,0,0,NA,6,0,0,1,2,1
+15-F-AK-E-6,2015,Fall,Akhziv,Edge,6,1,2,0,NA,3,0,20,1,2,1
+15-F-AK-E-7,2015,Fall,Akhziv,Edge,7,0,0,0,NA,3,0,100,1,2,1
+15-F-AK-E-8,2015,Fall,Akhziv,Edge,8,0,0,0,NA,0,0,40,1,2,1
+15-F-AK-E-9,2015,Fall,Akhziv,Edge,9,0,0,0,NA,2,0,80,1,2,1
+15-F-AK-E-10,2015,Fall,Akhziv,Edge,10,0,0,0,NA,2,0,0,1,2,1
+15-F-AK-E-11,2015,Fall,Akhziv,Edge,11,0,10,0,NA,2,0,85,1,2,1
+15-F-AK-E-12,2015,Fall,Akhziv,Edge,12,0,0,0,NA,2,0,80,1,2,1
+15-F-AK-E-13,2015,Fall,Akhziv,Edge,13,0,0,0,NA,0,0,90,1,1,1
+15-F-AK-E-14,2015,Fall,Akhziv,Edge,14,0,0,0,NA,0,0,20,1,1,2
+15-F-AK-E-15,2015,Fall,Akhziv,Edge,15,0,35,0,NA,0,0,20,1,1,2
+15-F-AK-C-1,2015,Fall,Akhziv,Center,1,0,0,0,NA,55,0,100,1,2,1
+15-F-AK-C-2,2015,Fall,Akhziv,Center,2,0,0,0,NA,75,0,100,1,2,1
+15-F-AK-C-3,2015,Fall,Akhziv,Center,3,0,0,0,NA,15,0,100,1,2,1
+15-F-AK-C-4,2015,Fall,Akhziv,Center,4,0,0,0,NA,4,0,100,1,1,1
+15-F-AK-C-5,2015,Fall,Akhziv,Center,5,0,0,0,NA,50,0,100,1,2,1
+15-F-AK-C-6,2015,Fall,Akhziv,Center,6,0,0,0,NA,5,0,100,1,2,1
+15-F-AK-C-7,2015,Fall,Akhziv,Center,7,0,0,0,NA,50,0,100,1,1,1
+15-F-AK-C-8,2015,Fall,Akhziv,Center,8,0,0,0,NA,50,0,100,1,1,1
+15-F-AK-C-9,2015,Fall,Akhziv,Center,9,0,0,0,NA,5,0,100,1,1,1
+15-F-AK-C-10,2015,Fall,Akhziv,Center,10,0,0,0,NA,2,0,100,1,1,1
+15-F-AK-C-11,2015,Fall,Akhziv,Center,11,0,0,0,NA,2,0,100,1,1,1
+15-F-AK-C-12,2015,Fall,Akhziv,Center,12,0,0,0,NA,5,0,90,1,2,1
+15-F-AK-C-13,2015,Fall,Akhziv,Center,13,0,0,0,NA,0,0,100,1,1,1
+15-F-AK-C-14,2015,Fall,Akhziv,Center,14,0,0,0,NA,0,0,100,1,1,1
+15-F-AK-C-15,2015,Fall,Akhziv,Center,15,0,0,0,NA,0,0,100,1,1,1
+15-F-AC-E-1,2015,Fall,Akko2,Edge,1,0,2,0,NA,0,0,50,1,2,1
+15-F-AC-E-2,2015,Fall,Akko2,Edge,2,0,1,0,NA,0,0,25,1,2,1
+15-F-AC-E-3,2015,Fall,Akko2,Edge,3,0,1,0,NA,0,0,60,1,2,1
+15-F-AC-E-4,2015,Fall,Akko2,Edge,4,0,5,0,NA,0,0,30,1,2,1
+15-F-AC-E-5,2015,Fall,Akko2,Edge,5,0,20,0,NA,0,0,5,1,2,1
+15-F-AC-E-6,2015,Fall,Akko2,Edge,6,0,1,0,NA,0,0,15,1,2,1
+15-F-AC-E-7,2015,Fall,Akko2,Edge,7,1,0,0,NA,0,0,30,1,2,1
+15-F-AC-E-8,2015,Fall,Akko2,Edge,8,6,5,0,NA,0,0,20,1,2,1
+15-F-AC-E-9,2015,Fall,Akko2,Edge,9,0,1,0,NA,0,0,20,1,2,1
+15-F-AC-E-10,2015,Fall,Akko2,Edge,10,1,1,0,NA,0,0,20,1,2,1
+15-F-AC-E-11,2015,Fall,Akko2,Edge,11,1,2,0,NA,0,0,10,1,2,1
+15-F-AC-E-12,2015,Fall,Akko2,Edge,12,1,0,0,NA,0,0,90,1,2,1
+15-F-AC-E-13,2015,Fall,Akko2,Edge,13,1,2,0,NA,0,0,80,1,2,1
+15-F-AC-E-14,2015,Fall,Akko2,Edge,14,1,3,0,NA,0,0,30,1,2,2
+15-F-AC-E-15,2015,Fall,Akko2,Edge,15,1,1,0,NA,0,0,0,1,2,2
+15-F-AC-C-1,2015,Fall,Akko2,Center,1,1,2,0,NA,0,0,11,1,1,1
+15-F-AC-C-2,2015,Fall,Akko2,Center,2,1,5,0,NA,0,0,20,1,1,1
+15-F-AC-C-3,2015,Fall,Akko2,Center,3,2,5,0,NA,0,0,45,1,1,1
+15-F-AC-C-4,2015,Fall,Akko2,Center,4,0,0,0,NA,0,0,40,1,1,1
+15-F-AC-C-5,2015,Fall,Akko2,Center,5,0,0,0,NA,0,0,80,1,1,1
+15-F-AC-C-6,2015,Fall,Akko2,Center,6,0,0,0,NA,0,0,80,1,1,1
+15-F-AC-C-7,2015,Fall,Akko2,Center,7,1,1,0,NA,0,0,80,1,1,1
+15-F-AC-C-8,2015,Fall,Akko2,Center,8,1,1,0,NA,0,0,50,1,1,1
+15-F-AC-C-9,2015,Fall,Akko2,Center,9,0,0,0,NA,0,0,100,1,1,1
+15-F-AC-C-10,2015,Fall,Akko2,Center,10,0,0,0,NA,0,0,100,1,1,1
+15-F-AC-C-11,2015,Fall,Akko2,Center,11,0,10,0,NA,0,0,80,1,1,1
+15-F-AC-C-12,2015,Fall,Akko2,Center,12,0,1,0,NA,0,0,100,1,1,1
+15-F-AC-C-13,2015,Fall,Akko2,Center,13,0,0,0,NA,0,0,80,1,1,1
+15-F-AC-C-14,2015,Fall,Akko2,Center,14,3,1,0,NA,0,0,80,1,1,1
+15-F-AC-C-15,2015,Fall,Akko2,Center,15,0,0,0,NA,0,0,15,1,1,1
+15-F-SK-E-1,2015,Fall,Shikmona1,Edge,1,2,0,0,NA,0,0,50,1,1,1
+15-F-SK-E-2,2015,Fall,Shikmona1,Edge,2,0,0,0,NA,0,0,30,1,2,1
+15-F-SK-E-3,2015,Fall,Shikmona1,Edge,3,2,0,0,NA,0,0,100,1,1,1
+15-F-SK-E-4,2015,Fall,Shikmona1,Edge,4,1,0,0,NA,0,0,100,1,2,1
+15-F-SK-E-5,2015,Fall,Shikmona1,Edge,5,5,0,0,NA,0,0,100,1,2,1
+15-F-SK-E-6,2015,Fall,Shikmona1,Edge,6,5,0,0,NA,0,0,100,1,2,1
+15-F-SK-E-7,2015,Fall,Shikmona1,Edge,7,1,0,0,NA,0,0,100,1,2,1
+15-F-SK-E-8,2015,Fall,Shikmona1,Edge,8,1,0,0,NA,0,0,75,1,2,2
+15-F-SK-E-9,2015,Fall,Shikmona1,Edge,9,2,0,0,NA,0,0,100,1,1,1
+15-F-SK-E-10,2015,Fall,Shikmona1,Edge,10,2,0,0,NA,0,0,50,1,3,2
+15-F-SK-E-11,2015,Fall,Shikmona1,Edge,11,2,0,0,NA,0,0,70,1,3,2
+15-F-SK-E-12,2015,Fall,Shikmona1,Edge,12,2,3,0,NA,0,0,20,1,1,2
+15-F-SK-E-13,2015,Fall,Shikmona1,Edge,13,4,0,0,NA,0,0,90,1,2,1
+15-F-SK-E-14,2015,Fall,Shikmona1,Edge,14,1,5,0,NA,0,0,50,1,3,2
+15-F-SK-E-15,2015,Fall,Shikmona1,Edge,15,2,2,0,NA,0,0,60,1,2,1
+15-F-SK-C-1,2015,Fall,Shikmona1,Center,1,2,0,1,NA,5,0,100,2,1,1
+15-F-SK-C-2,2015,Fall,Shikmona1,Center,2,1,0,0,NA,10,0,100,2,2,1
+15-F-SK-C-3,2015,Fall,Shikmona1,Center,3,2,1,0,NA,1,0,100,2,1,1
+15-F-SK-C-4,2015,Fall,Shikmona1,Center,4,3,0,0,NA,0,0,100,2,2,1
+15-F-SK-C-5,2015,Fall,Shikmona1,Center,5,4,3,0,NA,0,0,98,2,2,1
+15-F-SK-C-6,2015,Fall,Shikmona1,Center,6,1,3,2,NA,5,0,100,2,2,1
+15-F-SK-C-7,2015,Fall,Shikmona1,Center,7,0,0,1,NA,3,0,100,2,2,1
+15-F-SK-C-8,2015,Fall,Shikmona1,Center,8,0,0,2,NA,1,0,100,2,2,1
+15-F-SK-C-9,2015,Fall,Shikmona1,Center,9,3,0,1,NA,4,0,100,2,2,1
+15-F-SK-C-10,2015,Fall,Shikmona1,Center,10,2,0,0,NA,30,0,100,2,1,1
+15-F-SK-C-11,2015,Fall,Shikmona1,Center,11,4,1,3,NA,10,0,100,2,3,1
+15-F-SK-C-12,2015,Fall,Shikmona1,Center,12,0,0,3,NA,3,0,100,2,1,1
+15-F-SK-C-13,2015,Fall,Shikmona1,Center,13,0,2,5,NA,2,0,100,2,1,1
+15-F-SK-C-14,2015,Fall,Shikmona1,Center,14,0,0,5,NA,1,0,100,2,1,1
+15-F-SK-C-15,2015,Fall,Shikmona1,Center,15,0,0,1,NA,20,0,100,2,1,1
+15-F-SK2-E-1,2015,Fall,Shikmona2,Edge,1,0,3,0,NA,0,0,100,3,2,1
+15-F-SK2-E-2,2015,Fall,Shikmona2,Edge,2,0,0,0,NA,0,0,100,3,3,1
+15-F-SK2-E-3,2015,Fall,Shikmona2,Edge,3,0,2,0,NA,0,0,100,3,1,2
+15-F-SK2-E-4,2015,Fall,Shikmona2,Edge,4,5,0,0,NA,0,0,100,4,1,1
+15-F-SK2-E-5,2015,Fall,Shikmona2,Edge,5,3,2,0,NA,0,0,100,4,1,1
+15-F-SK2-E-6,2015,Fall,Shikmona2,Edge,6,0,1,0,NA,0,0,100,4,1,1
+15-F-SK2-E-7,2015,Fall,Shikmona2,Edge,7,4,0,0,NA,0,0,100,4,1,2
+15-F-SK2-E-8,2015,Fall,Shikmona2,Edge,8,6,2,0,NA,0,0,100,4,1,1
+15-F-SK2-E-9,2015,Fall,Shikmona2,Edge,9,0,0,0,NA,0,0,85,4,1,2
+15-F-SK2-E-10,2015,Fall,Shikmona2,Edge,10,4,50,0,NA,0,0,100,3,1,1
+15-F-SK2-E-11,2015,Fall,Shikmona2,Edge,11,5,1,0,NA,0,0,100,3,1,1
+15-F-SK2-E-12,2015,Fall,Shikmona2,Edge,12,2,1,0,NA,0,0,100,3,3,1
+15-F-SK2-E-13,2015,Fall,Shikmona2,Edge,13,0,3,0,NA,0,0,100,2,2,1
+15-F-SK2-E-14,2015,Fall,Shikmona2,Edge,14,0,1,0,NA,0,0,100,2,2,1
+15-F-SK2-E-15,2015,Fall,Shikmona2,Edge,15,0,0,0,NA,0,0,100,3,2,2
+15-F-SK2-C-1,2015,Fall,Shikmona2,Center,1,0,0,0,NA,3,0,100,1,2,1
+15-F-SK2-C-2,2015,Fall,Shikmona2,Center,2,0,0,2,NA,1,0,100,1,1,1
+15-F-SK2-C-3,2015,Fall,Shikmona2,Center,3,0,3,1,NA,1,0,100,2,2,1
+15-F-SK2-C-4,2015,Fall,Shikmona2,Center,4,0,0,0,NA,1,0,100,1,1,1
+15-F-SK2-C-5,2015,Fall,Shikmona2,Center,5,0,0,1,NA,1,0,100,1,1,1
+15-F-SK2-C-6,2015,Fall,Shikmona2,Center,6,0,0,1,NA,1,0,100,1,1,1
+15-F-SK2-C-7,2015,Fall,Shikmona2,Center,7,0,0,1,NA,1,0,100,1,1,1
+15-F-SK2-C-8,2015,Fall,Shikmona2,Center,8,0,0,1,NA,1,0,100,1,1,1
+15-F-SK2-C-9,2015,Fall,Shikmona2,Center,9,3,0,1,NA,1,0,100,1,1,1
+15-F-SK2-C-10,2015,Fall,Shikmona2,Center,10,6,0,1,NA,1,0,100,1,1,1
+15-F-SK2-C-11,2015,Fall,Shikmona2,Center,11,1,5,1,NA,1,0,100,1,1,1
+15-F-SK2-C-12,2015,Fall,Shikmona2,Center,12,3,0,2,NA,1,0,100,1,1,1
+15-F-SK2-C-13,2015,Fall,Shikmona2,Center,13,1,0,1,NA,1,0,100,1,1,1
+15-F-SK2-C-14,2015,Fall,Shikmona2,Center,14,3,0,1,NA,1,0,100,1,1,1
+15-F-SK2-C-15,2015,Fall,Shikmona2,Center,15,3,0,1,NA,1,0,100,1,1,1
+15-F-HB1-E-1,2015,Fall,Habonim1,Edge,1,0,3,0,NA,0,0,80,2,2,1
+15-F-HB1-E-2,2015,Fall,Habonim1,Edge,2,3,3,0,NA,0,0,70,2,2,1
+15-F-HB1-E-3,2015,Fall,Habonim1,Edge,3,0,2,0,NA,0,0,85,0,2,1
+15-F-HB1-E-4,2015,Fall,Habonim1,Edge,4,0,8,0,NA,0,0,50,0,4,1
+15-F-HB1-E-5,2015,Fall,Habonim1,Edge,5,1,3,0,NA,0,0,50,3,3,3
+15-F-HB1-E-6,2015,Fall,Habonim1,Edge,6,2,0,0,NA,0,0,35,2,2,1
+15-F-HB1-E-7,2015,Fall,Habonim1,Edge,7,0,1,0,NA,0,0,80,2,2,1
+15-F-HB1-E-8,2015,Fall,Habonim1,Edge,8,2,3,0,NA,0,0,80,2,2,1
+15-F-HB1-E-9,2015,Fall,Habonim1,Edge,9,0,0,0,NA,0,0,90,2,4,1
+15-F-HB1-E-10,2015,Fall,Habonim1,Edge,10,0,2,0,NA,0,0,60,2,3,2
+15-F-HB1-E-11,2015,Fall,Habonim1,Edge,11,1,2,0,NA,0,0,50,2,2,2
+15-F-HB1-E-12,2015,Fall,Habonim1,Edge,12,1,1,0,NA,0,0,80,2,1,1
+15-F-HB1-E-13,2015,Fall,Habonim1,Edge,13,0,3,0,NA,0,0,90,2,1,1
+15-F-HB1-E-14,2015,Fall,Habonim1,Edge,14,0,0,0,NA,0,0,100,2,2,1
+15-F-HB1-E-15,2015,Fall,Habonim1,Edge,15,0,4,0,NA,0,0,100,2,2,1
+15-F-HB1-C-1,2015,Fall,Habonim1,Center,1,0,5,0,NA,0,0,100,1,1,1
+15-F-HB1-C-2,2015,Fall,Habonim1,Center,2,0,2,0,NA,0,0,100,1,1,1
+15-F-HB1-C-3,2015,Fall,Habonim1,Center,3,0,2,0,NA,0,0,100,1,1,1
+15-F-HB1-C-4,2015,Fall,Habonim1,Center,4,0,1,0,NA,0,0,100,1,1,1
+15-F-HB1-C-5,2015,Fall,Habonim1,Center,5,0,0,0,NA,0,0,100,1,1,1
+15-F-HB1-C-6,2015,Fall,Habonim1,Center,6,0,1,0,NA,0,0,100,1,2,1
+15-F-HB1-C-7,2015,Fall,Habonim1,Center,7,0,0,0,NA,0,0,100,1,2,1
+15-F-HB1-C-8,2015,Fall,Habonim1,Center,8,0,0,0,NA,0,0,100,1,2,1
+15-F-HB1-C-9,2015,Fall,Habonim1,Center,9,0,0,0,NA,0,0,100,1,1,1
+15-F-HB1-C-10,2015,Fall,Habonim1,Center,10,1,0,0,NA,0,0,100,1,1,1
+15-F-HB1-C-11,2015,Fall,Habonim1,Center,11,1,0,0,NA,0,0,100,1,2,1
+15-F-HB1-C-12,2015,Fall,Habonim1,Center,12,0,0,0,NA,0,0,100,1,1,1
+15-F-HB1-C-13,2015,Fall,Habonim1,Center,13,0,0,0,NA,0,0,100,1,1,1
+15-F-HB1-C-14,2015,Fall,Habonim1,Center,14,0,0,0,NA,0,0,100,1,1,1
+15-F-HB1-C-15,2015,Fall,Habonim1,Center,15,0,0,0,NA,0,0,100,1,1,1
+15-F-HB2-E-1,2015,Fall,Habonim2,Edge,1,2,1,0,NA,0,0,100,3,1,1
+15-F-HB2-E-2,2015,Fall,Habonim2,Edge,2,0,2,0,NA,0,0,100,3,2,1
+15-F-HB2-E-3,2015,Fall,Habonim2,Edge,3,1,0,0,NA,0,0,100,3,1,1
+15-F-HB2-E-4,2015,Fall,Habonim2,Edge,4,0,0.5,0,NA,0,0,100,3,1,2
+15-F-HB2-E-5,2015,Fall,Habonim2,Edge,5,0,3,0,NA,0,0,100,3,2,1
+15-F-HB2-E-6,2015,Fall,Habonim2,Edge,6,0,0,0,NA,0,0,100,3,2,1
+15-F-HB2-E-7,2015,Fall,Habonim2,Edge,7,0,0,0,NA,0,0,100,3,2,1
+15-F-HB2-E-8,2015,Fall,Habonim2,Edge,8,0,2,0,NA,0,0,100,3,2,1
+15-F-HB2-E-9,2015,Fall,Habonim2,Edge,9,0,1,0,NA,0,0,100,3,2,1
+15-F-HB2-E-10,2015,Fall,Habonim2,Edge,10,0,0,0,NA,0,0,100,3,2,1
+15-F-HB2-E-11,2015,Fall,Habonim2,Edge,11,0,2,0,NA,0,0,100,3,2,1
+15-F-HB2-E-12,2015,Fall,Habonim2,Edge,12,1,0,0,NA,0,0,100,3,2,1
+15-F-HB2-E-13,2015,Fall,Habonim2,Edge,13,3,4,0,NA,0,0,100,3,2,1
+15-F-HB2-E-14,2015,Fall,Habonim2,Edge,14,2,6,0,NA,0,0,100,3,2,1
+15-F-HB2-E-15,2015,Fall,Habonim2,Edge,15,0,0,0,NA,0,0,100,3,2,1
+15-F-HB2-C-1,2015,Fall,Habonim2,Center,1,0,20,0,NA,0,0,100,2,1,1
+15-F-HB2-C-2,2015,Fall,Habonim2,Center,2,1,15,0,NA,0,0,100,2,1,1
+15-F-HB2-C-3,2015,Fall,Habonim2,Center,3,1,10,0,NA,0,0,100,2,1,1
+15-F-HB2-C-4,2015,Fall,Habonim2,Center,4,0,0,5,NA,0,0,100,2,1,1
+15-F-HB2-C-5,2015,Fall,Habonim2,Center,5,0,0,2,NA,0,0,100,2,1,1
+15-F-HB2-C-6,2015,Fall,Habonim2,Center,6,0,0,0,NA,0,0,100,2,1,1
+15-F-HB2-C-7,2015,Fall,Habonim2,Center,7,0,0,0,NA,0,0,100,2,1,1
+15-F-HB2-C-8,2015,Fall,Habonim2,Center,8,0,0,0,NA,0,0,100,2,1,1
+15-F-HB2-C-9,2015,Fall,Habonim2,Center,9,0,0,0,NA,0,0,100,2,1,1
+15-F-HB2-C-10,2015,Fall,Habonim2,Center,10,0,0,0,NA,0,0,100,2,1,1
+15-F-HB2-C-11,2015,Fall,Habonim2,Center,11,0,0,0,NA,0,0,100,2,1,1
+15-F-HB2-C-12,2015,Fall,Habonim2,Center,12,0,0,0,NA,0,0,100,2,1,1
+15-F-HB2-C-13,2015,Fall,Habonim2,Center,13,0,0,5,NA,0,0,100,2,1,1
+15-F-HB2-C-14,2015,Fall,Habonim2,Center,14,0,0,2,NA,0,0,100,2,1,1
+15-F-HB2-C-15,2015,Fall,Habonim2,Center,15,0,0,5,NA,0,0,100,2,1,1
+15-F-SY-E-1,2015,Fall,Sdot-Yam,Edge,1,0,0.2,NA,NA,NA,NA,100,2,3,2
+15-F-SY-E-2,2015,Fall,Sdot-Yam,Edge,2,0,0,NA,NA,NA,NA,100,2,1,1
+15-F-SY-E-3,2015,Fall,Sdot-Yam,Edge,3,1,1,NA,NA,NA,NA,100,2,1,1
+15-F-SY-E-4,2015,Fall,Sdot-Yam,Edge,4,0,0.5,NA,NA,NA,NA,65,2,3,1
+15-F-SY-E-5,2015,Fall,Sdot-Yam,Edge,5,1,3,NA,NA,NA,NA,90,2,2,2
+15-F-SY-E-6,2015,Fall,Sdot-Yam,Edge,6,0,4,NA,NA,NA,NA,90,2,3,1
+15-F-SY-E-7,2015,Fall,Sdot-Yam,Edge,7,1,4,NA,NA,NA,NA,95,2,2,1
+15-F-SY-E-8,2015,Fall,Sdot-Yam,Edge,8,1,0,NA,NA,NA,NA,98,2,2,1
+15-F-SY-E-9,2015,Fall,Sdot-Yam,Edge,9,1,0,NA,NA,NA,NA,100,2,2,1
+15-F-SY-E-10,2015,Fall,Sdot-Yam,Edge,10,0,2,NA,NA,NA,NA,100,2,1,1
+15-F-SY-E-11,2015,Fall,Sdot-Yam,Edge,11,0,0,NA,NA,NA,NA,95,2,1,1
+15-F-SY-E-12,2015,Fall,Sdot-Yam,Edge,12,0,0,NA,NA,NA,NA,95,2,2,1
+15-F-SY-E-13,2015,Fall,Sdot-Yam,Edge,13,0,0,NA,NA,NA,NA,85,2,2,1
+15-F-SY-E-14,2015,Fall,Sdot-Yam,Edge,14,0,0,NA,NA,NA,NA,80,2,2,1
+15-F-SY-E-15,2015,Fall,Sdot-Yam,Edge,15,1,3,NA,NA,NA,NA,70,2,2,1
+15-F-SY-C-1,2015,Fall,Sdot-Yam,Center,1,0,0,0,NA,0,NA,100,1,1,1
+15-F-SY-C-2,2015,Fall,Sdot-Yam,Center,2,1,0,1,NA,1,NA,100,1,1,1
+15-F-SY-C-3,2015,Fall,Sdot-Yam,Center,3,1,1,0,NA,0,NA,100,1,1,1
+15-F-SY-C-4,2015,Fall,Sdot-Yam,Center,4,0,0,1,NA,1,NA,100,1,2,1
+15-F-SY-C-5,2015,Fall,Sdot-Yam,Center,5,0,0,1,NA,1,NA,100,1,1,1
+15-F-SY-C-6,2015,Fall,Sdot-Yam,Center,6,0,0,1,NA,0,NA,100,1,1,1
+15-F-SY-C-7,2015,Fall,Sdot-Yam,Center,7,0,3,0,NA,0,NA,100,1,1,1
+15-F-SY-C-8,2015,Fall,Sdot-Yam,Center,8,0,0,0,NA,0,NA,100,1,1,1
+15-F-SY-C-9,2015,Fall,Sdot-Yam,Center,9,0,1,1,NA,0,NA,100,1,1,1
+15-F-SY-C-10,2015,Fall,Sdot-Yam,Center,10,0,0,0,NA,0,NA,100,1,1,1
+15-F-SY-C-11,2015,Fall,Sdot-Yam,Center,11,2,2,0,NA,0,NA,100,1,1,1
+15-F-SY-C-12,2015,Fall,Sdot-Yam,Center,12,1,0,0,NA,0,NA,100,1,1,1
+15-F-SY-C-13,2015,Fall,Sdot-Yam,Center,13,0,0,0,NA,0,NA,100,1,1,1
+15-F-SY-C-14,2015,Fall,Sdot-Yam,Center,14,0,3,0,NA,0,NA,100,1,1,1
+15-F-SY-C-15,2015,Fall,Sdot-Yam,Center,15,0,1,0,NA,0,NA,100,1,1,1
+15-F-MC2-E-1,2015,Fall,Michmoret 2,Edge,1,2,1,0.5,NA,0,0,100,2,2,1
+15-F-MC2-E-2,2015,Fall,Michmoret 2,Edge,2,0,0,0,NA,0,0,90,2,2,2
+15-F-MC2-E-3,2015,Fall,Michmoret 2,Edge,3,0,0,0,NA,0,0,100,3,2,1
+15-F-MC2-E-4,2015,Fall,Michmoret 2,Edge,4,3,0,0,NA,0,0,90,2,2,1
+15-F-MC2-E-5,2015,Fall,Michmoret 2,Edge,5,1,0,0,NA,0,0,90,2,2,1
+15-F-MC2-E-6,2015,Fall,Michmoret 2,Edge,6,5,0,0,NA,0,0,100,2,2,2
+15-F-MC2-E-7,2015,Fall,Michmoret 2,Edge,7,0,0,0,NA,1,0,80,2,1,1
+15-F-MC2-E-8,2015,Fall,Michmoret 2,Edge,8,2,0,0,NA,0,0,90,3,4,1
+15-F-MC2-E-9,2015,Fall,Michmoret 2,Edge,9,2,0,0,NA,0,0,70,2,1,1
+15-F-MC2-E-10,2015,Fall,Michmoret 2,Edge,10,0,0,0,NA,0,0,90,2,1,1
+15-F-MC2-E-11,2015,Fall,Michmoret 2,Edge,11,0,0,0,NA,0,0,90,2,2,1
+15-F-MC2-E-12,2015,Fall,Michmoret 2,Edge,12,2,0,0,NA,0,0,90,2,1,1
+15-F-MC2-E-13,2015,Fall,Michmoret 2,Edge,13,1,0,0,NA,0,0,80,2,1,1
+15-F-MC2-E-14,2015,Fall,Michmoret 2,Edge,14,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-E-15,2015,Fall,Michmoret 2,Edge,15,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-1,2015,Fall,Michmoret 2,Center,1,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-2,2015,Fall,Michmoret 2,Center,2,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-3,2015,Fall,Michmoret 2,Center,3,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-4,2015,Fall,Michmoret 2,Center,4,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-5,2015,Fall,Michmoret 2,Center,5,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-6,2015,Fall,Michmoret 2,Center,6,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-7,2015,Fall,Michmoret 2,Center,7,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-8,2015,Fall,Michmoret 2,Center,8,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-9,2015,Fall,Michmoret 2,Center,9,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-10,2015,Fall,Michmoret 2,Center,10,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-11,2015,Fall,Michmoret 2,Center,11,2,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-12,2015,Fall,Michmoret 2,Center,12,0,0,0,NA,0,0,100,2,1,1
+15-F-MC2-C-13,2015,Fall,Michmoret 2,Center,13,0,0,0,NA,10,0,100,2,1,1
+15-F-MC2-C-14,2015,Fall,Michmoret 2,Center,14,2,0,0,NA,0,0,100,2,2,1
+15-F-MC2-C-15,2015,Fall,Michmoret 2,Center,15,2,0,0,NA,0,0,100,2,1,1
+15-F-BY-E-1,2015,Fall,Bat-Yam,Edge,1,0,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-2,2015,Fall,Bat-Yam,Edge,2,0,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-3,2015,Fall,Bat-Yam,Edge,3,0,0,NA,NA,NA,NA,100,3,2,1
+15-F-BY-E-4,2015,Fall,Bat-Yam,Edge,4,0,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-5,2015,Fall,Bat-Yam,Edge,5,0,0,NA,NA,NA,NA,100,4,1,1
+15-F-BY-E-6,2015,Fall,Bat-Yam,Edge,6,0,1,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-7,2015,Fall,Bat-Yam,Edge,7,0,1,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-8,2015,Fall,Bat-Yam,Edge,8,0,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-9,2015,Fall,Bat-Yam,Edge,9,0,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-10,2015,Fall,Bat-Yam,Edge,10,0,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-11,2015,Fall,Bat-Yam,Edge,11,0,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-12,2015,Fall,Bat-Yam,Edge,12,0,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-13,2015,Fall,Bat-Yam,Edge,13,0,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-14,2015,Fall,Bat-Yam,Edge,14,2,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-E-15,2015,Fall,Bat-Yam,Edge,15,0,0,NA,NA,NA,NA,100,3,1,1
+15-F-BY-C-1,2015,Fall,Bat-Yam,Center,1,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-2,2015,Fall,Bat-Yam,Center,2,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-3,2015,Fall,Bat-Yam,Center,3,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-4,2015,Fall,Bat-Yam,Center,4,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-5,2015,Fall,Bat-Yam,Center,5,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-6,2015,Fall,Bat-Yam,Center,6,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-7,2015,Fall,Bat-Yam,Center,7,1,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-8,2015,Fall,Bat-Yam,Center,8,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-9,2015,Fall,Bat-Yam,Center,9,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-10,2015,Fall,Bat-Yam,Center,10,1,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-11,2015,Fall,Bat-Yam,Center,11,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-12,2015,Fall,Bat-Yam,Center,12,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-13,2015,Fall,Bat-Yam,Center,13,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-14,2015,Fall,Bat-Yam,Center,14,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-BY-C-15,2015,Fall,Bat-Yam,Center,15,0,NA,NA,NA,NA,NA,100,2,1,1
+15-F-PL-E-1,2015,Fall,Palmachim,Edge,1,0,0,0,NA,0,0,100,2,1,1
+15-F-PL-E-2,2015,Fall,Palmachim,Edge,2,0,0,0,NA,0,0,70,2,1,1
+15-F-PL-E-3,2015,Fall,Palmachim,Edge,3,0,0,0,NA,0,0,90,2,1,1
+15-F-PL-E-4,2015,Fall,Palmachim,Edge,4,0,0,0,NA,0,0,100,2,1,1
+15-F-PL-E-5,2015,Fall,Palmachim,Edge,5,0,0,0,NA,0,0,90,2,1,1
+15-F-PL-E-6,2015,Fall,Palmachim,Edge,6,0,0,0,NA,0,0,100,2,1,1
+15-F-PL-E-7,2015,Fall,Palmachim,Edge,7,0,0,0,NA,0,0,100,2,1,1
+15-F-PL-E-8,2015,Fall,Palmachim,Edge,8,0,0,0,NA,0,0,100,2,1,1
+15-F-PL-E-9,2015,Fall,Palmachim,Edge,9,0,0,0,NA,0,0,100,1,1,1
+15-F-PL-E-10,2015,Fall,Palmachim,Edge,10,0,0,0,NA,0,0,100,2,1,1
+15-F-PL-E-11,2015,Fall,Palmachim,Edge,11,0,0,0,NA,0,0,100,2,1,1
+15-F-PL-E-12,2015,Fall,Palmachim,Edge,12,0,0,0,NA,0,0,100,2,3,1
+15-F-PL-E-13,2015,Fall,Palmachim,Edge,13,0,0,0,NA,0,0,100,2,1,1
+15-F-PL-E-14,2015,Fall,Palmachim,Edge,14,0,0,0,NA,0,0,100,2,2,1
+15-F-PL-E-15,2015,Fall,Palmachim,Edge,15,0,0,0,NA,0,0,100,2,2,1
+15-F-PL-C-1,2015,Fall,Palmachim,Center,1,0,1,0,NA,0,0,100,1,1,1
+15-F-PL-C-2,2015,Fall,Palmachim,Center,2,0,4,0,NA,0,0,100,1,1,1
+15-F-PL-C-3,2015,Fall,Palmachim,Center,3,0,0,0,NA,0,0,100,1,1,1
+15-F-PL-C-4,2015,Fall,Palmachim,Center,4,0,0,0,NA,0,0,100,1,1,1
+15-F-PL-C-5,2015,Fall,Palmachim,Center,5,0,1,0,NA,0,0,100,1,1,1
+15-F-PL-C-6,2015,Fall,Palmachim,Center,6,0,0,0,NA,0,0,100,1,1,1
+15-F-PL-C-7,2015,Fall,Palmachim,Center,7,0,0,0,NA,0,0,100,1,2,1
+15-F-PL-C-8,2015,Fall,Palmachim,Center,8,0,0,0,NA,0,0,100,1,1,1
+15-F-PL-C-9,2015,Fall,Palmachim,Center,9,0,0,0,NA,0,0,100,1,1,1
+15-F-PL-C-10,2015,Fall,Palmachim,Center,10,0,0,0,NA,0,0,100,1,1,1
+15-F-PL-C-11,2015,Fall,Palmachim,Center,11,0,0,0,NA,0,0,100,1,1,1
+15-F-PL-C-12,2015,Fall,Palmachim,Center,12,0,0,0,NA,0,0,100,1,1,1
+15-F-PL-C-13,2015,Fall,Palmachim,Center,13,0,0,0,NA,0,0,100,1,1,1
+15-F-PL-C-14,2015,Fall,Palmachim,Center,14,0,0,0,NA,0,0,50,1,1,1
+15-F-PL-C-15,2015,Fall,Palmachim,Center,15,0,0,0,NA,0,0,100,1,1,1
+16-F-RH-E-1,2016,Fall,Rosh Hanikra,Edge,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-2,2016,Fall,Rosh Hanikra,Edge,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-3,2016,Fall,Rosh Hanikra,Edge,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-4,2016,Fall,Rosh Hanikra,Edge,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-5,2016,Fall,Rosh Hanikra,Edge,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-6,2016,Fall,Rosh Hanikra,Edge,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-7,2016,Fall,Rosh Hanikra,Edge,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-8,2016,Fall,Rosh Hanikra,Edge,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-9,2016,Fall,Rosh Hanikra,Edge,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-10,2016,Fall,Rosh Hanikra,Edge,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-11,2016,Fall,Rosh Hanikra,Edge,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-12,2016,Fall,Rosh Hanikra,Edge,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-13,2016,Fall,Rosh Hanikra,Edge,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-14,2016,Fall,Rosh Hanikra,Edge,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-RH-E-15,2016,Fall,Rosh Hanikra,Edge,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AK-E-1,2016,Fall,Akhziv,Edge,1,2,0,0,NA,0,0,0,1,3,1
+16-F-AK-E-2,2016,Fall,Akhziv,Edge,2,1,0,0,NA,0,0,0,1,2,2
+16-F-AK-E-3,2016,Fall,Akhziv,Edge,3,0,0,0,NA,0,0,0,1,1,1
+16-F-AK-E-4,2016,Fall,Akhziv,Edge,4,0,0,0,NA,0,0,2,1,2,1
+16-F-AK-E-5,2016,Fall,Akhziv,Edge,5,5,0,0,NA,0,0,10,1,2,1
+16-F-AK-E-6,2016,Fall,Akhziv,Edge,6,0,10,0,NA,0,0,20,1,2,1
+16-F-AK-E-7,2016,Fall,Akhziv,Edge,7,3,0,0,NA,0,0,20,1,2,2
+16-F-AK-E-8,2016,Fall,Akhziv,Edge,8,0,0,0,NA,0,0,80,1,2,1
+16-F-AK-E-9,2016,Fall,Akhziv,Edge,9,0,0,0,NA,0,0,40,1,2,1
+16-F-AK-E-10,2016,Fall,Akhziv,Edge,10,2,0,0,NA,0,0,100,1,2,1
+16-F-AK-E-11,2016,Fall,Akhziv,Edge,11,1,5,0,NA,0,0,45,2,3,2
+16-F-AK-E-12,2016,Fall,Akhziv,Edge,12,0,15,0,NA,0,0,20,2,2,2
+16-F-AK-E-13,2016,Fall,Akhziv,Edge,13,0,1,0,NA,0,0,80,1,1,1
+16-F-AK-E-14,2016,Fall,Akhziv,Edge,14,0,0,0,NA,0,0,50,1,1,1
+16-F-AK-E-15,2016,Fall,Akhziv,Edge,15,0,15,0,NA,0,0,0,1,1,1
+16-F-AK-C-1,2016,Fall,Akhziv,Center,1,0,0,0,NA,80,0,100,1,1,1
+16-F-AK-C-2,2016,Fall,Akhziv,Center,2,0,0,0,NA,70,0,90,1,2,1
+16-F-AK-C-3,2016,Fall,Akhziv,Center,3,1,0,0,NA,60,0,60,1,2,2
+16-F-AK-C-4,2016,Fall,Akhziv,Center,4,0,0,0,NA,10,0,70,1,2,1
+16-F-AK-C-5,2016,Fall,Akhziv,Center,5,1,0,0,NA,0,0,90,1,1,1
+16-F-AK-C-6,2016,Fall,Akhziv,Center,6,2,0,0,NA,0,0,100,1,1,1
+16-F-AK-C-7,2016,Fall,Akhziv,Center,7,1,0,0,NA,0,0,100,1,1,1
+16-F-AK-C-8,2016,Fall,Akhziv,Center,8,0,0,0,NA,0,0,100,1,1,1
+16-F-AK-C-9,2016,Fall,Akhziv,Center,9,0,0,0,NA,0,0,100,1,1,1
+16-F-AK-C-10,2016,Fall,Akhziv,Center,10,2,0,0,NA,0,0,100,2,1,1
+16-F-AK-C-11,2016,Fall,Akhziv,Center,11,5,0,0,NA,0,0,30,1,1,1
+16-F-AK-C-12,2016,Fall,Akhziv,Center,12,0,0,0,NA,0,0,100,1,1,1
+16-F-AK-C-13,2016,Fall,Akhziv,Center,13,4,0,0,NA,0,0,100,1,1,1
+16-F-AK-C-14,2016,Fall,Akhziv,Center,14,2,0,0,NA,0,0,100,1,1,1
+16-F-AK-C-15,2016,Fall,Akhziv,Center,15,3,0,0,NA,0,0,60,1,2,2
+16-F-AC-E-1,2016,Fall,Akko2,Edge,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-2,2016,Fall,Akko2,Edge,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-3,2016,Fall,Akko2,Edge,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-4,2016,Fall,Akko2,Edge,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-5,2016,Fall,Akko2,Edge,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-6,2016,Fall,Akko2,Edge,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-7,2016,Fall,Akko2,Edge,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-8,2016,Fall,Akko2,Edge,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-9,2016,Fall,Akko2,Edge,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-10,2016,Fall,Akko2,Edge,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-11,2016,Fall,Akko2,Edge,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-12,2016,Fall,Akko2,Edge,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-13,2016,Fall,Akko2,Edge,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-14,2016,Fall,Akko2,Edge,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-E-15,2016,Fall,Akko2,Edge,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-1,2016,Fall,Akko2,Center,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-2,2016,Fall,Akko2,Center,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-3,2016,Fall,Akko2,Center,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-4,2016,Fall,Akko2,Center,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-5,2016,Fall,Akko2,Center,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-6,2016,Fall,Akko2,Center,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-7,2016,Fall,Akko2,Center,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-8,2016,Fall,Akko2,Center,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-9,2016,Fall,Akko2,Center,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-10,2016,Fall,Akko2,Center,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-11,2016,Fall,Akko2,Center,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-12,2016,Fall,Akko2,Center,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-13,2016,Fall,Akko2,Center,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-14,2016,Fall,Akko2,Center,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-AC-C-15,2016,Fall,Akko2,Center,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK-E-1,2016,Fall,Shikmona1,Edge,1,4,0,0,NA,0,0,0,1,1,1
+16-F-SK-E-2,2016,Fall,Shikmona1,Edge,2,4,1,0,NA,0,0,20,1,1,1
+16-F-SK-E-3,2016,Fall,Shikmona1,Edge,3,2,2,0,NA,0,0,50,1,2,1
+16-F-SK-E-4,2016,Fall,Shikmona1,Edge,4,1,1,0,NA,0,0,10,1,2,1
+16-F-SK-E-5,2016,Fall,Shikmona1,Edge,5,2,0,0,NA,0,0,0,1,1,1
+16-F-SK-E-6,2016,Fall,Shikmona1,Edge,6,1,0,0,NA,0,0,80,1,1,1
+16-F-SK-E-7,2016,Fall,Shikmona1,Edge,7,1,0,0,NA,0,0,100,1,2,2
+16-F-SK-E-8,2016,Fall,Shikmona1,Edge,8,1,0,0,NA,0,0,20,1,2,2
+16-F-SK-E-9,2016,Fall,Shikmona1,Edge,9,1,0,0,NA,0,0,60,1,2,1
+16-F-SK-E-10,2016,Fall,Shikmona1,Edge,10,2,0,0,NA,0,0,80,1,1,1
+16-F-SK-E-11,2016,Fall,Shikmona1,Edge,11,0,0,0,NA,0,0,100,1,2,2
+16-F-SK-E-12,2016,Fall,Shikmona1,Edge,12,1,0,0,NA,0,0,30,1,2,1
+16-F-SK-E-13,2016,Fall,Shikmona1,Edge,13,0,30,0,NA,0,0,100,1,4,1
+16-F-SK-E-14,2016,Fall,Shikmona1,Edge,14,4,0,0,NA,0,0,10,1,1,1
+16-F-SK-E-15,2016,Fall,Shikmona1,Edge,15,3,0,0,NA,0,0,20,1,2,1
+16-F-SK-C-1,2016,Fall,Shikmona1,Center,1,2,0,2,NA,0,0,100,1,2,1
+16-F-SK-C-2,2016,Fall,Shikmona1,Center,2,1,1,1,NA,0,0,100,1,2,1
+16-F-SK-C-3,2016,Fall,Shikmona1,Center,3,4,0,0,NA,1,0,100,1,2,1
+16-F-SK-C-4,2016,Fall,Shikmona1,Center,4,2,1,0,NA,0,0,60,1,2,1
+16-F-SK-C-5,2016,Fall,Shikmona1,Center,5,3,2,0,NA,0,0,70,1,3,1
+16-F-SK-C-6,2016,Fall,Shikmona1,Center,6,2,1,0,NA,0,0,75,1,2,1
+16-F-SK-C-7,2016,Fall,Shikmona1,Center,7,0,2,1,NA,0,0,100,1,2,1
+16-F-SK-C-8,2016,Fall,Shikmona1,Center,8,0,0,1,NA,0,0,100,1,1,1
+16-F-SK-C-9,2016,Fall,Shikmona1,Center,9,1,0,2,NA,0,0,100,1,2,1
+16-F-SK-C-10,2016,Fall,Shikmona1,Center,10,1,0,1,NA,0,0,90,1,1,1
+16-F-SK-C-11,2016,Fall,Shikmona1,Center,11,1,0,1,NA,0,0,100,1,1,1
+16-F-SK-C-12,2016,Fall,Shikmona1,Center,12,1,0,4,NA,0,0,100,1,1,1
+16-F-SK-C-13,2016,Fall,Shikmona1,Center,13,1,0,1,NA,0,0,100,1,1,1
+16-F-SK-C-14,2016,Fall,Shikmona1,Center,14,2,0,0,NA,5,0,100,1,1,1
+16-F-SK-C-15,2016,Fall,Shikmona1,Center,15,0,1,1,NA,0,0,100,1,1,1
+16-F-SK2-E-1,2016,Fall,Shikmona2,Edge,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-2,2016,Fall,Shikmona2,Edge,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-3,2016,Fall,Shikmona2,Edge,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-4,2016,Fall,Shikmona2,Edge,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-5,2016,Fall,Shikmona2,Edge,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-6,2016,Fall,Shikmona2,Edge,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-7,2016,Fall,Shikmona2,Edge,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-8,2016,Fall,Shikmona2,Edge,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-9,2016,Fall,Shikmona2,Edge,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-10,2016,Fall,Shikmona2,Edge,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-11,2016,Fall,Shikmona2,Edge,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-12,2016,Fall,Shikmona2,Edge,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-13,2016,Fall,Shikmona2,Edge,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-14,2016,Fall,Shikmona2,Edge,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-E-15,2016,Fall,Shikmona2,Edge,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-1,2016,Fall,Shikmona2,Center,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-2,2016,Fall,Shikmona2,Center,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-3,2016,Fall,Shikmona2,Center,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-4,2016,Fall,Shikmona2,Center,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-5,2016,Fall,Shikmona2,Center,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-6,2016,Fall,Shikmona2,Center,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-7,2016,Fall,Shikmona2,Center,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-8,2016,Fall,Shikmona2,Center,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-9,2016,Fall,Shikmona2,Center,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-10,2016,Fall,Shikmona2,Center,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-11,2016,Fall,Shikmona2,Center,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-12,2016,Fall,Shikmona2,Center,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-13,2016,Fall,Shikmona2,Center,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-14,2016,Fall,Shikmona2,Center,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-SK2-C-15,2016,Fall,Shikmona2,Center,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-1,2016,Fall,Habonim1,Edge,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-2,2016,Fall,Habonim1,Edge,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-3,2016,Fall,Habonim1,Edge,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-4,2016,Fall,Habonim1,Edge,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-5,2016,Fall,Habonim1,Edge,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-6,2016,Fall,Habonim1,Edge,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-7,2016,Fall,Habonim1,Edge,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-8,2016,Fall,Habonim1,Edge,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-9,2016,Fall,Habonim1,Edge,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-10,2016,Fall,Habonim1,Edge,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-11,2016,Fall,Habonim1,Edge,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-12,2016,Fall,Habonim1,Edge,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-13,2016,Fall,Habonim1,Edge,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-14,2016,Fall,Habonim1,Edge,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-E-15,2016,Fall,Habonim1,Edge,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-1,2016,Fall,Habonim1,Center,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-2,2016,Fall,Habonim1,Center,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-3,2016,Fall,Habonim1,Center,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-4,2016,Fall,Habonim1,Center,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-5,2016,Fall,Habonim1,Center,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-6,2016,Fall,Habonim1,Center,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-7,2016,Fall,Habonim1,Center,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-8,2016,Fall,Habonim1,Center,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-9,2016,Fall,Habonim1,Center,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-10,2016,Fall,Habonim1,Center,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-11,2016,Fall,Habonim1,Center,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-12,2016,Fall,Habonim1,Center,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-13,2016,Fall,Habonim1,Center,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-14,2016,Fall,Habonim1,Center,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB1-C-15,2016,Fall,Habonim1,Center,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-HB2-E-1,2016,Fall,Habonim2,Edge,1,0,0,0,NA,0,0,20,1,2,1
+16-F-HB2-E-2,2016,Fall,Habonim2,Edge,2,1,0,0,NA,0,0,20,1,2,1
+16-F-HB2-E-3,2016,Fall,Habonim2,Edge,3,0,0,0,NA,0,0,90,1,3,1
+16-F-HB2-E-4,2016,Fall,Habonim2,Edge,4,0,0,0,NA,0,0,20,1,2,1
+16-F-HB2-E-5,2016,Fall,Habonim2,Edge,5,0,0,0,NA,0,0,50,1,1,1
+16-F-HB2-E-6,2016,Fall,Habonim2,Edge,6,0,0,0,NA,0,0,70,1,1,1
+16-F-HB2-E-7,2016,Fall,Habonim2,Edge,7,0,0,0,NA,0,0,10,1,2,1
+16-F-HB2-E-8,2016,Fall,Habonim2,Edge,8,1,0,0,NA,0,0,40,1,1,1
+16-F-HB2-E-9,2016,Fall,Habonim2,Edge,9,0,0,0,NA,0,0,0,1,2,1
+16-F-HB2-E-10,2016,Fall,Habonim2,Edge,10,1,0,0,NA,0,0,5,1,2,1
+16-F-HB2-E-11,2016,Fall,Habonim2,Edge,11,0,0,0,NA,0,0,20,1,2,1
+16-F-HB2-E-12,2016,Fall,Habonim2,Edge,12,2,0,0,NA,0,0,20,1,2,1
+16-F-HB2-E-13,2016,Fall,Habonim2,Edge,13,0,0,0,NA,0,0,90,1,3,1
+16-F-HB2-E-14,2016,Fall,Habonim2,Edge,14,3,0,0,NA,0,0,20,1,2,1
+16-F-HB2-E-15,2016,Fall,Habonim2,Edge,15,1,0,0,NA,0,0,5,1,2,1
+16-F-HB2-C-1,2016,Fall,Habonim2,Center,1,2,0,0,NA,2,0,100,1,2,1
+16-F-HB2-C-2,2016,Fall,Habonim2,Center,2,2,1,0,NA,1,0,98,1,2,1
+16-F-HB2-C-3,2016,Fall,Habonim2,Center,3,3,3,0,NA,4,0,95,1,2,1
+16-F-HB2-C-4,2016,Fall,Habonim2,Center,4,1,1,3,NA,0,0,90,1,2,1
+16-F-HB2-C-5,2016,Fall,Habonim2,Center,5,1,1,5,NA,1,0,100,1,2,1
+16-F-HB2-C-6,2016,Fall,Habonim2,Center,6,2,0,1,NA,3,0,98,1,2,1
+16-F-HB2-C-7,2016,Fall,Habonim2,Center,7,5,2,2,NA,6,0,95,1,2,1
+16-F-HB2-C-8,2016,Fall,Habonim2,Center,8,1,0,0,NA,2,0,100,1,2,2
+16-F-HB2-C-9,2016,Fall,Habonim2,Center,9,2,8,1,NA,0,0,100,1,2,1
+16-F-HB2-C-10,2016,Fall,Habonim2,Center,10,1,1,0,NA,9,0,95,1,2,1
+16-F-HB2-C-11,2016,Fall,Habonim2,Center,11,3,2,0,NA,5,0,98,1,2,1
+16-F-HB2-C-12,2016,Fall,Habonim2,Center,12,1,7,1,NA,1,0,95,1,2,1
+16-F-HB2-C-13,2016,Fall,Habonim2,Center,13,1,3,1,NA,1,0,90,1,2,1
+16-F-HB2-C-14,2016,Fall,Habonim2,Center,14,0,1,1,NA,18,0,100,1,2,1
+16-F-HB2-C-15,2016,Fall,Habonim2,Center,15,2,4,0,NA,5,0,0,1,2,1
+16-F-SY-E-1,2016,Fall,Sdot-Yam,Edge,1,0,0,0,NA,0,0,75,1,4,1
+16-F-SY-E-2,2016,Fall,Sdot-Yam,Edge,2,0,1,0,NA,0,0,10,1,2,1
+16-F-SY-E-3,2016,Fall,Sdot-Yam,Edge,3,0,0.5,0,NA,0,0,0,1,1,1
+16-F-SY-E-4,2016,Fall,Sdot-Yam,Edge,4,0,1,0,NA,0,0,30,1,2,2
+16-F-SY-E-5,2016,Fall,Sdot-Yam,Edge,5,0,1.5,0,NA,0,0,0,1,1,2
+16-F-SY-E-6,2016,Fall,Sdot-Yam,Edge,6,0,1,0,NA,0,0,0,1,3,1
+16-F-SY-E-7,2016,Fall,Sdot-Yam,Edge,7,0,0,0,NA,0,0,5,1,3,3
+16-F-SY-E-8,2016,Fall,Sdot-Yam,Edge,8,0,1,0,NA,0,0,5,1,3,1
+16-F-SY-E-9,2016,Fall,Sdot-Yam,Edge,9,0,2,0,NA,0,0,0,1,2,2
+16-F-SY-E-10,2016,Fall,Sdot-Yam,Edge,10,0,0,0,NA,0,0,0,1,3,2
+16-F-SY-E-11,2016,Fall,Sdot-Yam,Edge,11,0,0,0,NA,0,0,15,1,4,1
+16-F-SY-E-12,2016,Fall,Sdot-Yam,Edge,12,0,0,0,NA,0,0,80,1,3,1
+16-F-SY-E-13,2016,Fall,Sdot-Yam,Edge,13,0,0,0,NA,0,0,10,1,3,3
+16-F-SY-E-14,2016,Fall,Sdot-Yam,Edge,14,0,1,0,NA,0,0,9,1,4,1
+16-F-SY-E-15,2016,Fall,Sdot-Yam,Edge,15,0,0,0,NA,0,0,0,1,3,1
+16-F-SY-C-1,2016,Fall,Sdot-Yam,Center,1,0,25,2,NA,0,0,95,1,2,1
+16-F-SY-C-2,2016,Fall,Sdot-Yam,Center,2,0,15,1,NA,0,0,99,1,2,1
+16-F-SY-C-3,2016,Fall,Sdot-Yam,Center,3,4,0,0,NA,0,0,70,1,2,1
+16-F-SY-C-4,2016,Fall,Sdot-Yam,Center,4,1,5,0,NA,0,0,60,1,2,1
+16-F-SY-C-5,2016,Fall,Sdot-Yam,Center,5,0,65,0,NA,0,0,100,1,2,1
+16-F-SY-C-6,2016,Fall,Sdot-Yam,Center,6,0,25,0,NA,0,0,100,1,2,1
+16-F-SY-C-7,2016,Fall,Sdot-Yam,Center,7,3,0,0,NA,0,0,100,1,1,1
+16-F-SY-C-8,2016,Fall,Sdot-Yam,Center,8,0,25,0,NA,0,0,95,1,1,1
+16-F-SY-C-9,2016,Fall,Sdot-Yam,Center,9,3,20,0,NA,0,0,100,1,1,1
+16-F-SY-C-10,2016,Fall,Sdot-Yam,Center,10,1,15,0,NA,0,0,98,1,1,1
+16-F-SY-C-11,2016,Fall,Sdot-Yam,Center,11,2,30,0,NA,0,0,100,1,1,1
+16-F-SY-C-12,2016,Fall,Sdot-Yam,Center,12,1,10,0,NA,0,0,98,1,2,1
+16-F-SY-C-13,2016,Fall,Sdot-Yam,Center,13,4,20,0,NA,0,0,100,1,2,1
+16-F-SY-C-14,2016,Fall,Sdot-Yam,Center,14,0,15,0,NA,0,0,100,1,1,1
+16-F-SY-C-15,2016,Fall,Sdot-Yam,Center,15,1,25,2,NA,0,0,100,1,2,1
+16-F-MC2-E-1,2016,Fall,Michmoret 2,Edge,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-2,2016,Fall,Michmoret 2,Edge,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-3,2016,Fall,Michmoret 2,Edge,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-4,2016,Fall,Michmoret 2,Edge,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-5,2016,Fall,Michmoret 2,Edge,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-6,2016,Fall,Michmoret 2,Edge,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-7,2016,Fall,Michmoret 2,Edge,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-8,2016,Fall,Michmoret 2,Edge,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-9,2016,Fall,Michmoret 2,Edge,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-10,2016,Fall,Michmoret 2,Edge,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-11,2016,Fall,Michmoret 2,Edge,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-12,2016,Fall,Michmoret 2,Edge,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-13,2016,Fall,Michmoret 2,Edge,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-14,2016,Fall,Michmoret 2,Edge,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-E-15,2016,Fall,Michmoret 2,Edge,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-1,2016,Fall,Michmoret 2,Center,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-2,2016,Fall,Michmoret 2,Center,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-3,2016,Fall,Michmoret 2,Center,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-4,2016,Fall,Michmoret 2,Center,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-5,2016,Fall,Michmoret 2,Center,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-6,2016,Fall,Michmoret 2,Center,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-7,2016,Fall,Michmoret 2,Center,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-8,2016,Fall,Michmoret 2,Center,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-9,2016,Fall,Michmoret 2,Center,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-10,2016,Fall,Michmoret 2,Center,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-11,2016,Fall,Michmoret 2,Center,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-12,2016,Fall,Michmoret 2,Center,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-13,2016,Fall,Michmoret 2,Center,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-14,2016,Fall,Michmoret 2,Center,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-MC2-C-15,2016,Fall,Michmoret 2,Center,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16-F-BY-E-1,2016,Fall,Bat-Yam,Edge,1,0,0,0,NA,0,0,100,3,1,1
+16-F-BY-E-2,2016,Fall,Bat-Yam,Edge,2,0,0,0,NA,0,0,100,3,1,1
+16-F-BY-E-3,2016,Fall,Bat-Yam,Edge,3,0,0,0,NA,0,0,100,3,2,1
+16-F-BY-E-4,2016,Fall,Bat-Yam,Edge,4,0,0,0,NA,0,0,100,3,2,1
+16-F-BY-E-5,2016,Fall,Bat-Yam,Edge,5,0,0,0,NA,0,0,100,4,1,1
+16-F-BY-E-6,2016,Fall,Bat-Yam,Edge,6,0,0,0,NA,0,0,100,2,2,1
+16-F-BY-E-7,2016,Fall,Bat-Yam,Edge,7,0,0,0,NA,0,0,100,2,1,2
+16-F-BY-E-8,2016,Fall,Bat-Yam,Edge,8,0,0,0,NA,0,0,100,2,2,1
+16-F-BY-E-9,2016,Fall,Bat-Yam,Edge,9,0,0,0,NA,0,0,100,2,1,1
+16-F-BY-E-10,2016,Fall,Bat-Yam,Edge,10,0,0,0,NA,0,0,100,2,1,2
+16-F-BY-E-11,2016,Fall,Bat-Yam,Edge,11,0,2,0,NA,0,0,100,2,3,2
+16-F-BY-E-12,2016,Fall,Bat-Yam,Edge,12,0,0,0,NA,0,0,100,3,1,1
+16-F-BY-E-13,2016,Fall,Bat-Yam,Edge,13,0,0,0,NA,0,0,100,2,1,1
+16-F-BY-E-14,2016,Fall,Bat-Yam,Edge,14,0,0,0,NA,0,0,100,3,2,1
+16-F-BY-E-15,2016,Fall,Bat-Yam,Edge,15,0,3,0,NA,0,0,100,2,2,2
+16-F-BY-C-1,2016,Fall,Bat-Yam,Center,1,0,0,0,NA,2,0,100,1,2,1
+16-F-BY-C-2,2016,Fall,Bat-Yam,Center,2,0,0,0,NA,0,0,100,1,1,1
+16-F-BY-C-3,2016,Fall,Bat-Yam,Center,3,0,0,0,NA,0,0,100,1,2,1
+16-F-BY-C-4,2016,Fall,Bat-Yam,Center,4,0,1,0,NA,0,0,100,1,2,1
+16-F-BY-C-5,2016,Fall,Bat-Yam,Center,5,0,0,0,NA,0,0,100,2,1,1
+16-F-BY-C-6,2016,Fall,Bat-Yam,Center,6,0,0,0,NA,0,0,100,1,1,1
+16-F-BY-C-7,2016,Fall,Bat-Yam,Center,7,0,1,0,NA,0,0,100,2,1,1
+16-F-BY-C-8,2016,Fall,Bat-Yam,Center,8,0,0,0,NA,0,0,100,2,1,1
+16-F-BY-C-9,2016,Fall,Bat-Yam,Center,9,0,0,0,NA,0,0,100,1,2,1
+16-F-BY-C-10,2016,Fall,Bat-Yam,Center,10,0,0,0,NA,0,0,100,1,1,1
+16-F-BY-C-11,2016,Fall,Bat-Yam,Center,11,0,0,0,NA,0,0,100,1,1,1
+16-F-BY-C-12,2016,Fall,Bat-Yam,Center,12,0,0,0,NA,0,0,100,1,2,2
+16-F-BY-C-13,2016,Fall,Bat-Yam,Center,13,0,0,0,NA,0,0,100,1,1,1
+16-F-BY-C-14,2016,Fall,Bat-Yam,Center,14,0,0,0,NA,0,0,100,1,2,1
+16-F-BY-C-15,2016,Fall,Bat-Yam,Center,15,0,0,0,NA,0,0,100,1,2,1
+16-F-PL-E-1,2016,Fall,Palmachim,Edge,1,0,1,0,NA,0,0,30,1,2,1
+16-F-PL-E-2,2016,Fall,Palmachim,Edge,2,0,0,0,NA,0,0,30,1,2,1
+16-F-PL-E-3,2016,Fall,Palmachim,Edge,3,0,0,0,NA,0,0,20,1,2,1
+16-F-PL-E-4,2016,Fall,Palmachim,Edge,4,0,0,0,NA,0,0,40,1,2,1
+16-F-PL-E-5,2016,Fall,Palmachim,Edge,5,1,0,0,NA,0,0,90,2,2,1
+16-F-PL-E-6,2016,Fall,Palmachim,Edge,6,0,0,0,NA,0,0,100,1,1,1
+16-F-PL-E-7,2016,Fall,Palmachim,Edge,7,1,0,0,NA,0,0,80,1,2,2
+16-F-PL-E-8,2016,Fall,Palmachim,Edge,8,0,3,0,NA,0,0,90,2,2,1
+16-F-PL-E-9,2016,Fall,Palmachim,Edge,9,0,0,0,NA,0,0,70,2,2,1
+16-F-PL-E-10,2016,Fall,Palmachim,Edge,10,0,0,0,NA,0,0,0,1,2,1
+16-F-PL-E-11,2016,Fall,Palmachim,Edge,11,0,0,0,NA,0,0,100,3,2,1
+16-F-PL-E-12,2016,Fall,Palmachim,Edge,12,10,0,0,NA,0,0,70,2,3,1
+16-F-PL-E-13,2016,Fall,Palmachim,Edge,13,0,1,0,NA,0,0,100,2,2,1
+16-F-PL-E-14,2016,Fall,Palmachim,Edge,14,0,0,0,NA,0,0,80,1,2,1
+16-F-PL-E-15,2016,Fall,Palmachim,Edge,15,1,0,0,NA,0,0,95,1,3,2
+16-F-PL-C-1,2016,Fall,Palmachim,Center,1,0,3,0,NA,0,0,0,1,1,1
+16-F-PL-C-2,2016,Fall,Palmachim,Center,2,0,0,0,NA,0,0,35,1,1,1
+16-F-PL-C-3,2016,Fall,Palmachim,Center,3,0,5,0,NA,0,0,100,1,1,1
+16-F-PL-C-4,2016,Fall,Palmachim,Center,4,0,0,0,NA,0,0,95,1,1,1
+16-F-PL-C-5,2016,Fall,Palmachim,Center,5,0,0,0,NA,0,0,0,1,1,1
+16-F-PL-C-6,2016,Fall,Palmachim,Center,6,0,0,0,NA,0,0,2,1,1,1
+16-F-PL-C-7,2016,Fall,Palmachim,Center,7,0,0,0,NA,0,0,100,1,1,1
+16-F-PL-C-8,2016,Fall,Palmachim,Center,8,0,0,0,NA,0,0,100,1,2,1
+16-F-PL-C-9,2016,Fall,Palmachim,Center,9,0,0,0,NA,0,0,100,1,1,1
+16-F-PL-C-10,2016,Fall,Palmachim,Center,10,0,0,0,NA,0,0,95,1,2,1
+16-F-PL-C-11,2016,Fall,Palmachim,Center,11,0,0,0,NA,0,0,20,1,2,1
+16-F-PL-C-12,2016,Fall,Palmachim,Center,12,0,0,0,NA,0,0,90,1,3,1
+16-F-PL-C-13,2016,Fall,Palmachim,Center,13,0,0,0,NA,0,0,0,1,1,1
+16-F-PL-C-14,2016,Fall,Palmachim,Center,14,0,0,0,NA,0,0,0,1,1,1
+16-F-PL-C-15,2016,Fall,Palmachim,Center,15,0,0,0,NA,0,0,0,1,2,1

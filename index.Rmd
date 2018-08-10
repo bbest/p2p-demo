@@ -1,0 +1,252 @@
+---
+title: "P2P Data Wrangling Demo using Gil's Israel Quadrat Dataset"
+author: "Ben Best"
+date: "8/3/2018"
+output:
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = T, eval = T, message = F, warning = F)
+```
+
+## Goals
+
+Procedures:
+
+1. Read in Excel data
+1. Wrangle tables
+1. Plot map
+1. Plot timeseries
+1. Push to website
+
+## Read Excel Spreadsheet
+
+```{r, eval=T, message=F}
+# load libraries
+library(tidyverse)  # tibble, dplyr, tidyr, ggplot2, ...
+library(readxl)     # import xls
+library(here)       # look for *.Rproj
+
+xlsx <- here::here("data/raw/Israel sites fall 2015-16.xlsx")
+
+d <- readxl::read_excel(xlsx)
+d %>% head(100) %>% DT::datatable()
+```
+
+## Species
+
+```{r}
+spp <- read_excel(xlsx, range="A1:DF636") %>%  
+  slice(c(623:635)) %>%
+  gather(key = header, value = val, -Unique_Code) %>%
+  spread(Unique_Code, val) %>%
+  select(
+    spp_id=Index, header, ID_Aphia, ID_NCBI, Method,
+    Kingdom, Phylum, Subphylum, Class, Subclass, Order, Family, Genus,
+    Author)
+spp %>% head(100) %>% DT::datatable()
+```
+
+### Match Species to WoRMS ID
+
+- [rOpenSci | taxize tutorial](https://ropensci.org/tutorials/taxize_tutorial/)
+
+```{r}
+library(taxize)
+library(fs)
+
+View(spp)
+taxa_csv <- here("data/clean/taxa.csv")
+
+w <- get_wormsid(spp$spp_id, ask = FALSE)
+
+w
+```
+
+```{r}
+# get_wormsid() is time consuming, so cache output
+if (!file_exists(taxa_csv)){
+
+  taxa <- spp %>%
+    mutate(
+      worms_id  = get_wormsid(spp_id, ask = FALSE))  
+  
+  write_csv(taxa, taxa_csv)
+} else {
+  taxa <- read_csv(taxa_csv, col_type = cols())
+}
+
+
+
+# TODO: answer prompts (ask = TRUE) to resolve multiple options
+taxa_tomatch <- taxa %>% 
+  filter(is.na(worms_id)) %>%
+  mutate(
+      worms_id  = get_wormsid(GenusSpecies, ask = TRUE))
+
+get_worms_class <- function(worms_id){
+  message(glue("worms_id: {worms_id}"))
+  if (is.na(worms_id)) return(NA)
+  classification(worms_id, db="worms")[[1]] %>% tail(1)
+}
+
+taxa %>%
+  mutate(
+    worms_class = map_df(worms_id, get_worms_class))
+
+classification(taxa$wormsid[1], db="worms")[[1]] %>% tail(1)
+
+#taxa$wormsid <- get_wormsid(taxa$GenusSpecies)
+#taxa$wormsid <- get_wormsid(taxa$query)
+#taxa$wormsid <- get_wormsid(taxa$query, ask = FALSE)
+
+#table(!is.na(taxa$wormsid))
+taxa %>%
+  arrange(!is.na(wormsid), GenusSpecies) %>%
+  datatable()
+```
+
+- out: [data/taxa.csv](https://github.com/bbest/ioos-bio-tidyr/blob/gh-pages/data/taxa.csv)
+
+
+## Observations
+
+```{r}
+obs <- read_excel(xlsx, range="A1:DF616") %>%
+  gather(key = spp_id, value = n, -Unique_Code) %>%
+  rename(
+    qrt_id = Unique_Code) %>%
+  filter(
+    !is.na(n), 
+    n > 0)
+obs %>% head(100) %>% DT::datatable()
+```
+
+## Summary of observations by species
+
+```{r}
+obs_sum <- obs %>%
+  group_by(spp_id) %>%
+  summarize(
+    n_max = max(n),
+    n_avg = mean(n),
+    n_sum = sum(n),
+    n_sd  = sd(n),
+    n_obs = n())
+obs_sum %>% head(100) %>% DT::datatable()
+```
+
+### Questions
+
+Try creating code to answer the following questions:
+
+1. What's the most abundant species, ie total individuals across all observations?
+1. What's the most common species, ie occurs most frequently?
+
+## Quadrats
+
+```{r}
+qrt <- read_excel(xlsx, range="A1:EC616") %>%
+  select(
+    qrt_id = Unique_Code, 
+    Year, Season, site_id = Site_name, Trans_Type, Qrt_serial, 
+    starts_with("Parameters"))
+qrt %>% head(100) %>% DT::datatable()
+```
+
+### Sites
+
+```{r}
+library(ggmap)
+library(stringr)
+library(glue)
+
+sites <- tibble(
+    site_id=unique(qrt$site_id)) %>%
+  mutate(
+    loc_id = str_replace_all(site_id, "[0-9]", "") %>%
+      str_replace_all("-", " ") %>% str_trim(),
+    loc_isr = glue("{loc_id}, Israel") %>% as.character())
+sites %>% head(100) %>% DT::datatable()
+```
+
+#### Locations
+
+```{r}
+locs <- sites %>%
+  distinct(loc_id, loc_isr) %>%
+  mutate(
+    lon = NA)
+
+while (nrow(filter(locs, is.na(lon))) > 0){
+  locs_na <- locs %>%
+    filter(is.na(lon)) %>%
+    select(loc_id, loc_isr)
+  
+  locs <- locs %>%
+    filter(!is.na(lon)) %>%
+    bind_rows(
+      locs_na %>%
+        bind_cols(
+          geocode(locs_na$loc_isr, output="more", source="google")))
+  
+  Sys.sleep(1)
+}
+locs %>% head(100) %>% DT::datatable()
+```
+
+#### Map of locations
+
+```{r}
+library(leaflet)
+
+leaflet(locs) %>%
+  addProviderTiles(providers$Esri.OceanBasemap) %>%
+  addMarkers(lng = ~lon, lat = ~lat, label = ~loc_id)
+```
+
+## Relationships between tables
+
+```{r}
+library(datamodelr) # devtools::install_github("bergant/datamodelr")
+
+dm <- dm_read_yaml(here("data/Israel_datamodelr.yml"))
+graph <- dm_create_graph( 
+  dm, 
+  graph_attrs = "rankdir = RL", 
+  edge_attrs = "dir = both, arrowtail = crow, arrowhead = tee", 
+  node_attrs = "fontname = 'Arial'")
+dm_render_graph(graph)
+```
+
+## Write to CSV
+
+```{r}
+tbl_to_csv <- function(tbl, dir = here("data/clean")){
+  get(tbl) %>%
+    write_csv(glue("{dir}/{tbl}.csv"))
+}
+
+sapply(c("spp", "obs", "obs_sum", "qrt", "sites", "locs"), tbl_to_csv)
+```
+
+
+
+## Wrangle to Darwin Core
+
+TODO
+
+## Basic Plots
+
+TODO
+
+### Boxplot between years & species
+
+TODO
+
+
+
