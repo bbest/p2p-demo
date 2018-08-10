@@ -1,7 +1,7 @@
 grid_to_raster <- function (grid, var) {
   # original: plotdap:::get_raster
   # grid <- sst_grid
-  library(magrittr)
+  #library(magrittr)
   
   times <- grid$summary$dim$time$vals
   lats <- grid$summary$dim$latitude$vals

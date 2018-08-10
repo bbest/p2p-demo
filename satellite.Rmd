@@ -89,7 +89,7 @@ leaflet() %>%
 ```{r}
 v <- griddap(
   sst_info,
-  longitude = c(pt$y, pt$y), latitude = c(pt$x, pt$x), 
+  longitude = c(pt$x, pt$x), latitude = c(pt$y, pt$y), 
   time = c("2002-06-16", "2018-07-16"), fields = "sst")
 
 v$data %>% head() %>% knitr::kable()

@@ -32,6 +32,9 @@ library(readxl)     # import xls
 library(here)       # look for *.Rproj
 
 xlsx <- here::here("data/raw/Israel sites fall 2015-16.xlsx")
+#xlsx <- "data/raw/Israel sites fall 2015-16.xlsx"
+file.exists(xlsx)
+getwd()
 
 d <- readxl::read_excel(xlsx)
 d %>% head(100) %>% DT::datatable()
